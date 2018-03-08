@@ -12,6 +12,6 @@ Relations:
 Contributors: Yavrumyan, Marat M.
 Contact: myavrum@ysu.am
 ===============================================================================
-Data contributors: Yavrumyan, Marat M.
+Data contributors: Yavrumyan, Marat M.; Khachatrian, Hrant H.; Danielyan, Anna S.; Arakelyan, Gor D.
 Documentation contributors: Yavrumyan, Marat M.; Danielyan, Anna S.
 https://github.com/armtreebank
