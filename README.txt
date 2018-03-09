@@ -6,7 +6,7 @@ by the ArmTDP team led by Marat M. Yavrumyan at the Yerevan State University.
 
 ### Introduction
 
-UD_Armenian is based on the ՀայՇտեմ-ArmTDP-East dataset (version 1.0), a mix of random sentences sampled from different sources and representing different genres and domains, released in several formats (local on-line newspaper and journal articles, contemporary fiction dated between 1980 and 2018).
+UD_Armenian is based on the ՀայՇտեմ-ArmTDP-East dataset (version 1.0), a mix of random sentences sampled from different sources and representing different genres and domains, released in several formats (local on-line newspaper and journal articles, contemporary fiction dated between 1976 and 2018).
 
 The annotation scheme was developed in according to the UD guidelines. All data were checked manually. The tokenization and POS-tagging process was carried out through alternating steps of automatic scripting and manual revision, and finally with some out-of-domain parsing modules in the YerevaNN research lab. Parsing results also underwent a manual revision.
 
