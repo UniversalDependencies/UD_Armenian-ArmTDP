@@ -35,7 +35,7 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 
 # Data split
 
-Data is split between train and test. There are no larger treebanks of Eastern Armenian and we have kept almost everything as test data but set aside a small sample as “train”. This includes also the translated and annotated 20 examples from the Cairo Cicling Corpus (CCC).
+Data is split between train and test. There are no larger treebanks of Eastern Armenian and we have kept almost everything as test data but set aside a small sample as “train”. This includes also the translated and annotated 20 examples from the [Cairo Cicling Corpus](https://github.com/UniversalDependencies/cairo/blob/master/translations.txt) (CCC).
 
 
 # Format
