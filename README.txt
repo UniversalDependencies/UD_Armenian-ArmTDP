@@ -43,15 +43,15 @@ Data is split between train and test. There are no larger treebanks of Eastern A
 
 UD Armenian data conforms to [CoNLL-U](http://universaldependencies.org/format.html) format with the following specifics:
 * Sentence-level comments:
-  * Document boundaries are present as `# newdoc id = xxxx`.
-  * Sentence-level paragraph boundaries are present as `# newpar id = xxxx`.
-  * Document titles are present as `# doc_title = Ագռավները.fiction`.
+  * Document titles are present as `# doc_title = Ագռավները`.
+  * Document boundaries are present as `# newdoc id = fiction/news-xxxx`.
+  * Sentence-level paragraph boundaries are present as `# newpar id = newdoc-xxxx`.
+  * Sentence boundaries are present as `# sent_id = newdoc-newparxxxx`
 * XPOSTAG column is currently unused.
 * No enhanced dependencies or empty nodes present in DEPS column.
 * MISC column:
   * `SpaceAfter=No` markers are present.
 * Document, paragraph, sentence, and token ids are 4-character base-32 numbers. They survive treebank updates.
-
 
 ### Contact
 
