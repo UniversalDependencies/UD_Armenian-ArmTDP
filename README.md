@@ -39,7 +39,7 @@ Data is split between train and test. There are no larger treebanks of Eastern A
 
 UD_Armenian data conforms to [CoNLL-U](http://universaldependencies.org/format.html) format with the following specifics:
 * Sentence-level comments:
-  * Document titles are present as `# doc_title = Ագռավները`.
+  * Document titles are present as `# doc_title = Ագռավները Նոյից առաջ`.
   * Document boundaries are present as `# newdoc id = fiction/news-xxxx`.
   * Sentence-level paragraph boundaries are present as `# newpar id = newdoc-xxxx`.
   * Sentence boundaries are present as `# sent_id = newdoc-newparxxxx`
@@ -53,7 +53,7 @@ UD_Armenian data conforms to [CoNLL-U](http://universaldependencies.org/format.h
 # Changelog
 
 * 2018-30-03 **v2.1**
-  * First release in UD containing ---K tokens of news examples and fiction.
+  * First release in UD containing 12216 tokens of news examples and fiction.
 
 
 === Machine-readable metadata (DO NOT REMOVE!) ================================
