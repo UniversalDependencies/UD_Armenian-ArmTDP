@@ -1,6 +1,6 @@
 # Summary
 
-Gold-standard Universal Dependencies corpus for Eastern Armenian, developed for UD version 2.2 originally by the ArmTDP team led by Marat M. Yavrumyan at the Yerevan State University.
+Universal Dependencies corpus for Eastern Armenian, developed for UD version 2.2 originally by the ArmTDP team led by Marat M. Yavrumyan at the Yerevan State University.
 
 
 # Introduction
@@ -55,7 +55,7 @@ UD_Armenian data conforms to [CoNLL-U](http://universaldependencies.org/format.h
 * 2018-30-03 **v2.2**
   * First release in UD containing 12213 tokens of news examples and fiction.
 
-
+```
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.2
 License: CC BY-SA 4.0
@@ -73,3 +73,4 @@ Contact: myavrum@ysu.am
 ===============================================================================
 Documentation contributors: Yavrumyan, Marat M.; Danielyan, Anna S.
 https://github.com/armtreebank
+```
