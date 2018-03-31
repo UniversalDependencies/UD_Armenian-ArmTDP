@@ -1,0 +1,1057 @@
+# doc_title = Ավազուտների կինը
+# newdoc id = fiction-004N
+# newpar id = fiction-004N-0004
+# sent_id = fiction-004N-00040AU2
+# text = Կնոջ վարքագծում նույնպես նկատելի փոփոխություն տեղի ունեցավ։
+1	Կնոջ	կին	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	2	nmod:poss	_	_
+2	վարքագծում	վարքագիծ	NOUN	_	Animacy=Inan|Case=Loc|Definite=Ind|Number=Sing	7	obl	_	_
+3	նույնպես	նույնպես	ADV	_	PronType=Dem	2	advmod:emph	_	_
+4	նկատելի	նկատելի	ADJ	_	Degree=Pos	5	amod	_	_
+5	փոփոխություն	փոփոխություն	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	7	nsubj	_	_
+6	տեղի	տեղի	ADV	_	Style=Arch	7	compound:lvc	_	_
+7	ունեցավ	ունենալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+8	։	։	PUNCT	_	_	7	punct	_	_
+
+# doc_title = Ուղիղ ճանապարհ դեպի ռադիկալացում. 2016-ի հուլիսը կարող է կրկնվել
+# newdoc id = news-004M
+# newpar id = news-004M-0007
+# sent_id = news-004M-00070ATC
+# text = Երկու դեպքում էլ տեսանք, թե ինչ եղավ հետո:
+1	Երկու	երկու	NUM	_	NumForm=Word|NumType=Card	2	nummod	_	_
+2	դեպքում	դեպք	NOUN	_	Animacy=Inan|Case=Loc|Definite=Ind|Number=Sing	4	obl	_	_
+3	էլ	էլ	PART	_	_	2	advmod:emph	_	_
+4	տեսանք	տեսնել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	mark	_	_
+6	թե	թե	SCONJ	_	_	8	mark	_	_
+7	ինչ	ինչ	PRON	_	Case=Nom|Number=Sing|PronType=Int	8	obj	_	_
+8	եղավ	լինել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	4	ccomp	_	_
+9	հետո	հետո	ADV	_	_	8	advmod	_	SpaceAfter=No
+10	:	:	PUNCT	_	_	4	punct	_	_
+
+# doc_title = Գեղեցիկ կնոջ կաղապարը
+# newdoc id = fiction-004L
+# newpar id = fiction-004L-0005
+# sent_id = fiction-004L-00050AS0
+# text = — Պաղպաղակ կերեք, տետրակ առեք։
+1	—	—	PUNCT	_	_	3	punct	_	_
+2	Պաղպաղակ	պաղպաղակ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	3	obj	_	_
+3	կերեք	ուտել	VERB	_	Aspect=Prosp|Mood=Imp|Number=Plur|Person=2|Subcat=Tran|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	տետրակ	տետրակ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	6	obj	_	_
+6	առեք	առնել	VERB	_	Aspect=Prosp|Mood=Imp|Number=Plur|Person=2|Subcat=Tran|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No
+7	։	։	PUNCT	_	_	3	punct	_	_
+
+# doc_title = Տոնապետ
+# newdoc id = fiction-004K
+# newpar id = fiction-004K-0001
+# sent_id = fiction-004K-00010ARJ
+# text = Հարգանք նրանց վեհ առաքելությանը։
+1	Հարգանք	հարգանք	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	0	root	_	_
+2	նրանց	նա	DET	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	_
+3	վեհ	վեհ	ADJ	_	Degree=Pos	4	amod	_	_
+4	առաքելությանը	առաքելություն	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Sing	1	obj	_	SpaceAfter=No
+5	։	։	PUNCT	_	_	1	punct	_	_
+
+# doc_title = CICLing
+# newdoc id = fiction-004J
+# newpar id = fiction-004J-0001
+# sent_id = fiction-004J-00010APN
+# text = Աղջիկը նամակ գրեց իր ընկերոջը։
+1	Աղջիկը	աղջիկ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	_
+2	նամակ	նամակ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	3	obj	_	_
+3	գրեց	գրել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	իր	ինքը	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	5	det:poss	_	_
+5	ընկերոջը	ընկեր	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	3	iobj	_	SpaceAfter=No
+6	։	։	PUNCT	_	_	3	punct	_	_
+
+# sent_id = fiction-004J-00010APO
+# text = Կարծում եմ, որ անձրև է գալիս։
+1	Կարծում	կարծել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	_
+2	եմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	որ	որ	SCONJ	_	_	7	mark	_	_
+5	անձրև	անձրև	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	7	nsubj	_	_
+6	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	գալիս	գալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	1	ccomp	_	SpaceAfter=No
+8	։	։	PUNCT	_	_	1	punct	_	_
+
+# sent_id = fiction-004J-00010APP
+# text = Նա փորձեց թողնել ծխելն ու խմելը։
+1	Նա	նա	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	փորձեց	փորձել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	թողնել	թողնել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+4	ծխելն	ծխել	VERB	_	Case=Nom|Definite=Def|Number=Coll|Polarity=Pos|Subcat=Tran|VerbForm=Gdv|Voice=Act	3	xcomp	_	_
+5	ու	ու	CCONJ	_	_	6	cc	_	_
+6	խմելը	խմել	VERB	_	Case=Nom|Definite=Def|Number=Coll|Polarity=Pos|Subcat=Tran|VerbForm=Gdv|Voice=Act	4	conj	_	SpaceAfter=No
+7	։	։	PUNCT	_	_	2	punct	_	_
+
+# sent_id = fiction-004J-00010APQ
+# text = Ուզում ես գնա՞լ։
+1	Ուզում	ուզել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	_
+2	ես	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	_
+3-4	գնա՞լ	_	_	_	_	_	_	_	SpaceAfter=No
+3	գնալ	գնալ	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	1	xcomp	_	_
+4	՞	՞	PUNCT	_	_	3	punct	_	_
+5	։	։	PUNCT	_	_	1	punct	_	_
+
+# sent_id = fiction-004J-00010APR
+# text = Սե՛մ, բա՛ց պատուհանը։
+1-2	Սե՛մ	_	_	_	_	_	_	_	SpaceAfter=No
+1	Սեմ	Սեմ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	4	vocative	_	_
+2	՛	՛	PUNCT	_	_	1	punct	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4-5	բա՛ց	_	_	_	_	_	_	_	_
+4	բաց	բացել	VERB	_	Aspect=Prosp|Mood=Imp|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin|Voice=Act	0	root	_	_
+5	՛	՛	PUNCT	_	_	4	punct	_	_
+6	պատուհանը	պատուհան	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	4	obj	_	SpaceAfter=No
+7	։	։	PUNCT	_	_	4	punct	_	_
+
+# sent_id = fiction-004J-00010APS
+# text = Նա ստիպեց ամուսնուն լվանալ մեքենան։
+1	Նա	նա	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	ստիպեց	ստիպել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ամուսնուն	ամուսին	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	2	iobj	_	_
+4	լվանալ	լվանալ	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	2	xcomp	_	_
+5	մեքենան	մեքենա	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	4	obj	_	SpaceAfter=No
+6	։	։	PUNCT	_	_	2	punct	_	_
+
+# sent_id = fiction-004J-00010APT
+# text = Պետրոսի հարևանը ցանկապատը կարմիր ներկեց։
+1	Պետրոսի	Պետրոս	PROPN	_	Animacy=Hum|Case=Dat|Definite=Ind|NameType=Giv|Number=Sing	2	nmod:poss	_	_
+2	հարևանը	հարևան	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	5	nsubj	_	_
+3	ցանկապատը	ցանկապատ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	5	obj	_	_
+4	կարմիր	կարմիր	ADJ	_	Degree=Pos	3	acl	_	_
+5	ներկեց	ներկել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	։	։	PUNCT	_	_	5	punct	_	_
+
+# sent_id = fiction-004J-00010APU
+# text = Հայրս քոնից զիլ դեմք է։
+1	Հայրս	հայր	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	_
+2	քոնից	քո	PRON	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	3	obl	_	_
+3	զիլ	զիլ	ADJ	_	Degree=Pos	4	amod	_	_
+4	դեմք	դեմք	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	0	root	_	_
+5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+6	։	։	PUNCT	_	_	4	punct	_	_
+
+# sent_id = fiction-004J-00010APV
+# text = Մերին բրոնզ տարավ, Պետրոսը՝ արծաթ, իսկ Ջեյնը՝ ոսկի։
+1	Մերին	Մերի	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Giv|Number=Sing	3	nsubj	_	_
+2	բրոնզ	բրոնզ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	3	obj	_	_
+3	տարավ	տանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Պետրոսը	Պետրոս	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Giv|Number=Sing	3	conj	_	SpaceAfter=No
+6	՝	՝	PUNCT	_	_	7	punct	_	_
+7	արծաթ	արծաթ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	5	orphan	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	իսկ	իսկ	CCONJ	_	_	10	cc	_	_
+10	Ջեյնը	Ջեյն	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Giv|Number=Sing	3	conj	_	SpaceAfter=No
+11	՝	՝	PUNCT	_	_	12	punct	_	_
+12	ոսկի	ոսկի	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	10	orphan	_	SpaceAfter=No
+13	։	։	PUNCT	_	_	3	punct	_	_
+
+# sent_id = fiction-004J-00010AQ0
+# text = Իգուասուն մե՞ծ երկիր է, թե՞ փոքր։
+1	Իգուասուն	Իգուասու	PROPN	_	Animacy=Inan|Case=Nom|Definite=Def|NameType=Geo|Number=Sing	4	nsubj	_	_
+2-3	մե՞ծ	_	_	_	_	_	_	_	_
+2	մեծ	մեծ	ADJ	_	Degree=Pos	4	amod	_	_
+3	՞	՞	PUNCT	_	_	2	punct	_	_
+4	երկիր	երկիր	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	0	root	_	_
+5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7-8	թե՞	_	_	_	_	_	_	_	_
+7	թե	թե	CCONJ	_	_	9	cc	_	_
+8	՞	՞	PUNCT	_	_	7	punct	_	_
+9	փոքր	փոքր	ADJ	_	Degree=Pos	2	conj	_	SpaceAfter=No
+10	։	։	PUNCT	_	_	4	punct	_	_
+
+# sent_id = fiction-004J-00010AQ1
+# text = Ո՛չ Պիտեր Սմիթը, ո՛չ Մերի Բրաունը չէին կարող ընտրվել։
+1-2	Ո՛չ	_	_	_	_	_	_	_	_
+1	Ոչ	ոչ	CCONJ	_	_	3	cc	_	_
+2	՛	՛	PUNCT	_	_	1	punct	_	_
+3	Պիտեր	Պիտեր	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	11	nsubj	_	_
+4	Սմիթը	Սմիթ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	3	flat	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6-7	ո՛չ	_	_	_	_	_	_	_	_
+6	ոչ	ոչ	CCONJ	_	_	8	cc	_	_
+7	՛	՛	PUNCT	_	_	6	punct	_	_
+8	Մերի	Մերի	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	3	conj	_	_
+9	Բրաունը	Բրաուն	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	8	flat	_	_
+10	չէին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	կարող	կարող	ADJ	_	Degree=Pos	0	root	_	_
+12	ընտրվել	ընտրել	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Pass	11	xcomp	_	SpaceAfter=No
+13	։	։	PUNCT	_	_	11	punct	_	_
+
+# sent_id = fiction-004J-00010AQ2
+# text = Գաղափար չունեին՝ ով է դա գրել։
+1	Գաղափար	գաղափար	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	2	obj	_	_
+2	չունեին	ունենալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	՝	՝	PUNCT	_	_	7	punct	_	_
+4	ով	ով	PRON	_	Case=Nom|Number=Sing|PronType=Rel	7	nsubj	_	_
+5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	դա	դա	PRON	_	Case=Nom|Distance=Med|Number=Sing|PronType=Dem	7	obj	_	_
+7	գրել	գրել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	1	acl:relcl	_	SpaceAfter=No
+8	։	։	PUNCT	_	_	2	punct	_	_
+
+# sent_id = fiction-004J-00010AQ3
+# text = Ինչի՞ն  ես նայում։
+1-2	Ինչի՞ն	_	_	_	_	_	_	_	_
+1	Ինչին	ինչ	PRON	_	Case=Dat|Definite=Def|Number=Sing|PronType=Int	4	obj	_	_
+2	՞	՞	PUNCT	_	_	1	punct	_	_
+3	ես	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	նայում	նայել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	SpaceAfter=No
+5	։	։	PUNCT	_	_	4	punct	_	_
+
+# sent_id = fiction-004J-00010AQ4
+# text = Ե՞րբ, կարծում ես, կկարողանաս գալ։
+1-2	Ե՞րբ	_	_	_	_	_	_	_	SpaceAfter=No
+1	Երբ	երբ	PRON	_	Case=Nom|PronType=Int	7	obl	_	_
+2	՞	՞	PUNCT	_	_	1	punct	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	կարծում	կարծել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	_
+5	ես	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	կկարողանաս	կարողանալ	VERB	_	Aspect=Prosp|Mood=Cnd|Number=Sing|Person=2|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	4	ccomp	_	_
+8	գալ	գալ	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	7	xcomp	_	SpaceAfter=No
+9	։	։	PUNCT	_	_	4	punct	_	_
+
+# sent_id = fiction-004J-00010AQ5
+# text = Նա մեքենա գնեց, իսկ նրա եղբայրը` ընդամենը մոտոցիկլետ։
+1	Նա	նա	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	մեքենա	մեքենա	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	3	obj	_	_
+3	գնեց	գնել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	7	punct	_	_
+5	իսկ	իսկ	CCONJ	_	_	7	cc	_	_
+6	նրա	նա	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	եղբայրը	եղբայր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	3	conj	_	SpaceAfter=No
+8	`	`	PUNCT	_	_	10	punct	_	_
+9	ընդամենը	ընդամենը	PART	_	_	10	advmod:emph	_	_
+10	մոտոցիկլետ	մոտոցիկլետ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	7	orphan	_	SpaceAfter=No
+11	։	։	PUNCT	_	_	3	punct	_	_
+
+# sent_id = fiction-004J-00010AQ6
+# text = Պետրոսը և Մերին գրկախառնվեցին, ապա դուրս եկան սենյակից։
+1	Պետրոսը	Պետրոս	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Giv|Number=Sing	4	nsubj	_	_
+2	և	և	CCONJ	_	_	3	cc	_	_
+3	Մերին	Մերի	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Giv|Number=Sing	1	conj	_	_
+4	գրկախառնվեցին	գրկախառնվել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Rcp	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	ապա	ապա	ADV	_	_	8	advmod	_	_
+7	դուրս	դուրս	ADV	_	_	8	compound:lvc	_	_
+8	եկան	գալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	_
+9	սենյակից	սենյակ	NOUN	_	Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing	8	obl	_	SpaceAfter=No
+10	։	։	PUNCT	_	_	4	punct	_	_
+
+# sent_id = fiction-004J-00010AQ7
+# text = Նա մազերը հարդարած պիտի լիներ, բայց ինչ-ինչ պատճառներով չէր արել այդ օրը:
+1	Նա	նա	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	մազերը	մազ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Plur	3	obj	_	_
+3	հարդարած	հարդարել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	_
+4	պիտի	պիտի	PART	_	Mood=Nec|Polarity=Pos	3	aux	_	_
+5	լիներ	լինել	AUX	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	3	aux	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	13	punct	_	_
+7	բայց	բայց	CCONJ	_	_	13	cc	_	_
+8	ինչ	ինչ	DET	_	Case=Nom|PronType=Int	11	det	_	SpaceAfter=No
+9	-	-	PUNCT	_	_	10	punct	_	SpaceAfter=No
+10	ինչ	ինչ	DET	_	Case=Nom|PronType=Int	8	compound:redup	_	_
+11	պատճառներով	պատճառ	NOUN	_	Animacy=Inan|Case=Ins|Definite=Ind|Number=Plur	13	obl	_	_
+12	չէր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Imp|VerbForm=Fin	13	aux	_	_
+13	արել	անել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	3	conj	_	_
+14	այդ	այդ	DET	_	Distance=Med|PronType=Dem	15	det	_	_
+15	օրը	օր	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	13	obl	_	SpaceAfter=No
+16	:	:	PUNCT	_	_	3	punct	_	_
+
+# sent_id = fiction-004J-00010AQ8
+# text = Չէի հասնում հետևից, քանի որ չափազանց արագ էր վազում:
+1	Չէի	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Imp|VerbForm=Fin	2	aux	_	_
+2	հասնում	հասնել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	_
+3	հետևից	հետև	NOUN	_	Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing	2	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	10	punct	_	_
+5	քանի	քանի	SCONJ	_	_	10	mark	_	_
+6	որ	որ	SCONJ	_	_	5	fixed	_	_
+7	չափազանց	չափազանց	ADV	_	_	8	advmod	_	_
+8	արագ	արագ	ADV	_	Degree=Pos	10	advmod	_	_
+9	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	10	aux	_	_
+10	վազում	վազել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	2	advcl	_	SpaceAfter=No
+11	:	:	PUNCT	_	_	2	punct	_	_
+
+# sent_id = fiction-004J-00010AQ9
+# text = Այս նամակը Պետրոսից է և այն երեկ է բերվել։
+1	Այս	այս	DET	_	Distance=Prox|PronType=Dem	2	det	_	_
+2	նամակը	նամակ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	_
+3	Պետրոսից	Պետրոս	PROPN	_	Animacy=Hum|Case=Abl|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	_
+4	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	_
+5	և	և	CCONJ	_	_	9	cc	_	_
+6	այն	այն	PRON	_	Distance=Dist|Number=Sing|PronType=Dem	9	nsubj:pass	_	_
+7	երեկ	երեկ	ADV	_	_	9	advmod	_	_
+8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	բերվել	բերել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Pass	3	conj	_	SpaceAfter=No
+10	։	։	PUNCT	_	_	3	punct	_	_
+
+# sent_id = fiction-004J-00010AQA
+# text = Նա մեծացել է Փարիզում՝ Ֆրանսիայի մայրաքաղաքում։
+1	Նա	նա	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	մեծացել	մեծանալ	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	_
+3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	_
+4	Փարիզում	Փարիզ	PROPN	_	Animacy=Inan|Case=Loc|Definite=Ind|NameType=Geo|Number=Sing	2	obl	_	SpaceAfter=No
+5	՝	՝	PUNCT	_	_	7	punct	_	_
+6	Ֆրանսիայի	Ֆրանսիա	PROPN	_	Animacy=Inan|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	7	nmod:poss	_	_
+7	մայրաքաղաքում	մայրաքաղաք	NOUN	_	Animacy=Inan|Case=Loc|Definite=Ind|Number=Sing	4	appos	_	SpaceAfter=No
+8	։	։	PUNCT	_	_	2	punct	_	_
+
+# doc_title = Խնկի ծառեր
+# newdoc id = fiction-004I
+# newpar id = fiction-004I-0006
+# sent_id = fiction-004I-00060AQU
+# text = Հետո պապս քոչարիի մասին պատմելիս, Խեչոյի ասածին, թե. «Քոչարին ռազմական պար է»,— ավելացնելու է. «Քոչարին չմոռանաք, մերոնք այնտեղ այդ պարը որպես առյուծի կաթ էին ըմպում և հիշեք՝ Շուշան նախամոր գալստյան ժամանակ նրա սպիտակ ձիու պոչը արյունոտ էր, ու նա գնաց այդ արյունը մզկիթների պատերին մաքրելու»։
+1	Հետո	հետո	ADV	_	_	20	advmod	_	_
+2	պապս	պապ	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	20	nsubj	_	_
+3	քոչարիի	քոչարի	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	5	obl	_	_
+4	մասին	մասին	ADP	_	AdpType=Post	3	case	_	_
+5	պատմելիս	պատմել	VERB	_	Aspect=Prog|Polarity=Pos|Subcat=Intr|VerbForm=Conv|Voice=Act	20	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	Խեչոյի	Խեչո	PROPN	_	Animacy=Hum|Case=Dat|Definite=Ind|NameType=Giv|Number=Sing	8	nmod:poss	_	_
+8	ասածին	ասած	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Sing	20	obj	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	թե	թե	SCONJ	_	_	15	mark	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
+12	«	«	PUNCT	_	_	15	punct	_	SpaceAfter=No
+13	Քոչարին	քոչարի	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	15	nsubj	_	_
+14	ռազմական	ռազմական	ADJ	_	Degree=Pos	15	amod	_	_
+15	պար	պար	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	8	acl	_	_
+16	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	cop	_	SpaceAfter=No
+17	»	»	PUNCT	_	_	15	punct	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	SpaceAfter=No
+19	—	—	PUNCT	_	_	20	punct	_	_
+20	ավելացնելու	ավելանալ	VERB	_	Aspect=Prosp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	_
+21	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	20	aux	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	20	punct	_	_
+23	«	«	PUNCT	_	_	25	punct	_	SpaceAfter=No
+24	Քոչարին	քոչարի	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	25	obj	_	_
+25	չմոռանաք	մոռանալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=2|Polarity=Neg|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	20	parataxis	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	35	punct	_	_
+27	մերոնք	մենք	PRON	_	Case=Nom|Number=Assoc|Person=1|Poss=Yes|PronType=Prs	35	nsubj	_	_
+28	այնտեղ	այնտեղ	PRON	_	Case=Nom|Distance=Dist|PronType=Dem	35	obl	_	_
+29	այդ	այդ	DET	_	Distance=Med|PronType=Dem	30	det	_	_
+30	պարը	պար	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	35	obj	_	_
+31	որպես	որպես	ADP	_	AdpType=Prep	33	case	_	_
+32	առյուծի	առյուծ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	33	nmod:poss	_	_
+33	կաթ	կաթ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Coll	35	obl	_	_
+34	էին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	35	aux	_	_
+35	ըմպում	ըմպել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	25	parataxis	_	_
+36	և	և	CCONJ	_	_	37	cc	_	_
+37	հիշեք	հիշել	VERB	_	Aspect=Prosp|Mood=Imp|Number=Plur|Person=2|Subcat=Tran|VerbForm=Fin|Voice=Act	25	conj	_	SpaceAfter=No
+38	՝	՝	PUNCT	_	_	47	punct	_	_
+39	Շուշան	Շուշան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	40	nmod	_	_
+40	նախամոր	նախամայր	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	41	nmod:poss	_	_
+41	գալստյան	գալուստ	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	42	nmod:poss	_	_
+42	ժամանակ	ժամանակ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	47	obl	_	_
+43	նրա	նա	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	45	det:poss	_	_
+44	սպիտակ	սպիտակ	ADJ	_	Degree=Pos	45	amod	_	_
+45	ձիու	ձի	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	46	nmod:poss	_	_
+46	պոչը	պոչ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	47	nsubj	_	_
+47	արյունոտ	արյունոտ	ADJ	_	_	37	ccomp	_	_
+48	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	47	cop	_	SpaceAfter=No
+49	,	,	PUNCT	_	_	52	punct	_	_
+50	ու	ու	CCONJ	_	_	52	cc	_	_
+51	նա	նա	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	52	nsubj	_	_
+52	գնաց	գնալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	47	conj	_	_
+53	այդ	այդ	DET	_	Distance=Med|PronType=Dem	54	det	_	_
+54	արյունը	արյուն	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	57	obj	_	_
+55	մզկիթների	մզկիթ	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Plur	56	nmod:poss	_	_
+56	պատերին	պատ	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Plur	57	obl	_	_
+57	մաքրելու	մաքրել	VERB	_	Case=Gen|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Tran|VerbForm=Gdv|Voice=Act	52	advcl	_	SpaceAfter=No
+58	»	»	PUNCT	_	_	25	punct	_	SpaceAfter=No
+59	։	։	PUNCT	_	_	20	punct	_	_
+
+# doc_title = Տեղատվություն
+# newdoc id = fiction-004A
+# newpar id = fiction-004A-0004
+# sent_id = fiction-004A-00040AOQ
+# text = Ցավալի իրողությունը շռայլ գույներով լրացվում ու ամփոփվում էր այն գիտակցությամբ, որ այստեղ սեփական կամքով չի եկել, նաև անհայտ է, թե ինչպես է եկել։
+1	Ցավալի	ցավալի	ADJ	_	_	2	amod	_	_
+2	իրողությունը	իրողություն	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	5	nsubj:pass	_	_
+3	շռայլ	շռայլ	ADJ	_	_	4	amod	_	_
+4	գույներով	գույն	NOUN	_	Animacy=Inan|Case=Ins|Definite=Ind|Number=Plur	5	obl	_	_
+5	լրացվում	լրացնել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Pass	0	root	_	_
+6	ու	ու	CCONJ	_	_	7	cc	_	_
+7	ամփոփվում	ամփոփել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Pass	5	conj	_	_
+8	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	5	aux	_	_
+9	այն	այն	DET	_	Distance=Dist|PronType=Dem	10	det	_	_
+10	գիտակցությամբ	գիտակցություն	NOUN	_	Animacy=Inan|Case=Ins|Definite=Ind|Number=Sing	5	obl:agent	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	17	punct	_	_
+12	որ	որ	SCONJ	_	_	17	mark	_	_
+13	այստեղ	այստեղ	ADV	_	PronType=Dem	17	advmod	_	_
+14	սեփական	սեփական	ADJ	_	_	15	amod	_	_
+15	կամքով	կամք	NOUN	_	Animacy=Inan|Case=Ins|Definite=Ind|Number=Sing	17	obl	_	_
+16	չի	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	17	aux	_	_
+17	եկել	գալ	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	10	acl	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	նաև	նաև	CCONJ	_	ConjType=Comp	20	cc	_	_
+20	անհայտ	անհայտ	ADJ	_	Degree=Pos	17	conj	_	_
+21	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	20	cop	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	26	punct	_	_
+23	թե	թե	SCONJ	_	_	26	mark	_	_
+24	ինչպես	ինչպես	ADV	_	PronType=Int	26	advmod	_	_
+25	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	26	aux	_	_
+26	եկել	գալ	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	20	csubj	_	SpaceAfter=No
+27	։	։	PUNCT	_	_	5	punct	_	_
+
+# doc_title = Փարիզում բացվել է Զաբել Եսայանի անվան ճեմուղին
+# newdoc id = news-0048
+# newpar id = news-0048-0006
+# sent_id = news-0048-00060AP2
+# text = Հայ գրականության մեջ բարձրացրել է կնոջ դերին առնչվող հարցեր:
+1	Հայ	հայ	ADJ	_	_	2	amod	_	_
+2	գրականության	գրականություն	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	4	obl	_	_
+3	մեջ	մեջ	ADP	_	AdpType=Post|Case=Nom	2	case	_	_
+4	բարձրացրել	բարձրանալ	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	_
+5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	_
+6	կնոջ	կին	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	7	nmod:poss	_	_
+7	դերին	դեր	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Sing	8	obj	_	_
+8	առնչվող	առնչվել	VERB	_	Aspect=Dur|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	9	acl	_	_
+9	հարցեր	հարց	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Plur	4	obj	_	SpaceAfter=No
+10	:	:	PUNCT	_	_	4	punct	_	_
+
+# doc_title = Ինչ է արտահանվել Հայաստանից և որքան
+# newdoc id = news-0047
+# newpar id = news-0047-000A
+# sent_id = news-0047-000A0ANK
+# text = ԱՊՀ երկրներից Հայաստանի խոշոր առևտրային գործընկերը Ռուսաստանն է, Եվրամիության երկրներից՝ Բուլղարիան, Գերմանիան, Իտալիան, այլ երկրներից՝ ԱՄՆ-ն, Արաբական էմիրությունները, Շվերյցարիան, Չինաստանը, Իրանը:
+1	ԱՊՀ	ԱՊՀ	PROPN	_	Abbr=Yes|Animacy=Inan|Case=Nom|Definite=Ind|NameType=Com|Number=Sing	2	nmod	_	_
+2	երկրներից	երկիր	NOUN	_	Animacy=Inan|Case=Abl|Definite=Ind|Number=Plur	6	nmod:npmod	_	_
+3	Հայաստանի	Հայաստան	PROPN	_	Animacy=Inan|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	6	nmod:poss	_	_
+4	խոշոր	խոշոր	ADJ	_	Degree=Pos	6	amod	_	_
+5	առևտրային	առևտրային	ADJ	_	_	6	amod	_	_
+6	գործընկերը	գործընկեր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	_
+7	Ռուսաստանն	Ռուսաստան	PROPN	_	Animacy=Inan|Case=Nom|Definite=Def|NameType=Geo|Number=Sing	0	root	_	_
+8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	Եվրամիության	Եվրամիություն	PROPN	_	Animacy=Inan|Case=Dat|Definite=Ind|NameType=Com|Number=Sing	11	nmod:poss	_	_
+11	երկրներից	երկիր	NOUN	_	Animacy=Inan|Case=Abl|Definite=Ind|Number=Plur	13	orphan	_	SpaceAfter=No
+12	՝	՝	PUNCT	_	_	13	punct	_	_
+13	Բուլղարիան	Բուլղարիա	PROPN	_	Animacy=Inan|Case=Nom|Definite=Def|NameType=Geo|Number=Sing	7	conj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	Գերմանիան	Գերմանիա	PROPN	_	Animacy=Inan|Case=Nom|Definite=Def|NameType=Geo|Number=Sing	13	conj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	_
+17	Իտալիան	Իտալիա	PROPN	_	Animacy=Inan|Case=Nom|Definite=Def|NameType=Geo|Number=Sing	13	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	այլ	այլ	DET	_	PronType=Ind	20	det	_	_
+20	երկրներից	երկիր	NOUN	_	Animacy=Inan|Case=Abl|Definite=Ind|Number=Plur	22	orphan	_	SpaceAfter=No
+21	՝	՝	PUNCT	_	_	22	punct	_	_
+22	ԱՄՆ-ն	ԱՄՆ	PROPN	_	Abbr=Yes|Animacy=Inan|Case=Nom|Definite=Def|NameType=Geo|Number=Sing	7	conj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	Արաբական	արաբական	ADJ	_	_	25	amod	_	_
+25	էմիրությունները	էմիրություն	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Plur	22	conj	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	Շվերյցարիան	Շվեյցարիա	PROPN	_	Animacy=Inan|Case=Nom|Definite=Def|NameType=Geo|Number=Sing|Typo=Yes	22	conj	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	Չինաստանը	Չինաստան	PROPN	_	Animacy=Inan|Case=Nom|Definite=Def|NameType=Geo|Number=Sing	22	conj	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	Իրանը	Իրան	PROPN	_	Animacy=Inan|Case=Nom|Definite=Def|NameType=Geo|Number=Sing	22	conj	_	SpaceAfter=No
+32	:	:	PUNCT	_	_	7	punct	_	_
+
+# doc_title = Երեք զինծառայող բեկորային վիրավորում է ստացել. Պատասխան գործողություն է իրականացվում
+# newdoc id = news-0046
+# newpar id = news-0046-0002
+# sent_id = news-0046-00020AN5
+# text = Առաջնային գծում իրավիճակի ապակայունացմանն ուղղված գործողությունների ողջ պատասխանատվությունը կրում է Ադրբեջանի ռազմաքաղաքական ղեկավարությունը:
+1	Առաջնային	առաջնային	ADJ	_	Degree=Pos	2	amod	_	_
+2	գծում	գիծ	NOUN	_	Animacy=Inan|Case=Loc|Definite=Ind|Number=Sing	3	nmod:npmod	_	_
+3	իրավիճակի	իրավիճակ	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	4	nmod:poss	_	_
+4	ապակայունացմանն	ապակայունացում	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Sing	5	obj	_	_
+5	ուղղված	ուղղել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	6	acl	_	_
+6	գործողությունների	գործողություն	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Plur	8	nmod:poss	_	_
+7	ողջ	ողջ	DET	_	PronType=Tot	8	det	_	_
+8	պատասխանատվությունը	պատասխանատվություն	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	9	obj	_	_
+9	կրում	կրել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	_
+10	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	aux	_	_
+11	Ադրբեջանի	Ադրբեջան	PROPN	_	Animacy=Inan|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	13	nmod:poss	_	_
+12	ռազմաքաղաքական	ռազմաքաղաքական	ADJ	_	_	13	amod	_	_
+13	ղեկավարությունը	ղեկավարություն	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	9	nsubj	_	SpaceAfter=No
+14	:	:	PUNCT	_	_	9	punct	_	_
+
+# doc_title = Հակառակորդը առաջնագծում կիրառել է խոշոր տրամաչափի գնդացիրներ
+# newdoc id = news-0044
+# newpar id = news-0044-0003
+# sent_id = news-0044-00030AN0
+# text = ՊԲ առաջապահ զորամասերը շարունակում են վստահորեն իրականացնել իրենց առջև դրված մարտական խնդիրը՝ անհրաժեշտության դեպքում դիմելով նաև պատասխան գործողությունների:
+1	ՊԲ	ՊԲ	PROPN	_	Abbr=Yes|Animacy=Inan|Case=Nom|Definite=Ind|NameType=Com|Number=Sing	3	nmod	_	_
+2	առաջապահ	առաջապահ	ADJ	_	_	3	amod	_	_
+3	զորամասերը	զորամաս	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Plur	4	nsubj	_	_
+4	շարունակում	շարունակել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	_
+5	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	_
+6	վստահորեն	վստահորեն	ADV	_	_	7	advmod	_	_
+7	իրականացնել	իրականանալ	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+8	իրենց	ինքը	PRON	_	Case=Dat|Number=Plur|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	10	obl	_	_
+9	առջև	առջև	ADP	_	AdpType=Post|Case=Nom	8	case	_	_
+10	դրված	դնել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	12	acl	_	_
+11	մարտական	մարտական	ADJ	_	Degree=Pos	12	amod	_	_
+12	խնդիրը	խնդիր	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	7	obj	_	SpaceAfter=No
+13	՝	՝	PUNCT	_	_	16	punct	_	_
+14	անհրաժեշտության	անհրաժեշտություն	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	15	nmod:poss	_	_
+15	դեպքում	դեպք	NOUN	_	Animacy=Inan|Case=Loc|Definite=Ind|Number=Sing	16	obl	_	_
+16	դիմելով	դիմել	VERB	_	Case=Ins|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Intr|VerbForm=Gdv|Voice=Mid	7	advcl	_	_
+17	նաև	նաև	CCONJ	_	ConjType=Comp	19	advmod:emph	_	_
+18	պատասխան	պատասխան	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	19	amod	_	_
+19	գործողությունների	գործողություն	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Plur	16	obj	_	SpaceAfter=No
+20	:	:	PUNCT	_	_	4	punct	_	_
+
+# doc_title = Ագռավները Նոյից առաջ
+# newdoc id = fiction-0043
+# newpar id = fiction-0043-0001
+# sent_id = fiction-0043-00010AMT
+# text = Էլ ո՞վ կհամարձակվեր Հարութին երկրորդ հարցը տար կամ հաշիվ պահանջեր։
+1	Էլ	էլ	PART	_	_	2	advmod:emph	_	_
+2-3	ո՞վ	_	_	_	_	_	_	_	_
+2	ով	ով	PRON	_	Case=Nom|Number=Sing|PronType=Int	4	nsubj	_	_
+3	՞	՞	PUNCT	_	_	2	punct	_	_
+4	կհամարձակվեր	համարձակվել	VERB	_	Aspect=Prosp|Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Mid	0	root	_	_
+5	Հարութին	Հարութ	PROPN	_	Animacy=Hum|Case=Dat|Definite=Def|NameType=Giv|Number=Sing	8	iobj	_	_
+6	երկրորդ	երկրորդ	ADJ	_	NumForm=Word|NumType=Ord	7	amod	_	_
+7	հարցը	հարց	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	8	obj	_	_
+8	տար	տալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	4	ccomp	_	_
+9	կամ	կամ	CCONJ	_	ConjType=Comp	11	cc	_	_
+10	հաշիվ	հաշիվ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	11	obj	_	_
+11	պահանջեր	պահանջել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	8	conj	_	SpaceAfter=No
+12	։	։	PUNCT	_	_	4	punct	_	_
+
+# doc_title = Աղի կոմսը
+# newdoc id = fiction-0041
+# newpar id = fiction-0041-0001
+# sent_id = fiction-0041-00010AL5
+# text = Տանը տասնչորս զավակ, աստծո պես և աստծո սկիզբ ծնողները, իր կողքին՝ մի այլ տուն, հետո այդպիսի տներով իր քաղաքը, այդպիսի քաղաքներով իր երկիրը։
+1	Տանը	տուն	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Sing	3	orphan	_	_
+2	տասնչորս	տասնչորս	NUM	_	NumForm=Word|NumType=Card	3	nummod	_	_
+3	զավակ	զավակ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	10	punct	_	_
+5	աստծո	աստված	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	10	nmod	_	_
+6	պես	պես	ADP	_	AdpType=Post	5	case	_	_
+7	և	և	CCONJ	_	_	9	cc	_	_
+8	աստծո	աստված	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	9	nmod:poss	_	_
+9	սկիզբ	սկիզբ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	5	conj	_	_
+10	ծնողները	ծնող	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	3	conj	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	իր	ինքը	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	13	det:poss	_	_
+13	կողքին	կողք	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Sing	17	orphan	_	SpaceAfter=No
+14	՝	՝	PUNCT	_	_	17	punct	_	_
+15	մի	մի	DET	_	PronType=Art	17	det	_	_
+16	այլ	այլ	DET	_	PronType=Ind	17	det	_	_
+17	տուն	տուն	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	3	parataxis	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	23	punct	_	_
+19	հետո	հետո	ADV	_	_	23	discourse	_	_
+20	այդպիսի	այդպիսի	DET	_	Distance=Med|PronType=Dem	21	det	_	_
+21	տներով	տուն	NOUN	_	Animacy=Inan|Case=Ins|Definite=Ind|Number=Plur	23	nmod	_	_
+22	իր	ինքը	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	23	det:poss	_	_
+23	քաղաքը	քաղաք	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	3	parataxis	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	28	punct	_	_
+25	այդպիսի	այդպիսի	DET	_	Distance=Med|PronType=Dem	26	det	_	_
+26	քաղաքներով	քաղաք	NOUN	_	Animacy=Inan|Case=Ins|Definite=Ind|Number=Plur	28	nmod	_	_
+27	իր	ինքը	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	28	det:poss	_	_
+28	երկիրը	երկիր	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	23	conj	_	SpaceAfter=No
+29	։	։	PUNCT	_	_	3	punct	_	_
+
+# doc_title = Աբկայ. մեռնելու պարունակները
+# newdoc id = fiction-0040
+# newpar id = fiction-0040-0006
+# sent_id = fiction-0040-00060AKE
+# text = Եվ տղային Աբկայ կոչեց։
+1	Եվ	և	CCONJ	_	_	4	cc	_	_
+2	տղային	տղա	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	4	obj	_	_
+3	Աբկայ	Աբկայ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	4	xcomp	_	_
+4	կոչեց	կոչել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	։	։	PUNCT	_	_	4	punct	_	_
+
+# doc_title = Կուտակային կենսաթոշակային համակարգը սկսելու են պարտադրել. «Ժողովուրդ»
+# newdoc id = news-003V
+# newpar id = news-003V-0003
+# sent_id = news-003V-00030AJG
+# text = Նրանցից Դավիթ Մանուկյանն ու Հայկ Ավետիսյանը «Ժողովուրդ» օրաթերթի հետ զրույցում ասացին, թե «Դեմ եմ» շարժումն ըստ էության գոյություն չունի այլևս, և բացի այդ` իրենք անձնական գործերով են զբաղված»:
+1	Նրանցից	նա	DET	_	Case=Abl|Number=Plur|Person=3|PronType=Prs	2	det	_	_
+2	Դավիթ	Դավիթ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	13	nsubj	_	_
+3	Մանուկյանն	Մանուկյան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	2	flat	_	_
+4	ու	ու	CCONJ	_	_	5	cc	_	_
+5	Հայկ	Հայկ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	2	conj	_	_
+6	Ավետիսյանը	Ավետիսյան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	5	flat	_	_
+7	«	«	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	Ժողովուրդ	ժողովուրդ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	10	nmod	_	SpaceAfter=No
+9	»	»	PUNCT	_	_	8	punct	_	_
+10	օրաթերթի	օրաթերթ	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	12	nmod:npmod	_	_
+11	հետ	հետ	ADP	_	AdpType=Post	10	case	_	_
+12	զրույցում	զրույց	NOUN	_	Animacy=Inan|Case=Loc|Definite=Ind|Number=Sing	13	obl	_	_
+13	ասացին	ասել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	24	punct	_	_
+15	թե	թե	SCONJ	_	_	24	mark	_	_
+16	«	«	PUNCT	_	_	17	punct	_	SpaceAfter=No
+17	Դեմ	դեմ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	20	nmod	_	_
+18	եմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	17	cop	_	SpaceAfter=No
+19	»	»	PUNCT	_	_	17	punct	_	_
+20	շարժումն	շարժում	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	24	nsubj	_	_
+21	ըստ	ըստ	ADP	_	AdpType=Prep	22	case	_	_
+22	էության	էություն	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	24	parataxis	_	_
+23	գոյություն	գոյություն	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	24	xcomp	_	_
+24	չունի	ունենալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	13	ccomp	_	_
+25	այլևս	այլևս	ADV	_	_	24	advmod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	35	punct	_	_
+27	և	և	CCONJ	_	_	35	cc	_	_
+28	բացի	բացի	ADP	_	AdpType=Prep	29	case	_	_
+29	այդ	այդ	PRON	_	Distance=Med|Number=Sing|PronType=Dem	35	parataxis	_	SpaceAfter=No
+30	`	`	PUNCT	_	_	35	punct	_	_
+31	իրենք	ինքը	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Emp	35	nsubj	_	_
+32	անձնական	անձնական	ADJ	_	Degree=Pos	33	amod	_	_
+33	գործերով	գործ	NOUN	_	Animacy=Inan|Case=Ins|Definite=Ind|Number=Plur	35	obl	_	_
+34	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	35	aux	_	_
+35	զբաղված	զբաղվել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	24	conj	_	SpaceAfter=No
+36	»	»	PUNCT	_	_	24	punct	_	SpaceAfter=No
+37	:	:	PUNCT	_	_	13	punct	_	_
+
+# doc_title = Սեքսն ազդում է աշխատունակության վրա
+# newdoc id = news-003U
+# newpar id = news-003U-0003
+# sent_id = news-003U-00030AJ7
+# text = Պարզվել է նաև, որ նման աշխատողներն ավելի քիչ են հիվանդանում։
+1	Պարզվել	պարզել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Pass	0	root	_	_
+2	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	_
+3	նաև	նաև	CCONJ	_	ConjType=Comp	1	cc	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	11	punct	_	_
+5	որ	որ	SCONJ	_	_	11	mark	_	_
+6	նման	նման	ADJ	_	_	7	amod	_	_
+7	աշխատողներն	աշխատող	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	11	nsubj	_	_
+8	ավելի	ավելի	ADV	_	Degree=Cmp	9	advmod	_	_
+9	քիչ	քիչ	ADV	_	Degree=Pos	11	advmod	_	_
+10	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	_
+11	հիվանդանում	հիվանդանալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	1	csubj:pass	_	SpaceAfter=No
+12	։	։	PUNCT	_	_	1	punct	_	_
+
+# doc_title = Ջեմալ փաշայի թոռանը Թուրքիայում սպառնում է մինչև 13 տարվա ազատազրկում
+# newdoc id = news-003T
+# newpar id = news-003T-0005
+# sent_id = news-003T-00050AJ0
+# text = Նշենք նաև, որ Հասան Ջեմալը նաև «1915. Հայոց ցեղասպանությունը» գրքի հեղինակն է, որը թարգմանվել է մի շարք լեզուներով:
+1	Նշենք	նշել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	նաև	նաև	CCONJ	_	ConjType=Comp	1	cc	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	15	punct	_	_
+4	որ	որ	SCONJ	_	_	15	mark	_	_
+5	Հասան	Հասան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	15	nsubj	_	_
+6	Ջեմալը	Ջեմալ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	5	flat	_	_
+7	նաև	նաև	CCONJ	_	ConjType=Comp	14	advmod:emph	_	_
+8	«	«	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	1915	1915	NUM	_	NumForm=Digit|NumType=Card	14	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	12	punct	_	_
+11	Հայոց	հայոց	ADJ	_	Poss=Yes	12	amod	_	_
+12	ցեղասպանությունը	ցեղասպանություն	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	9	appos	_	SpaceAfter=No
+13	»	»	PUNCT	_	_	9	punct	_	_
+14	գրքի	գիրք	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	15	nmod:poss	_	_
+15	հեղինակն	հեղինակ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	1	ccomp	_	_
+16	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	cop	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	որը	որ	PRON	_	Case=Nom|Definite=Def|Number=Sing|PronType=Rel	19	nsubj:pass	_	_
+19	թարգմանվել	թարգմանել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Pass	14	acl:relcl	_	_
+20	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	19	aux	_	_
+21	մի	մի	DET	_	PronType=Art	23	det	_	_
+22	շարք	շարք	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	21	fixed	_	_
+23	լեզուներով	լեզու	NOUN	_	Animacy=Inan|Case=Ins|Definite=Ind|Number=Plur	19	obl	_	SpaceAfter=No
+24	:	:	PUNCT	_	_	1	punct	_	_
+
+# doc_title = Ռուսաստանում 2 հայ գործարար է սպանվել
+# newdoc id = news-003R
+# newpar id = news-003R-0004
+# sent_id = news-003R-00040AIQ
+# text = Սպանված տղամարդկանցից մեկին ճանաչողները պատմել են, որ դեպքի նախօրեին գործարարներից մեկը խոշոր գումար է ստացել և պատրաստվում էր գնալ ապրանքի նոր խմբաքանակի հետևից:
+1	Սպանված	սպանել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	2	acl	_	_
+2	տղամարդկանցից	տղամարդ	NOUN	_	Animacy=Hum|Case=Abl|Definite=Ind|Number=Plur	3	nmod:npmod	_	_
+3	մեկին	մեկ	PRON	_	Case=Dat|Definite=Def|Number=Sing|PronType=Ind	4	nmod:npmod	_	_
+4	ճանաչողները	ճանաչող	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	5	nsubj	_	_
+5	պատմել	պատմել	VERB	_	Aspect=Perf|Polarity=Pos|VerbForm=Part|Voice=Act	0	root	_	_
+6	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	16	punct	_	_
+8	որ	որ	SCONJ	_	_	16	mark	_	_
+9	դեպքի	դեպք	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	10	nmod:poss	_	_
+10	նախօրեին	նախօրե	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Coll	16	obl	_	_
+11	գործարարներից	գործարար	NOUN	_	Animacy=Hum|Case=Abl|Definite=Ind|Number=Plur	12	nmod:npmod	_	_
+12	մեկը	մեկ	PRON	_	Case=Nom|Definite=Def|Number=Sing|PronType=Ind	16	nsubj	_	_
+13	խոշոր	խոշոր	ADJ	_	Degree=Pos	14	amod	_	_
+14	գումար	գումար	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	16	obj	_	_
+15	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	ստացել	ստանալ	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	5	ccomp	_	_
+17	և	և	CCONJ	_	_	18	cc	_	_
+18	պատրաստվում	պատրաստվել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	16	conj	_	_
+19	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	18	aux	_	_
+20	գնալ	գնալ	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	18	xcomp	_	_
+21	ապրանքի	ապրանք	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	23	nmod:poss	_	_
+22	նոր	նոր	ADJ	_	Degree=Pos	23	amod	_	_
+23	խմբաքանակի	խմբաքանակ	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	24	nmod:poss	_	_
+24	հետևից	հետև	NOUN	_	Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing	20	obl	_	SpaceAfter=No
+25	:	:	PUNCT	_	_	5	punct	_	_
+
+# doc_title = Փոքր ՀԷԿ-ները զգալի բացասական ազդեցություն են թողնում շրջակա միջավայրի վրա. Կարեն Կարապետյան
+# newdoc id = news-003Q
+# newpar id = news-003Q-0008
+# sent_id = news-003Q-00080AIJ
+# text = Նախարարությունը պետք է նաև ուսումնասիրի գործող և կառուցվող բոլոր փոքր ՀԷԿ-երի ջրառի կետերում շահագործողի միջոցներով, հնարավորության դեպքում նաև դրամաշնորհների ներգրավման ժամանակի իրական ռեժիմում տեղեկատվության փոխանցման համակարգի ներդրման հնարավորությունները:
+1	Նախարարությունը	նախարարություն	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	5	nsubj	_	_
+2	պետք	պետք	PART	_	Mood=Nec|Polarity=Pos	5	aux	_	_
+3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	նաև	նաև	CCONJ	_	ConjType=Comp	5	cc	_	_
+5	ուսումնասիրի	ուսումնասիրել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	գործող	գործել	VERB	_	Aspect=Dur|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	11	acl	_	_
+7	և	և	CCONJ	_	_	8	cc	_	_
+8	կառուցվող	կառուցել	VERB	_	Aspect=Dur|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	6	conj	_	_
+9	բոլոր	բոլոր	DET	_	PronType=Tot	11	det	_	_
+10	փոքր	փոքր	ADJ	_	Degree=Pos	11	amod	_	_
+11	ՀԷԿ-երի	հէկ	NOUN	_	Abbr=Yes|Animacy=Inan|Case=Dat|Definite=Ind|Number=Plur	12	nmod:poss	_	_
+12	ջրառի	ջրառ	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Coll	13	nmod:poss	_	_
+13	կետերում	կետ	NOUN	_	Animacy=Inan|Case=Loc|Definite=Ind|Number=Plur	5	obl	_	_
+14	շահագործողի	շահագործող	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	15	nmod:poss	_	_
+15	միջոցներով	միջոց	NOUN	_	Animacy=Inan|Case=Ins|Definite=Ind|Number=Plur	28	nmod:npmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	21	punct	_	_
+17	հնարավորության	հնարավորություն	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	18	nmod:poss	_	_
+18	դեպքում	դեպք	NOUN	_	Animacy=Inan|Case=Loc|Definite=Ind|Number=Sing	21	nmod:npmod	_	_
+19	նաև	նաև	CCONJ	_	ConjType=Comp	20	advmod:emph	_	_
+20	դրամաշնորհների	դրամաշնորհ	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Plur	21	nmod:poss	_	_
+21	ներգրավման	ներգրավում	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Coll	15	conj	_	_
+22	ժամանակի	ժամանակ	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	24	nmod:poss	_	_
+23	իրական	իրական	ADJ	_	Degree=Pos	24	amod	_	_
+24	ռեժիմում	ռեժիմ	NOUN	_	Animacy=Inan|Case=Loc|Definite=Ind|Number=Sing	26	nmod:npmod	_	_
+25	տեղեկատվության	տեղեկատվություն	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	26	nmod:poss	_	_
+26	փոխանցման	փոխանցում	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	27	nmod:poss	_	_
+27	համակարգի	համակարգ	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	28	nmod:poss	_	_
+28	ներդրման	ներդրում	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	29	nmod:poss	_	_
+29	հնարավորությունները	հնարավորություն	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Plur	5	obj	_	SpaceAfter=No
+30	:	:	PUNCT	_	_	5	punct	_	_
+
+# doc_title = Հայաստանը պատրաստ է ժողովրդականություն չվայելող քայլեր իրագործել. Կարեն Կարապետյանի հարցազրույցը Reuters-ին
+# newdoc id = news-003P
+# newpar id = news-003P-0008
+# sent_id = news-003P-00080AI9
+# text = Կարեն Կարապետյանը նաև իրատեսական է համարել այս տարի գրավել 850 միլիոն դոլարի ներդրումներ, որոնց զգալի մասը կլինի մասնավոր սեկտորից:
+1	Կարեն	Կարեն	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	6	nsubj	_	_
+2	Կարապետյանը	Կարապետյան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	1	flat	_	_
+3	նաև	նաև	CCONJ	_	ConjType=Comp	6	cc	_	_
+4	իրատեսական	իրատեսական	ADV	_	_	6	xcomp	_	_
+5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	համարել	համարել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	_
+7	այս	այս	DET	_	Distance=Prox|PronType=Dem	8	det	_	_
+8	տարի	տարի	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	9	obl	_	_
+9	գրավել	գրավել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	6	ccomp	_	_
+10	850	850	NUM	_	NumForm=Digit|NumType=Card	12	nummod	_	_
+11	միլիոն	միլիոն	NUM	_	NumForm=Word|NumType=Card	10	flat	_	_
+12	դոլարի	դոլար	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	13	nmod:poss	_	_
+13	ներդրումներ	ներդրում	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Plur	9	obj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	20	punct	_	_
+15	որոնց	որ	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Rel	17	det:poss	_	_
+16	զգալի	զգալի	ADJ	_	Degree=Pos	17	amod	_	_
+17	մասը	մաս	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	20	nsubj	_	_
+18	կլինի	լինել	AUX	_	Aspect=Prosp|Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	20	cop	_	_
+19	մասնավոր	մասնավոր	ADJ	_	_	20	amod	_	_
+20	սեկտորից	սեկտոր	NOUN	_	Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing	13	acl:relcl	_	SpaceAfter=No
+21	:	:	PUNCT	_	_	6	punct	_	_
+
+# doc_title = Վիգեն Սարգսյանը Մոսկվայից շտապել է Արցախ. Ինչ է պարզվել Կրեմլում
+# newdoc id = news-003O
+# newpar id = news-003O-000E
+# sent_id = news-003O-000E0AHV
+# text = Խնդիրն այն է, որ Հայաստանը ոչ թե փորձի շահագործել շարժման այդ էֆեկտը և «ապրել տոկոսներով»՝ ինչը գործնականում այլևս դարձել է ոչ միայն անհնար, այլ խիստ վտանգավոր, այլ գեներացնել այն և վերածել պետական էֆեկտիվ քաղաքականության, քանի դեռ կա դրա պատմա-քաղաքական շոշափելի հնարավորությունը:
+1	Խնդիրն	խնդիր	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	_
+2	այն	այն	PRON	_	Distance=Dist|Number=Sing|PronType=Dem	0	root	_	_
+3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	cop	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	9	punct	_	_
+5	որ	որ	SCONJ	_	_	9	mark	_	_
+6	Հայաստանը	Հայաստան	PROPN	_	Animacy=Inan|Case=Nom|Definite=Def|NameType=Geo|Number=Sing	9	nsubj	_	_
+7	ոչ	ոչ	PART	_	_	9	cc	_	_
+8	թե	թե	CCONJ	_	_	7	fixed	_	_
+9	փորձի	փորձել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	_
+10	շահագործել	շահագործել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+11	շարժման	շարժում	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	13	nmod:poss	_	_
+12	այդ	այդ	DET	_	Distance=Med|PronType=Dem	13	det	_	_
+13	էֆեկտը	էֆեկտ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	10	obj	_	_
+14	և	և	CCONJ	_	_	16	cc	_	_
+15	«	«	PUNCT	_	_	16	punct	_	SpaceAfter=No
+16	ապրել	ապրել	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	10	conj	_	_
+17	տոկոսներով	տոկոս	NOUN	_	Animacy=Inan|Case=Ins|Definite=Ind|Number=Plur	16	obl	_	SpaceAfter=No
+18	»	»	PUNCT	_	_	16	punct	_	SpaceAfter=No
+19	՝	՝	PUNCT	_	_	23	punct	_	_
+20	ինչը	ինչ	PRON	_	Case=Nom|Definite=Def|Number=Sing|PronType=Rel	23	nsubj	_	_
+21	գործնականում	գործնական	NOUN	_	Animacy=Inan|Case=Loc|Definite=Ind|Number=Sing	23	obl	_	_
+22	այլևս	այլևս	ADV	_	_	23	advmod	_	_
+23	դարձել	դառնալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	10	acl:relcl	_	_
+24	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	23	aux	_	_
+25	ոչ	ոչ	PART	_	_	27	cc	_	_
+26	միայն	միայն	ADV	_	_	25	fixed	_	_
+27	անհնար	անհնար	ADJ	_	Degree=Pos	23	xcomp	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	31	punct	_	_
+29	այլ	այլ	CCONJ	_	ConjType=Comp	31	cc	_	_
+30	խիստ	խիստ	ADV	_	_	31	advmod	_	_
+31	վտանգավոր	վտանգավոր	ADJ	_	Degree=Pos	27	conj	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	34	punct	_	_
+33	այլ	այլ	CCONJ	_	ConjType=Comp	34	cc	_	_
+34	գեներացնել	գեներացնել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	10	conj	_	_
+35	այն	այն	PRON	_	Distance=Dist|Number=Sing|PronType=Dem	34	obj	_	_
+36	և	և	CCONJ	_	_	37	cc	_	_
+37	վերածել	վերածել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	34	conj	_	_
+38	պետական	պետական	ADJ	_	_	40	amod	_	_
+39	էֆեկտիվ	էֆեկտիվ	ADJ	_	Degree=Pos	40	amod	_	_
+40	քաղաքականության	քաղաքականություն	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	37	obj	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	44	punct	_	_
+42	քանի	քանի	SCONJ	_	_	44	mark	_	_
+43	դեռ	դեռ	ADV	_	_	42	fixed	_	_
+44	կա	կամ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	34	advcl	_	_
+45	դրա	դա	DET	_	Case=Gen|Distance=Med|Number=Sing|Poss=Yes|PronType=Dem	50	det:poss	_	_
+46	պատմա	պատմական	ADJ	_	Hyph=Yes	50	amod	_	SpaceAfter=No
+47	-	-	PUNCT	_	_	48	punct	_	SpaceAfter=No
+48	քաղաքական	քաղաքական	ADJ	_	Degree=Pos	46	conj	_	_
+49	շոշափելի	շոշափելի	ADJ	_	Degree=Pos	50	amod	_	_
+50	հնարավորությունը	հնարավորություն	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	44	nsubj	_	SpaceAfter=No
+51	:	:	PUNCT	_	_	2	punct	_	_
+
+# doc_title = ԱՄՆ դեսպանատան կողմից աջակցություն ստացող «Անսահմանափակ շարժում» ծրագիրը ի ցույց է դնում հաշմանդամություն ունեցող մարդկանց ներառման հարցը
+# newdoc id = news-003N
+# newpar id = news-003N-0004
+# sent_id = news-003N-00040AH7
+# text = Դեսպանը նաև քաջալերեց պարողներին, նրանց ծնողներին և ծրագրին աջակցող այլ անհատներին նրանց նվիրվածության համար:
+1	Դեսպանը	դեսպան	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	_
+2	նաև	նաև	CCONJ	_	ConjType=Comp	3	cc	_	_
+3	քաջալերեց	քաջալերել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	պարողներին	պարող	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	նրանց	նա	DET	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	ծնողներին	ծնող	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur	4	conj	_	_
+8	և	և	CCONJ	_	_	12	cc	_	_
+9	ծրագրին	ծրագիր	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Sing	10	obj	_	_
+10	աջակցող	աջակցել	VERB	_	Aspect=Dur|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	12	acl	_	_
+11	այլ	այլ	DET	_	PronType=Ind	12	det	_	_
+12	անհատներին	անհատ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur	4	conj	_	_
+13	նրանց	նա	DET	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	նվիրվածության	նվիրվածություն	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	3	obl	_	_
+15	համար	համար	ADP	_	AdpType=Post	14	case	_	SpaceAfter=No
+16	:	:	PUNCT	_	_	3	punct	_	_
+
+# doc_title = Իմ «ղարաբաղյան շարժումը»
+# newdoc id = news-003M
+# newpar id = news-003M-000J
+# sent_id = news-003M-000J0AGQ
+# text = Ղարաբաղյան շարժման հետագա բոլոր օրերին հրապարակում էին և նրանք, ովքեր առաջին օրը գնացին Միլոշ Ֆորմանի ֆիլմը նայելու, նաև նրանք, ովքեր չնայեցին ֆիլմն այդ օրը՝ քայլելով դեպի Ազատության հրապարակ:
+1	Ղարաբաղյան	ղարաբաղյան	ADJ	_	_	2	amod	_	_
+2	շարժման	շարժում	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	5	nmod:poss	_	_
+3	հետագա	հետագա	ADJ	_	_	5	amod	_	_
+4	բոլոր	բոլոր	DET	_	PronType=Tot	5	det	_	_
+5	օրերին	օր	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Plur	6	obl	_	_
+6	հրապարակում	հրապարակ	NOUN	_	Animacy=Inan|Case=Loc|Definite=Ind|Number=Sing	0	root	_	_
+7	էին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	6	cop	_	_
+8	և	և	CCONJ	_	_	9	advmod:emph	_	_
+9	նրանք	նա	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	ովքեր	ով	PRON	_	Number=Plur|PronType=Rel	14	nsubj	_	_
+12	առաջին	առաջին	ADJ	_	Degree=Pos|NumForm=Word|NumType=Ord	13	amod	_	_
+13	օրը	օր	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	14	obl	_	_
+14	գնացին	գնալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	9	acl:relcl	_	_
+15	Միլոշ	Միլոշ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	17	nmod:poss	_	_
+16	Ֆորմանի	Ֆորման	PROPN	_	Animacy=Hum|Case=Dat|Definite=Ind|NameType=Sur|Number=Sing	15	flat	_	_
+17	ֆիլմը	ֆիլմ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	18	obj	_	_
+18	նայելու	նայել	VERB	_	Case=Dat|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Intr|VerbForm=Gdv|Voice=Mid	14	advcl	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	նաև	նաև	CCONJ	_	ConjType=Comp	21	cc	_	_
+21	նրանք	նա	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	conj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	ովքեր	ով	PRON	_	Number=Plur|PronType=Rel	24	nsubj	_	_
+24	չնայեցին	նայել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	21	acl:relcl	_	_
+25	ֆիլմն	ֆիլմ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	24	obj	_	_
+26	այդ	այդ	DET	_	Distance=Med|PronType=Dem	27	det	_	_
+27	օրը	օր	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	24	obl	_	SpaceAfter=No
+28	՝	՝	PUNCT	_	_	29	punct	_	_
+29	քայլելով	քայլել	VERB	_	Case=Ins|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Intr|VerbForm=Gdv|Voice=Mid	24	advcl	_	_
+30	դեպի	դեպի	ADP	_	AdpType=Prep	32	case	_	_
+31	Ազատության	ազատություն	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	32	nmod:poss	_	_
+32	հրապարակ	հրապարակ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	29	obl	_	SpaceAfter=No
+33	:	:	PUNCT	_	_	6	punct	_	_
+
+# doc_title = Հյուսիս-հարավը սպասում է իրավապահներին
+# newdoc id = news-003J
+# newpar id = news-003J-0007
+# sent_id = news-003J-00070AF9
+# text = Հյուսիս-հարավը վաղուց սպասում է իրավապահներին, իսկ ահա ում են սպասում իրավապահները՝ այնքան էլ պարզ չէ:
+1	Հյուսիս	հյուսիս	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	5	nsubj	_	SpaceAfter=No
+2	-	-	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	հարավը	հարավ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	1	flat	_	_
+4	վաղուց	վաղուց	ADV	_	_	5	advmod	_	_
+5	սպասում	սպասել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	_
+6	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	_
+7	իրավապահներին	իրավապահ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur	5	obj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	18	punct	_	_
+9	իսկ	իսկ	CCONJ	_	_	11	advmod:emph	_	_
+10	ահա	ահա	PART	_	_	13	discourse	_	_
+11	ում	ով	PRON	_	Case=Dat|Number=Sing|PronType=Int	13	obj	_	_
+12	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	13	aux	_	_
+13	սպասում	սպասել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	18	csubj	_	_
+14	իրավապահները	իրավապահ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	13	nsubj	_	SpaceAfter=No
+15	՝	՝	PUNCT	_	_	18	punct	_	_
+16	այնքան	այնքան	ADV	_	Distance=Dist|PronType=Dem	18	advmod	_	_
+17	էլ	էլ	PART	_	_	16	advmod:emph	_	_
+18	պարզ	պարզ	ADJ	_	Degree=Pos	5	conj	_	_
+19	չէ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	18	cop	_	SpaceAfter=No
+20	:	:	PUNCT	_	_	5	punct	_	_
+
+# doc_title = Խաղաղապահներ Ղարաբաղում. Իրանի դիրքորոշումը և հնարավոր քայլերը
+# newdoc id = news-003H
+# newpar id = news-003H-000K
+# sent_id = news-003H-000K0AEP
+# text = Այդ պարագայում Հայաստանի դիրքերին որևէ վնաս չի հասցվի:
+1	Այդ	այդ	DET	_	Distance=Med|PronType=Dem	2	det	_	_
+2	պարագայում	պարագա	NOUN	_	Animacy=Inan|Case=Loc|Definite=Ind|Number=Sing	8	obl	_	_
+3	Հայաստանի	Հայաստան	PROPN	_	Animacy=Inan|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	4	nmod:poss	_	_
+4	դիրքերին	դիրք	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Plur	8	obl	_	_
+5	որևէ	որևէ	DET	_	PronType=Ind	6	det	_	_
+6	վնաս	վնաս	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	8	nsubj:pass	_	_
+7	չի	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	հասցվի	հասնել	VERB	_	Aspect=Prosp|Connegative=Yes|Mood=Cnd|Subcat=Intr|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+9	:	:	PUNCT	_	_	8	punct	_	_
+
+# doc_title = «Օհանյան-Րաֆֆի-Օսկանյան» դաշինքի առաջին հանդիպումները
+# newdoc id = news-003G
+# newpar id = news-003G-0002
+# sent_id = news-003G-00020ADE
+# text = Պառավաքարում նրանք հյուրընկալվեցին հաշմանդամություն ունեցող բնակչի տանը։
+1	Պառավաքարում	Պառավաքար	PROPN	_	Animacy=Inan|Case=Loc|Definite=Ind|NameType=Geo|Number=Sing	3	obl	_	_
+2	նրանք	նա	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj:pass	_	_
+3	հյուրընկալվեցին	հյուրընկալել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	հաշմանդամություն	հաշմանդամություն	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	5	obj	_	_
+5	ունեցող	ունենալ	VERB	_	Aspect=Dur|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	6	acl	_	_
+6	բնակչի	բնակիչ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	7	nmod:poss	_	_
+7	տանը	տուն	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Sing	3	obl	_	SpaceAfter=No
+8	։	։	PUNCT	_	_	3	punct	_	_
+
+# doc_title = Հայաստանում նախորդ տարվա ընթացքում գրանցվել է 1564 նոր ապրանքային նշան
+# newdoc id = news-003F
+# newpar id = news-003F-0007
+# sent_id = news-003F-00070AD7
+# text = Ինչ վերաբերում է օտարերկրյա իրավաբանական անձանց ակտիվությանը, ապա 2016 թվականին ազգային ընթացակարգով ստացվել է 456 հայտ, որը 2015 թվականի համեմատությամբ նվազել է 99-ով։
+1	Ինչ	ինչ	PRON	_	Case=Nom|Number=Sing|PronType=Int	2	nsubj	_	_
+2	վերաբերում	վերաբերել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	14	advcl	_	_
+3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	_
+4	օտարերկրյա	օտարերկրյա	ADJ	_	_	6	amod	_	_
+5	իրավաբանական	իրավաբանական	ADJ	_	_	6	amod	_	_
+6	անձանց	անձ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Plur	7	nmod:poss	_	_
+7	ակտիվությանը	ակտիվություն	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Sing	2	obj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	14	punct	_	_
+9	ապա	ապա	CCONJ	_	ConjType=Comp	14	cc	_	_
+10	2016	2016	NUM	_	NumForm=Digit|NumType=Card	11	nummod	_	_
+11	թվականին	թվական	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Sing	14	obl	_	_
+12	ազգային	ազգային	ADJ	_	Degree=Pos	13	amod	_	_
+13	ընթացակարգով	ընթացակարգ	NOUN	_	Animacy=Inan|Case=Ins|Definite=Ind|Number=Sing	14	obl	_	_
+14	ստացվել	ստանալ	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Pass	0	root	_	_
+15	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	aux	_	_
+16	456	456	NUM	_	NumForm=Digit|NumType=Card	17	nummod	_	_
+17	հայտ	հայտ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	14	nsubj:pass	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	23	punct	_	_
+19	որը	որ	PRON	_	Case=Nom|Definite=Def|Number=Sing|PronType=Rel	23	nsubj	_	_
+20	2015	2015	NUM	_	NumForm=Digit|NumType=Card	21	nummod	_	_
+21	թվականի	թվական	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	22	nmod:poss	_	_
+22	համեմատությամբ	համեմատություն	NOUN	_	Animacy=Inan|Case=Ins|Definite=Ind|Number=Sing	23	obl	_	_
+23	նվազել	նվազել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	17	acl:relcl	_	_
+24	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	23	aux	_	_
+25	99-ով	99	NOUN	_	Animacy=Inan|Case=Ins|Definite=Ind|Number=Sing|NumForm=Digit	23	obl	_	SpaceAfter=No
+26	։	։	PUNCT	_	_	14	punct	_	_
+
+# doc_title = Իրադրությունն առաջնագծում
+# newdoc id = news-003E
+# newpar id = news-003E-0003
+# sent_id = news-003E-00030ACS
+# text = ՊԲ առաջապահ զորամասերը հիմնականում ձեռնպահ են մնացել պատասխան գործողություններից և շարունակել իրականացնել մարտական դիրքերի հուսալի պահպանություն:
+1	ՊԲ	ՊԲ	PROPN	_	Abbr=Yes|Animacy=Inan|Case=Nom|Definite=Ind|NameType=Com|Number=Sing	3	nmod	_	_
+2	առաջապահ	առաջապահ	ADJ	_	_	3	amod	_	_
+3	զորամասերը	զորամաս	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Plur	7	nsubj	_	_
+4	հիմնականում	հիմնականում	ADV	_	_	7	advmod	_	_
+5	ձեռնպահ	ձեռնպահ	ADJ	_	_	7	compound:lvc	_	_
+6	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	մնացել	մնալ	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	_
+8	պատասխան	պատասխան	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	9	nmod	_	_
+9	գործողություններից	գործողություն	NOUN	_	Animacy=Inan|Case=Abl|Definite=Ind|Number=Plur	7	obl	_	_
+10	և	և	CCONJ	_	_	11	cc	_	_
+11	շարունակել	շարունակել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	7	conj	_	_
+12	իրականացնել	իրականանալ	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	11	xcomp	_	_
+13	մարտական	մարտական	ADJ	_	Degree=Pos	14	amod	_	_
+14	դիրքերի	դիրք	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Plur	16	nmod:poss	_	_
+15	հուսալի	հուսալի	ADJ	_	Degree=Pos	16	amod	_	_
+16	պահպանություն	պահպանություն	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	12	obj	_	SpaceAfter=No
+17	:	:	PUNCT	_	_	7	punct	_	_
+
+# doc_title = Ինչու պետք է Բոբ Դիլանը Նոբելյան մրցանակ ստանա, իսկ Մուրակամին՝ ոչ
+# newdoc id = news-003D
+# newpar id = news-003D-000C
+# sent_id = news-003D-000C0ACP
+# text = Ապա նա վառ ներկայացուցիչն է բիթնիկների մշակույթի, որը ցնցեց սպառողական հասարակությունը, որտեղ պատերազմի օրերին իշխող է դառնում ռազմա-հայրենասիրական հիստերիան, իսկ խաղաղ ժամանակ գորշությունը՝ իր 50 երանգներով։
+1	Ապա	ապա	ADV	_	_	4	advmod	_	_
+2	նա	նա	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	վառ	վառ	ADJ	_	_	4	amod	_	_
+4	ներկայացուցիչն	ներկայացուցիչ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	0	root	_	_
+5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	_
+6	բիթնիկների	բիթնիկ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Plur	7	nmod:poss	_	_
+7	մշակույթի	մշակույթ	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	4	nmod:poss	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	որը	որ	PRON	_	Case=Nom|Definite=Def|Number=Sing|PronType=Rel	10	nsubj	_	_
+10	ցնցեց	ցնցեց	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
+11	սպառողական	սպառողական	ADJ	_	_	12	amod	_	_
+12	հասարակությունը	հասարակություն	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	10	obj	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	19	punct	_	_
+14	որտեղ	որտեղ	PRON	_	Case=Nom|PronType=Rel	19	obl	_	_
+15	պատերազմի	պատերազմ	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	16	nmod:poss	_	_
+16	օրերին	օր	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Plur	19	obl	_	_
+17	իշխող	իշխել	VERB	_	Aspect=Dur|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	19	xcomp	_	_
+18	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	19	aux	_	_
+19	դառնում	դառնալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	12	acl:relcl	_	_
+20	ռազմա	ռազմական	ADJ	_	Hyph=Yes	23	amod	_	SpaceAfter=No
+21	-	-	PUNCT	_	_	22	punct	_	SpaceAfter=No
+22	հայրենասիրական	հայրենասիրական	ADJ	_	_	20	conj	_	_
+23	հիստերիան	հիստերիա	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	19	nsubj	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	28	punct	_	_
+25	իսկ	իսկ	CCONJ	_	_	28	cc	_	_
+26	խաղաղ	խաղաղ	ADJ	_	Degree=Pos	27	amod	_	_
+27	ժամանակ	ժամանակ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing	28	orphan	_	_
+28	գորշությունը	գորշություն	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	19	conj	_	SpaceAfter=No
+29	՝	՝	PUNCT	_	_	28	punct	_	_
+30	իր	ինքը	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	32	det:poss	_	_
+31	50	50	NUM	_	NumForm=Digit|NumType=Card	32	nummod	_	_
+32	երանգներով	երանգ	NOUN	_	Animacy=Inan|Case=Ins|Definite=Ind|Number=Plur	28	acl	_	SpaceAfter=No
+33	։	։	PUNCT	_	_	4	punct	_	_
+
+# doc_title = Աչքեր հանող, կաշի քերթող, գնդակահարող, բռնաբարող տեսակը ո՞նց կհանդուրժի
+# newdoc id = news-003C
+# newpar id = news-003C-000D
+# sent_id = news-003C-000D0ABT
+# text = Մյուս դեպքերում «մրցապայքարը» կարծում եմ հերթական անտաղանդ մարիոնետային բեմադրությունը կլինի:
+1	Մյուս	մյուս	DET	_	Distance=Dist|PronType=Dem	2	det	_	_
+2	դեպքերում	դեպք	NOUN	_	Animacy=Inan|Case=Loc|Definite=Ind|Number=Plur	11	obl	_	_
+3	«	«	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	մրցապայքարը	մրցապայքար	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	11	nsubj	_	SpaceAfter=No
+5	»	»	PUNCT	_	_	4	punct	_	_
+6	կարծում	կարծել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	11	parataxis	_	_
+7	եմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	_
+8	հերթական	հերթական	ADJ	_	_	11	amod	_	_
+9	անտաղանդ	անտաղանդ	ADJ	_	_	11	amod	_	_
+10	մարիոնետային	մարիոնետային	ADJ	_	_	11	amod	_	_
+11	բեմադրությունը	բեմադրություն	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	0	root	_	_
+12	կլինի	լինել	AUX	_	Aspect=Prosp|Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	SpaceAfter=No
+13	:	:	PUNCT	_	_	11	punct	_	_
+
+# doc_title = Ֆիզիկական հաշվեհարդարն ու դանակներն ընդդեմ քաղտեխնոլոգիաների
+# newdoc id = news-003B
+# newpar id = news-003B-000D
+# sent_id = news-003B-000D0AAP
+# text = Հարցը միայն այն է, թե արդյոք ընտրություններից հետո տեխնոկրատները պետք են լինելու Կարեն Կարապետյանին:
+1	Հարցը	հարց	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	_
+2	միայն	միայն	ADV	_	_	3	advmod	_	_
+3	այն	այն	PRON	_	Distance=Dist|Number=Sing|PronType=Dem	0	root	_	_
+4	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	11	punct	_	_
+6	թե	թե	SCONJ	_	_	11	mark	_	_
+7	արդյոք	արդյոք	PART	_	_	11	discourse	_	_
+8	ընտրություններից	ընտրություն	NOUN	_	Animacy=Inan|Case=Abl|Definite=Ind|Number=Plur	11	obl	_	_
+9	հետո	հետո	ADP	_	AdpType=Post	8	case	_	_
+10	տեխնոկրատները	տեխնոկրատ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	11	nsubj	_	_
+11	պետք	պետք	ADJ	_	_	3	acl	_	_
+12	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	_
+13	լինելու	լինել	AUX	_	Aspect=Prosp|VerbForm=Part	11	cop	_	_
+14	Կարեն	Կարեն	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	11	obj	_	_
+15	Կարապետյանին	Կարապետյան	PROPN	_	Animacy=Hum|Case=Dat|Definite=Def|NameType=Sur|Number=Sing	14	flat	_	SpaceAfter=No
+16	:	:	PUNCT	_	_	11	punct	_	_
+
