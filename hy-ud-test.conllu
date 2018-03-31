@@ -1878,7 +1878,7 @@
 22	,	,	PUNCT	_	_	25	punct	_	_
 23	տների	տուն	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Plur	24	obl	_	_
 24	ներքև	ներքև	ADV	_	Degree=Pos	25	advmod	_	_
-25	փորփրել	փորել	VERB	_	Aspect=Iter|Subcat=Tran|VerbForm=Part|Voice=Act	16	conj	_	SpaceAfter=No
+25	փորփրել	փորել	VERB	_	Aspect=Iter,Perf|Subcat=Tran|VerbForm=Part|Voice=Act	16	conj	_	SpaceAfter=No
 26	,	,	PUNCT	_	_	29	punct	_	_
 27	հետազոտումներ	հետազոտում	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Plur	29	obj	_	_
 28	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	29	aux	_	_
@@ -1919,7 +1919,7 @@
 16	պապս	պապ	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	19	nsubj	_	_
 17	քթի	քիթ	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	19	obl	_	_
 18	տակ	տակ	ADP	_	AdpType=Post|Case=Nom	17	case	_	_
-19	խնդմնդացել	խնդմնդալ	VERB	_	Aspect=Iter|Subcat=Intr|VerbForm=Part|Voice=Mid	12	conj	_	_
+19	խնդմնդացել	խնդմնդալ	VERB	_	Aspect=Iter,Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	12	conj	_	_
 20	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	19	aux	_	SpaceAfter=No
 21	։	։	PUNCT	_	_	12	punct	_	_
 
@@ -4307,7 +4307,7 @@
 15	փորին	փոր	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Sing	14	obl	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	18	punct	_	_
 17	ողնաշարը	ողնաշար	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	18	nsubj	_	_
-18	ճթճթում	ճթթալ	VERB	_	Aspect=Iter|Subcat=Intr|VerbForm=Part|Voice=Mid	8	parataxis	_	SpaceAfter=No
+18	ճթճթում	ճթթալ	VERB	_	Aspect=Imp,Iter|Subcat=Intr|VerbForm=Part|Voice=Mid	8	parataxis	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	22	punct	_	_
 20	մեջքի	մեջք	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing	21	nmod:poss	_	_
 21	ոսկորները	ոսկոր	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Plur	22	nsubj	_	_
@@ -4713,7 +4713,7 @@
 22	ապա	ապա	ADV	_	_	23	advmod	_	_
 23	պայթում	պայթել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	3	parataxis	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	_
-25	տրաքտրաքում	տրաքել	VERB	_	Aspect=Iter|Subcat=Intr|VerbForm=Part|Voice=Mid	23	conj	_	_
+25	տրաքտրաքում	տրաքել	VERB	_	Aspect=Imp,Iter|Subcat=Intr|VerbForm=Part|Voice=Mid	23	conj	_	_
 26	անվերջ	անվերջ	ADV	_	_	25	advmod	_	SpaceAfter=No
 27	,	,	PUNCT	_	_	28	punct	_	_
 28	շնչահեղձ	շնչահեղձ	ADJ	_	_	29	ccomp	_	_
@@ -5507,7 +5507,7 @@
 21	հսկա	հսկա	ADJ	_	Degree=Pos	22	amod	_	_
 22	չինարիների	չինարի	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Plur	18	appos	_	_
 23	տակ	տակ	ADP	_	AdpType=Post|Case=Nom	22	case	_	_
-24	նստոտած	նստել	VERB	_	Aspect=Iter|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	28	acl	_	_
+24	նստոտած	նստել	VERB	_	Aspect=Iter,Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	28	acl	_	_
 25	ու	ու	CCONJ	_	_	27	cc	_	_
 26	ծեսին	ծես	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Sing	27	obj	_	_
 27	սպասող	սպասել	VERB	_	Aspect=Dur|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	24	conj	_	_
@@ -5537,7 +5537,7 @@
 # text = Չինարիների տակ նստոտած ու ծեսին սպասող մարդիկ հաջորդ օրը և հետագա ամբողջ կյանքում հիշեցին այդ կնոջ ասածը, որովհետև 1941 թվականի ամառային արևադարձին նախորդող օրվա երեկոյան Հաչա Քարի կատարները չվառվեցին, գիշերը լուսավոր չեղավ, իսկ առավոտյան՝ պատերազմը մտավ Գյուղ, թակեց լուսամուտները, շրխկոցով բացեց բոլոր դռները, չափահաս տղամարդկանց շարք կանգնեցրեց ու տարավ ռազմաճակատ։
 1	Չինարիների	չինարի	NOUN	_	Animacy=Inan|Case=Dat|Definite=Ind|Number=Plur	3	obl	_	_
 2	տակ	տակ	ADP	_	AdpType=Post|Case=Nom	1	case	_	_
-3	նստոտած	նստել	VERB	_	Aspect=Iter|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	7	acl	_	_
+3	նստոտած	նստել	VERB	_	Aspect=Iter,Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	7	acl	_	_
 4	ու	ու	CCONJ	_	_	6	cc	_	_
 5	ծեսին	ծես	NOUN	_	Animacy=Inan|Case=Dat|Definite=Def|Number=Sing	6	obj	_	_
 6	սպասող	սպասել	VERB	_	Aspect=Dur|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	3	conj	_	_
