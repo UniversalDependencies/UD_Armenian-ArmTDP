@@ -42,7 +42,7 @@ UD_Armenian data conforms to [CoNLL-U](http://universaldependencies.org/format.h
   * Document titles are present as `# doc_title = Ագռավները Նոյից առաջ`.
   * Document boundaries are present as `# newdoc id = fiction/news-xxxx`.
   * Sentence-level paragraph boundaries are present as `# newpar id = newdoc-xxxx`.
-  * Sentence boundaries are present as `# sent_id = newdoc-newparxxxx`
+  * Sentence boundaries are present as `# sent_id = newdoc-newparxxxx`.
 * XPOSTAG column is currently unused.
 * No enhanced dependencies or empty nodes present in DEPS column.
 * MISC column:
