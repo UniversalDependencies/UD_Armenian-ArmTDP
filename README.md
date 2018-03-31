@@ -25,9 +25,9 @@ The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna 
 
 | set   | sentences | ~tokens |
 | ----- |----------:| -------:|
-| train |     ---   |    --K  |
-| test  |     ---   |    --K  |
-| TOTAL |    ----   |   ---K  |
+| train |     50    |    --K  |
+| test  |    514    |   ---K  |
+| TOTAL |    564    | 12213K  |
 
 
 # Data split
@@ -53,7 +53,7 @@ UD_Armenian data conforms to [CoNLL-U](http://universaldependencies.org/format.h
 # Changelog
 
 * 2018-30-03 **v2.2**
-  * First release in UD containing 12216 tokens of news examples and fiction.
+  * First release in UD containing 12213 tokens of news examples and fiction.
 
 
 === Machine-readable metadata (DO NOT REMOVE!) ================================
