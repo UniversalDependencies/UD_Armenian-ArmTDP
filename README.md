@@ -44,6 +44,7 @@ UD_Armenian data conforms to [CoNLL-U](http://universaldependencies.org/format.h
   * Reconsidered Animacy
   * Improved advmod vs. obl distinction
   * Improved treatment of comparative complements
+  * Fixed various individual annotation errors and inconsistencies, added new texts: 12→23K
 * 2018-30-03 **v2.2**
   * Initial release
 
