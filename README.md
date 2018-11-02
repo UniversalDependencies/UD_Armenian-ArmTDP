@@ -50,7 +50,7 @@ UD_Armenian data conforms to [CoNLL-U](http://universaldependencies.org/format.h
 
 ```
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.3
+Data available since: UD v2.2
 License: CC BY-SA 4.0
 Documentation status: full
 Includes text: yes
