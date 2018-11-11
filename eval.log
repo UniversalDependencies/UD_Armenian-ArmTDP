@@ -1,40 +1,40 @@
 Running the following version of tools/evaluate_treebank.pl:
-commit 87d374bbd458d29331d76014d05c52eaac32518d
+commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Apr 11 09:21:53 2018 +0200
+Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Armenian-ArmTDP:
-commit 8deec5e2d4fe05a0e6ed3f2bd425baf633a4d9d7
+commit f6c6b993426f2443ad7154126c7274cd1e0e5828
+Merge: 1c21881 785079a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Apr 11 09:13:51 2018 +0200
-Size: counted 12153 of 12153 words (nodes).
-Size: min(0, log((N/1000)**2)) = 4.99515210577733.
+Size: counted 22788 of 22788 words (nodes).
+Size: min(0, log((N/1000)**2)) = 6.2524681632363.
 Size: maximum value 13.815511 is for 1000000 words or more.
-Split: Did not find more than 10000 training words.
+Split: Found more than 10000 training words.
 Split: Did not find at least 10000 development words.
 Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 8366 out of 12153 total words have one or more features.
+Features: 15700 out of 22788 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
-Universal relations: 33 out of 37 found in the corpus.
+Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi: found 58 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 12153 words.
-Genres: found 2 out of 14 known.
+Udapi: found 84 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 22788 words.
+Genres: found 2 out of 17 known.
 validate.py --lang hy --max-err=10 UD_Armenian-ArmTDP/hy_armtdp-ud-test.conllu
 *** PASSED ***
 validate.py --lang hy --max-err=10 UD_Armenian-ArmTDP/hy_armtdp-ud-train.conllu
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.142857142857143) = 0.010989010989011
+(weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0.36156116596775) = 0.0927079912737821
-(weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
+(weight=0.256410256410256) * (score{size}=0.452568736928214) = 0.116043265879029
+(weight=0.0512820512820513) * (score{split}=0.67) = 0.0343589743589744
 (weight=0.0769230769230769) * (score{tags}=1) = 0.0769230769230769
-(weight=0.307692307692308) * (score{udapi}=0.952275158397104) = 0.293007741045263
-(weight=0.0769230769230769) * (score{udeprels}=0.891891891891892) = 0.0686070686070686
-(TOTAL score=0.713516940120253) * (availability=1) * (validity=1) = 0.713516940120253
-STARS = 3.5
-UD_Armenian-ArmTDP	0.713516940120253	3.5
+(weight=0.307692307692308) * (score{udapi}=0.963138493944181) = 0.296350305828979
+(weight=0.0769230769230769) * (score{udeprels}=0.918918918918919) = 0.0706860706860707
+(TOTAL score=0.75725762127794) * (availability=1) * (validity=1) = 0.75725762127794
+STARS = 4
+UD_Armenian-ArmTDP	0.75725762127794	4
