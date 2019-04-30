@@ -1,6 +1,6 @@
 # Summary
 
-Gold standard Universal Dependencies corpus for Modern Eastern Armenian , developed for UD originally by the ArmTDP team led by Marat M. Yavrumyan at the Yerevan State University.
+Gold standard Universal Dependencies treebank for Modern Eastern Armenian, developed for UD originally by the ArmTDP team led by Marat M. Yavrumyan at the Yerevan State University.
 
 # Introduction
 
