@@ -1,6 +1,6 @@
 # Summary
 
-The ArmTDP Eastern Armenian UD treebank is based on the ՀայՇտեմ-ArmTDP-East dataset (2.0), created by the ArmTDP team led by Marat M. Yavrumyan at the Yerevan State University.
+Gold standard Universal Dependencies corpus for Modern Eastern Armenian , developed for UD originally by the ArmTDP team led by Marat M. Yavrumyan at the Yerevan State University.
 
 # Introduction
 
