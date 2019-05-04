@@ -12,7 +12,7 @@ The annotation scheme was developed in according to the UD guidelines. The origi
 
 This work became possible in part by a research grant from the Armenian National Science and Education Fund (ANSEF) based in New York, USA. We are deeply grateful to ANSEF, also to Lragir.am, 1in.am and Yavruhrat Publishing for letting us download and exploit their articles as text material under the terms of educational use.
 
-The team behind the UD_Armenian: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna S. Danielyan, Gor D. Arakelyan, Martin S. Mirakyan.
+The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna S. Danielyan, Gor D. Arakelyan, Martin S. Mirakyan.
 
 ## References
 
@@ -26,7 +26,7 @@ See [stats.xml](https://github.com/UniversalDependencies/UD_Armenian-ArmTDP/blob
 
 ## Format
 
-UD_Armenian data conforms to [CoNLL-U](http://universaldependencies.org/format.html) format with the following specifics:
+UD_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependencies.org/format.html) format with the following specifics:
 * Sentence-level comments:
   * Document titles are present as `# doc_title = Ագռավները Նոյից առաջ`.
   * Document boundaries are present as `# newdoc id = fiction/news-xxxx`.
