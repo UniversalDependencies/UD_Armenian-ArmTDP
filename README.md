@@ -66,7 +66,7 @@ Data available since: UD v2.2
 License: CC BY-SA 4.0
 Documentation status: full
 Includes text: yes
-Genre: news fiction grammar-examples
+Genre: news fiction grammar-examples legal
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
