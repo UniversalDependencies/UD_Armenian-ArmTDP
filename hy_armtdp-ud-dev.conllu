@@ -1,7 +1,7 @@
 # doc_title = Actus tragicus
-# newdoc id = fiction-006Q
-# newpar id = fiction-006Q-0001
-# sent_id = fiction-006Q-00010CJQ
+# newdoc id = nonfiction-006Q
+# newpar id = nonfiction-006Q-0001
+# sent_id = nonfiction-006Q-00010CJQ
 # text = Երիտասարդության միակ պատրանքը անմահությունն է, որն ավարտվում է պարտությամբ… և ուրեմն պարտությունը անմահության սկիզբն է:
 # translit = Eritasardowt’yan miak patrank’ë anmahowt’yownn ē, orn avartvowm ē partowt’yamb… ew owremn partowt’yownë anmahowt’yan skizbn ē.
 1	Երիտասարդության	երիտասարդություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	3	nmod:poss	_	Translit=Eritasardowt’yan|LTranslit=eritasardowt’yown
@@ -23,7 +23,7 @@
 17	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	16	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
 18	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00010CJR
+# sent_id = nonfiction-006Q-00010CJR
 # text = Պարտությունը չունի բարոյականություն և չունի հայրենիք, ինչպես` քաոսը համակարգ. այն ընդունում է երիտասարդությանը գրկաբաց` փաթաթելով նրան մենակության սառը սավանով:
 # translit = Partowt’yownë čowni baroyakanowt’yown ew čowni hayrenik’, inčpes, k’aosë hamakarg. ayn ëndownowm ē eritasardowt’yanë grkabac’, p’at’at’elov nran menakowt’yan saṙë savanov.
 1	Պարտությունը	պարտություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	Translit=Partowt’yownë|LTranslit=partowt’yown
@@ -51,7 +51,7 @@
 23	սավանով	սավան	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	19	obl	_	Translit=savanov|LTranslit=savan|SpaceAfter=No
 24	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00010CJS
+# sent_id = nonfiction-006Q-00010CJS
 # text = Մենք չունենք մտքեր, սոսկ զգացմունքների առկայծումներ, որոնք տեսանելի են միայն խավարին:
 # translit = Menk’ čownenk’ mtk’er, sosk zgac’mownk’neri aṙkayçowmner, oronk’ tesaneli en miayn xavarin.
 1	Մենք	մենք	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Translit=Menk’|LTranslit=menk’
@@ -69,7 +69,7 @@
 13	խավարին	խավար	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	10	obl	_	Translit=xavarin|LTranslit=xavar|SpaceAfter=No
 14	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00010CJT
+# sent_id = nonfiction-006Q-00010CJT
 # text = Մենք չենք գալիս ավանդույթներից ու չենք գնում դեպի ավանդույթները. բնությունը չի կարող ավանդույթ ունենալ, ինչպես` Աստված չի կարող հայր ունենալ:
 # translit = Menk’ čenk’ galis avandowyt’neric’ ow čenk’ gnowm depi avandowyt’nerë. bnowt’yownë či karoġ avandowyt’ ownenal, inčpes, Astvaç či karoġ hayr ownenal.
 1	Մենք	մենք	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	Translit=Menk’|LTranslit=menk’
@@ -97,7 +97,7 @@
 23	ունենալ	ունենալ	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	21	xcomp	_	Translit=ownenal|LTranslit=ownenal|SpaceAfter=No
 24	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00010CJU
+# sent_id = nonfiction-006Q-00010CJU
 # text = Պարտությունը անմիտ է, բայց ոչ անզգա. ավելի լավ է երիտասարդ լինել, քան մարդ և ավելի բարոյական է պարտվել, քան հաղթել այս կյանքում, եթե այս կյանքը կա առհասարակ:
 # translit = Partowt’yownë anmit ē, bayc’ oč anzga. aveli lav ē eritasard linel, k’an mard ew aveli baroyakan ē partvel, k’an haġt’el ays kyank’owm, et’e ays kyank’ë ka aṙhasarak.
 1	Պարտությունը	պարտություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	Translit=Partowt’yownë|LTranslit=partowt’yown
@@ -134,7 +134,7 @@
 32	առհասարակ	առհասարակ	ADV	_	_	31	advmod	_	Translit=aṙhasarak|LTranslit=aṙhasarak|SpaceAfter=No
 33	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00010CJV
+# sent_id = nonfiction-006Q-00010CJV
 # text = Իսկ ո՞վ է զգացմունքից զուրկ միտքը, ողորմելի մի կմախք, որ հավետ պարտվում է քամուն:
 # translit = Isk o?v ē zgac’mownk’ic’ zowrk mitk’ë, oġormeli mi kmaxk’, or havet partvowm ē k’amown.
 1	Իսկ	իսկ	CCONJ	_	_	2	cc	_	Translit=Isk|LTranslit=isk
@@ -157,7 +157,7 @@
 17	քամուն	քամի	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	15	obj	_	Translit=k’amown|LTranslit=k’ami|SpaceAfter=No
 18	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00010CK0
+# sent_id = nonfiction-006Q-00010CK0
 # text = Հասուն ու հղկված միտք` կենսափորձով լեցուն, կենտրոն և երկհայացք` ուղղված անցյալին ու ապագային. ահա սա է հաղթանակի ծեծված թիրախը. պետք է մեկ անգամ դիպուկահարել թիրախը, այլ ոչ ողջ կյանքի ընթացքում լայնացնել նույն անցքը` կորցնելով խանդավառությունը:
 # translit = Hasown ow hġkvaç mitk’, kensap’orjov lec’own, kentron ew erkhayac’k’, owġġvaç anc’yalin ow apagayin. aha sa ē haġt’anaki çeçvaç t’iraxë. petk’ ē mek angam dipowkaharel t’iraxë, ayl oč oġǰ kyank’i ënt’ac’k’owm laynac’nel nowyn anc’k’ë, korc’nelov xandavaṙowt’yownë.
 1	Հասուն	հասուն	ADJ	_	Degree=Pos	4	amod	_	Translit=Hasown|LTranslit=hasown
@@ -204,8 +204,8 @@
 42	խանդավառությունը	խանդավառություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	41	obj	_	Translit=xandavaṙowt’yownë|LTranslit=xandavaṙowt’yown|SpaceAfter=No
 43	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# newpar id = fiction-006Q-0002
-# sent_id = fiction-006Q-00020CK1
+# newpar id = nonfiction-006Q-0002
+# sent_id = nonfiction-006Q-00020CK1
 # text = Իսկ ներկա՞ն. արդյոք ներկան չի ձևավորում գեղեցկությունը, և ակնթարթը չի նույնանում հավերժությանը:
 # translit = Isk nerka?n. ardyok’ nerkan či jewavorowm geġec’kowt’yownë, ew aknt’art’ë či nowynanowm haveržowt’yanë.
 1	Իսկ	իսկ	CCONJ	_	_	2	cc	_	Translit=Isk|LTranslit=isk
@@ -226,7 +226,7 @@
 15	հավերժությանը	հավերժություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Coll	14	obl	_	Translit=haveržowt’yanë|LTranslit=haveržowt’yown|SpaceAfter=No
 16	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00020CK2
+# sent_id = nonfiction-006Q-00020CK2
 # text = Անցյալն ու ապագան սոսկ ներկայի թափոններն են, ուրեմն կենսափորձով բթացած կյանքը խաբնվում է ժամանակի սլացքին, իսկ ժամանակը երբեք չի իմաստացնում մարդուն, ընդհակառակը` տարիների ընթացքում քամում է նրա ողջ իմաստնությունը:
 # translit = Anc’yaln ow apagan sosk nerkayi t’ap’onnern en, owremn kensap’orjov bt’ac’aç kyank’ë xabnvowm ē žamanaki slac’k’in, isk žamanakë erbek’ či imastac’nowm mardown, ëndhakaṙakë, tarineri ënt’ac’k’owm k’amowm ē nra oġǰ imastnowt’yownë.
 1	Անցյալն	անցյալ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	Translit=Anc’yaln|LTranslit=anc’yal
@@ -264,7 +264,7 @@
 33	իմաստնությունը	իմաստնություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	29	obj	_	Translit=imastnowt’yownë|LTranslit=imastnowt’yown|SpaceAfter=No
 34	:	:	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00020CK3
+# sent_id = nonfiction-006Q-00020CK3
 # text = Երիտասարդությունը ներկան է. մեր երակներով հոսում է Փրկչի արյունը, և նրա երազանքի խիզախությունը:
 # translit = Eritasardowt’yownë nerkan ē. mer eraknerov hosowm ē P’rkči aryownë, ew nra erazank’i xizaxowt’yownë.
 1	Երիտասարդությունը	երիտասարդություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	2	nsubj	_	Translit=Eritasardowt’yownë|LTranslit=eritasardowt’yown
@@ -284,7 +284,7 @@
 15	խիզախությունը	խիզախություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	10	conj	_	Translit=xizaxowt’yownë|LTranslit=xizaxowt’yown|SpaceAfter=No
 16	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00020CK4
+# sent_id = nonfiction-006Q-00020CK4
 # text = Երեսուներեքամյա Հիսուսը փորձում է փրկել մարդկային հոգին, և այդ փորձը շրջում է պատմության ողջ ընթացքը:
 # translit = Eresownerek’amya Hisowsë p’orjowm ē p’rkel mardkayin hogin, ew ayd p’orjë šrǰowm ē patmowt’yan oġǰ ënt’ac’k’ë.
 1	Երեսուներեքամյա	երեսուներեքամյա	ADJ	_	_	2	amod	_	Translit=Eresownerek’amya|LTranslit=eresownerek’amya
@@ -305,7 +305,7 @@
 16	ընթացքը	ընթացք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	12	obj	_	Translit=ënt’ac’k’ë|LTranslit=ënt’ac’k’|SpaceAfter=No
 17	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00020CK5
+# sent_id = nonfiction-006Q-00020CK5
 # text = Փորձը գիտակցված էր ի ծնե որպես միտք, բայց ինչքան հույզ ու խիղճ կա ամփոփված այդ մտքի մեջ, ինչքան կամք ու մղում, որ պայթում է հանուն կյանքի շարունակության:
 # translit = P’orjë gitakc’vaç ēr i çne orpes mitk’, bayc’ inčk’an howyz ow xiġč̣ ka amp’op’vaç ayd mtk’i meǰ, inčk’an kamk’ ow mġowm, or payt’owm ē hanown kyank’i šarownakowt’yan.
 1	Փորձը	փորձ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	nsubj:pass	_	Translit=P’orjë|LTranslit=p’orj
@@ -340,7 +340,7 @@
 30	շարունակության	շարունակություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	26	obl	_	Translit=šarownakowt’yan|LTranslit=šarownakowt’yown|SpaceAfter=No
 31	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00020CK6
+# sent_id = nonfiction-006Q-00020CK6
 # text = Ես մտածում եմ նրա երիտասարդական ոգու մասին և ոգևորվում այդ պարտությամբ:
 # translit = Es mtaçowm em nra eritasardakan ogow masin ew ogeworvowm ayd partowt’yamb.
 1	Ես	ես	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Translit=Es|LTranslit=es
@@ -356,8 +356,8 @@
 11	պարտությամբ	պարտություն	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	9	obl	_	Translit=partowt’yamb|LTranslit=partowt’yown|SpaceAfter=No
 12	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# newpar id = fiction-006Q-0003
-# sent_id = fiction-006Q-00030CK7
+# newpar id = nonfiction-006Q-0003
+# sent_id = nonfiction-006Q-00030CK7
 # text = Մենք եկել ենք, և սա ճշմարտություն է. ուզում ենք փոխել անփոփոխ աշխարհը, չէ, ավելի ճիշտ, ՓՈՐՁՈւՄ ենք փոխել. մենք փորձում ենք պարտվել և պարտվում ենք, ոչ թե հաղթանակին, տիեզերքին կամ ոգուն, այլ պարտվում ենք ինքներս մեզ և պատասխանատու ենք միմիայն մեր ՓՈՐՁԻ առջև, ուստի գրականությունը ընտրել ենք որպես փորձի ճանապարհ` ընդունելով նրա անիմաստ իմաստնությունը:
 # translit = Menk’ ekel enk’, ew sa č̣šmartowt’yown ē. owzowm enk’ p’oxel anp’op’ox ašxarhë, čē, aveli č̣išt, P’ORJOWM enk’ p’oxel. menk’ p’orjowm enk’ partvel ew partvowm enk’, oč t’e haġt’anakin, tiezerk’in kam ogown, ayl partvowm enk’ ink’ners mez ew patasxanatow enk’ mimiayn mer P’ORJI aṙǰew, owsti grakanowt’yownë ëntrel enk’ orpes p’orji č̣anaparh, ëndownelov nra animast imastnowt’yownë.
 1	Մենք	մենք	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Translit=Menk’|LTranslit=menk’
@@ -427,7 +427,7 @@
 65	իմաստնությունը	իմաստնություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	62	obj	_	Translit=imastnowt’yownë|LTranslit=imastnowt’yown|SpaceAfter=No
 66	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00030CK8
+# sent_id = nonfiction-006Q-00030CK8
 # text = Գրականությունը մեզ համար տագնապ է և ալեկսիա:
 # translit = Grakanowt’yownë mez hamar tagnap ē ew aleksia.
 1	Գրականությունը	գրականություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	Translit=Grakanowt’yownë|LTranslit=grakanowt’yown
@@ -439,7 +439,7 @@
 7	ալեկսիա	ալեքսիա	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Coll|Typo=Yes	4	conj	_	Translit=aleksia|LTranslit=alek’sia|SpaceAfter=No
 8	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00030CK9
+# sent_id = nonfiction-006Q-00030CK9
 # text = Գեղեցկությանը հպվելու տենչանքը կուրացնում է լույսը. գրում ենք տաղանդավոր և անշնորք, սենտիմենտալ և պաթետիկ, ողբերգական և կծու հեգնանքով, և ոչ ոք ոչինչ չի կարող փոխել, չի կարող ընդդիմանալ, կանգնեցնել մեր ընթացքը:
 # translit = Geġec’kowt’yanë hpvelow tenčank’ë kowrac’nowm ē lowysë. growm enk’ taġandavor ew anšnork’, sentimental ew pat’etik, oġbergakan ew kçow hegnank’ov, ew oč ok’ očinč či karoġ p’oxel, či karoġ ënddimanal, kangnec’nel mer ënt’ac’k’ë.
 1	Գեղեցկությանը	գեղեցկություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	2	obj	_	Translit=Geġec’kowt’yanë|LTranslit=geġec’kowt’yown
@@ -481,7 +481,7 @@
 37	ընթացքը	ընթացք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	35	obj	_	Translit=ënt’ac’k’ë|LTranslit=ënt’ac’k’|SpaceAfter=No
 38	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00030CKA
+# sent_id = nonfiction-006Q-00030CKA
 # text = Այգում աճող նորատունկ ծառը անիծվելուց չի չորանում, արևի շողերը չեն գոլորշիացնում ծովը. պիտի կտրել ծառը, ցամաքեցնել ծովը լցվող բոլոր գետերը:
 # translit = Aygowm ač̣oġ noratownk çaṙë aniçvelowc’ či čoranowm, arewi šoġerë čen goloršiac’nowm çovë. piti ktrel çaṙë, c’amak’ec’nel çovë lc’voġ bolor geterë.
 1	Այգում	այգի	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Sing	2	obl	_	Translit=Aygowm|LTranslit=aygi
@@ -509,7 +509,7 @@
 23	գետերը	գետ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	19	obj	_	Translit=geterë|LTranslit=get|SpaceAfter=No
 24	:	:	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00030CKB
+# sent_id = nonfiction-006Q-00030CKB
 # text = Իսկ նրանք, ովքեր ջրում են երիտասարդության ծառը, թող չսպասեն երախտիքի. շնորհակալ լինելու ժամանակ չունենք. մենք տարված ենք փառքի փիլիսոփայությամբ ու մահվան գայթակղությամբ:
 # translit = Isk nrank’, ovk’er ǰrowm en eritasardowt’yan çaṙë, t’oġ čspasen eraxtik’i. šnorhakal linelow žamanak čownenk’. menk’ tarvaç enk’ p’aṙk’i p’ilisop’ayowt’yamb ow mahvan gayt’akġowt’yamb.
 1	Իսկ	իսկ	CCONJ	_	_	2	cc	_	Translit=Isk|LTranslit=isk
@@ -540,7 +540,7 @@
 26	գայթակղությամբ	գայթակղություն	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	23	conj	_	Translit=gayt’akġowt’yamb|LTranslit=gayt’akġowt’yown|SpaceAfter=No
 27	:	:	PUNCT	_	_	11	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00030CKC
+# sent_id = nonfiction-006Q-00030CKC
 # text = Մահը մեր հավատարիմ ընկերն է, և ցանկացած պահի կյանքը ընդհատելու մեր գլխավոր խաղաթուղթը:
 # translit = Mahë mer havatarim ënkern ē, ew c’ankac’aç pahi kyank’ë ëndhatelow mer glxavor xaġat’owġt’ë.
 1	Մահը	մահ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	Translit=Mahë|LTranslit=mah
@@ -559,7 +559,7 @@
 14	խաղաթուղթը	խաղաթուղթ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	4	conj	_	Translit=xaġat’owġt’ë|LTranslit=xaġat’owġt’|SpaceAfter=No
 15	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00030CKD
+# sent_id = nonfiction-006Q-00030CKD
 # text = Տարիների ընթացքում մարդը կորցնում է մահը զգալու կարողությունը, մահվան հետ երկխոսելու բացառիկ ունակությունը, և կյանքը գնալով գերակայում է մահվանը. երիտասարդությունը միակն է, ով խաղում է նրա հետ. կտրում է երակները, սրտապնդվում է` կախվելու համար, օրերով սովահար է լինում, խեղդում է գիտակցությունը թմրադեղերի մեջ, ժամերով նստում է բաց պատուհանի գոգին, ծխում է անպահանջ, խմում է, որ խմի. մահը սպասում է` տարված այս մանկական խաղով:
 # translit = Tarineri ënt’ac’k’owm mardë korc’nowm ē mahë zgalow karoġowt’yownë, mahvan het erkxoselow bac’aṙik ownakowt’yownë, ew kyank’ë gnalov gerakayowm ē mahvanë. eritasardowt’yownë miakn ē, ov xaġowm ē nra het. ktrowm ē eraknerë, srtapndvowm ē, kaxvelow hamar, òrerov sovahar ē linowm, xeġdowm ē gitakc’owt’yownë t’mradeġeri meǰ, žamerov nstowm ē bac’ patowhani gogin, çxowm ē anpahanǰ, xmowm ē, or xmi. mahë spasowm ē, tarvaç ays mankakan xaġov.
 1	Տարիների	տարի	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	4	obl	_	Translit=Tarineri|LTranslit=tari
@@ -642,7 +642,7 @@
 78	խաղով	խաղ	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	75	obl	_	Translit=xaġov|LTranslit=xaġ|SpaceAfter=No
 79	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00030CKE
+# sent_id = nonfiction-006Q-00030CKE
 # text = Մահը մանուկ է:
 # translit = Mahë manowk ē.
 1	Մահը	մահ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	Translit=Mahë|LTranslit=mah
@@ -650,8 +650,8 @@
 3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
 4	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# newpar id = fiction-006Q-0004
-# sent_id = fiction-006Q-00040CKF
+# newpar id = nonfiction-006Q-0004
+# sent_id = nonfiction-006Q-00040CKF
 # text = Արթյուր Ռեմբոյին տանում են Վիկտոր Հյուգոյի մոտ. հանճարը կանգնած է տաղանդի դիմաց. դժվար է պատկերացնել զգացողությունները որոնք ապրել են այդ պահին գրողները:
 # translit = Art’yowr Ṙemboyin tanowm en Viktor Hyowgoyi mot. hanč̣arë kangnaç ē taġandi dimac’. džvar ē patkerac’nel zgac’oġowt’yownnerë oronk’ aprel en ayd pahin groġnerë.
 1	Արթյուր	Արթյուր	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	3	obj	_	Translit=Art’yowr|LTranslit=Art’yowr
@@ -680,7 +680,7 @@
 24	գրողները	գրող	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	20	nsubj	_	Translit=groġnerë|LTranslit=groġ|SpaceAfter=No
 25	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00040CKG
+# sent_id = nonfiction-006Q-00040CKG
 # text = Իրականում Հյուգոյի համար հերթական հանդիպում, իսկ Ռեմբո՞ն, Ռեմբոյի համար ևս հերթական հանդիպում:
 # translit = Irakanowm Hyowgoyi hamar hert’akan handipowm, isk Ṙembo?n, Ṙemboyi hamar ews hert’akan handipowm.
 1	Իրականում	իրականում	ADV	_	_	5	advmod	_	Translit=Irakanowm|LTranslit=irakanowm
@@ -701,8 +701,8 @@
 15	հանդիպում	հանդիպում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	8	dislocated	_	Translit=handipowm|LTranslit=handipowm|SpaceAfter=No
 16	:	:	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
-# newpar id = fiction-006Q-0005
-# sent_id = fiction-006Q-00050CKH
+# newpar id = nonfiction-006Q-0005
+# sent_id = nonfiction-006Q-00050CKH
 # text = Երիտասարդությանը չեն սպասում. ցավոք երիտասարդությունից են միշտ սպասում` մի փոքր վախով, կասկածանքով, բերանները արհամարհանքով ծռմռելով, սպասում են նոր խոսքի, առանց հասկանալու, որ երիտասարդությունը ինքնին խոսք է:
 # translit = Eritasardowt’yanë čen spasowm. c’avok’ eritasardowt’yownic’ en mišt spasowm, mi p’ok’r vaxov, kaskaçank’ov, berannerë arhamarhank’ov çṙmṙelov, spasowm en nor xosk’i, aṙanc’ haskanalow, or eritasardowt’yownë ink’nin xosk’ ē.
 1	Երիտասարդությանը	երիտասարդություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Coll	3	obj	_	Translit=Eritasardowt’yanë|LTranslit=eritasardowt’yown
@@ -740,7 +740,7 @@
 33	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	32	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
 34	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00050CKI
+# sent_id = nonfiction-006Q-00050CKI
 # text = Սկզբում սպասում են լռությամբ (փոթորիկից առաջ միշտ էլ լռություն է), հետո, երբ փոթորիկը շրջանցում է տեղանքը, հաղթանակն իր հիշողության մեջ սղագրում է ևս մեկ պատմական պարտություն:
 # translit = Skzbowm spasowm en lṙowt’yamb (p’ot’orikic’ aṙaǰ mišt ēl lṙowt’yown ē), heto, erb p’ot’orikë šrǰanc’owm ē teġank’ë, haġt’anakn ir hišoġowt’yan meǰ sġagrowm ē ews mek patmakan partowt’yown.
 1	Սկզբում	սկզբում	ADV	_	Degree=Pos	2	advmod	_	Translit=Skzbowm|LTranslit=skzbowm
@@ -776,7 +776,7 @@
 31	պարտություն	պարտություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	26	obj	_	Translit=partowt’yown|LTranslit=partowt’yown|SpaceAfter=No
 32	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00050CKJ
+# sent_id = nonfiction-006Q-00050CKJ
 # text = Նրանք, ովքեր հրճվում են երիտասարդության պարտությամբ, դատապարտված են հաղթանակով:
 # translit = Nrank’, ovk’er hrč̣vowm en eritasardowt’yan partowt’yamb, datapartvaç en haġt’anakov.
 1	Նրանք	նա	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	9	nsubj:pass	_	Translit=Nrank’|LTranslit=na|SpaceAfter=No
@@ -792,7 +792,7 @@
 11	հաղթանակով	հաղթանակ	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	9	obl	_	Translit=haġt’anakov|LTranslit=haġt’anak|SpaceAfter=No
 12	:	:	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00050CKK
+# sent_id = nonfiction-006Q-00050CKK
 # text = Իսկ մենք շարժվում ենք` անտեսելով պարտությունը. մեզ պետք է շարունակական պարտություն. կանգնած կյանքի զարկերակին մենք պարան ենք խաղում, թռչկոտելով աշխատում պահել ռիթմը. գնում ենք աշխատանքի, դուրս ենք գալիս, ու անվերջ նոր աշխատանք փնտրում, օրվա մեջ հանդիպում ենք չգիտես ում, չգիտես ինչի համար, ատում ենք միմյանց ու սիրում, հուսահատվում ենք միանգամից ու անակնկալ ոգևորվում, մոռանում ենք, որ չունենք անձնական կյանք, հայելուն համոզում ենք, որ գեղեցիկ ենք:
 # translit = Isk menk’ šaržvowm enk’, anteselov partowt’yownë. mez petk’ ē šarownakakan partowt’yown. kangnaç kyank’i zarkerakin menk’ paran enk’ xaġowm, t’ṙčkotelov ašxatowm pahel ṙit’më. gnowm enk’ ašxatank’i, dowrs enk’ galis, ow anverǰ nor ašxatank’ p’ntrowm, òrva meǰ handipowm enk’ čgites owm, čgites inči hamar, atowm enk’ mimyanc’ ow sirowm, howsahatvowm enk’ miangamic’ ow anaknkal ogeworvowm, moṙanowm enk’, or čownenk’ anjnakan kyank’, hayelown hamozowm enk’, or geġec’ik enk’.
 1	Իսկ	իսկ	CCONJ	_	_	3	cc	_	Translit=Isk|LTranslit=isk
@@ -877,7 +877,7 @@
 80	ենք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	79	cop	_	Translit=enk’|LTranslit=em|SpaceAfter=No
 81	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00050CKL
+# sent_id = nonfiction-006Q-00050CKL
 # text = Ունենք անթիվ գաղափարներ, որ այդպես էլ մնում են, որպես… անթիվ գաղափարներ, հարմար տեղ ենք փնտրում սեքսի համար, սիրահարվում ենք, ամուսնանում ու փոշմանում կամ` սիրահարվում ենք, ամուսնանում ու երջանկանում, ուզում ենք մեռնել, հետո ապրել, բայց մեռնելուց հետո ոչ ոք չի ապրում, իսկ ապրելուց հետո ոչ ոք չի մեռնում, ուզում ենք տառապել և ի ցույց դնել տառապանքը, մենք ապրում ենք, երբ ապրում ենք և գրում ենք, երբ գրում ենք, ի վերջո սա զգացմունքների մի պարահանդես է, որտեղ միտքը հրավիրված չէ, բայց համբերությամբ սերտում է ապագայի իր վալսը:
 # translit = OWnenk’ ant’iv gaġap’arner, or aydpes ēl mnowm en, orpes… ant’iv gaġap’arner, harmar teġ enk’ p’ntrowm sek’si hamar, siraharvowm enk’, amowsnanowm ow p’ošmanowm kam, siraharvowm enk’, amowsnanowm ow erǰankanowm, owzowm enk’ meṙnel, heto aprel, bayc’ meṙnelowc’ heto oč ok’ či aprowm, isk aprelowc’ heto oč ok’ či meṙnowm, owzowm enk’ taṙapel ew i c’owyc’ dnel taṙapank’ë, menk’ aprowm enk’, erb aprowm enk’ ew growm enk’, erb growm enk’, i verǰo sa zgac’mownk’neri mi parahandes ē, orteġ mitk’ë hravirvaç čē, bayc’ hamberowt’yamb sertowm ē apagayi ir valsë.
 1	Ունենք	ունեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=OWnenk’|LTranslit=ownem
@@ -986,8 +986,8 @@
 104	վալսը	վալս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	100	obj	_	Translit=valsë|LTranslit=vals|SpaceAfter=No
 105	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# newpar id = fiction-006Q-0006
-# sent_id = fiction-006Q-00060CKM
+# newpar id = nonfiction-006Q-0006
+# sent_id = nonfiction-006Q-00060CKM
 # text = Գեղեցկությանը հասնելու համար պետք է գեղեցիկ լինել:
 # translit = Geġec’kowt’yanë hasnelow hamar petk’ ē geġec’ik linel.
 1	Գեղեցկությանը	գեղեցկություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	2	obl	_	Translit=Geġec’kowt’yanë|LTranslit=geġec’kowt’yown
@@ -999,7 +999,7 @@
 7	լինել	լինել	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	4	csubj	_	Translit=linel|LTranslit=linel|SpaceAfter=No
 8	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00060CKN
+# sent_id = nonfiction-006Q-00060CKN
 # text = Երիտասարդությունը գեղեցկություն է` վայրի փշաթփերով, որ տալիս է քիմքին անծանոթ թթվաշ պտուղներ. մարսում են քչերը:
 # translit = Eritasardowt’yownë geġec’kowt’yown ē, vayri p’šat’p’erov, or talis ē k’imk’in ançanot’ t’t’vaš ptowġner. marsowm en k’čerë.
 1	Երիտասարդությունը	երիտասարդություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	2	nsubj	_	Translit=Eritasardowt’yownë|LTranslit=eritasardowt’yown
@@ -1022,7 +1022,7 @@
 18	քչերը	քիչ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	16	nsubj	_	Translit=k’čerë|LTranslit=k’ič|SpaceAfter=No
 19	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00060CKO
+# sent_id = nonfiction-006Q-00060CKO
 # text = Հասուն պտուղները հյութեղ են, աչք շոյող, բայց միայն թթվաշ պտուղներն են ստիպում շարժվել ստամոքսահյութը:
 # translit = Hasown ptowġnerë hyowt’eġ en, ačk’ šoyoġ, bayc’ miayn t’t’vaš ptowġnern en stipowm šaržvel stamok’sahyowt’ë.
 1	Հասուն	հասուն	ADJ	_	Degree=Pos	2	amod	_	Translit=Hasown|LTranslit=hasown
@@ -1043,8 +1043,8 @@
 16	ստամոքսահյութը	ստամոքսահյութ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	15	obj	_	Translit=stamok’sahyowt’ë|LTranslit=stamok’sahyowt’|SpaceAfter=No
 17	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# newpar id = fiction-006Q-0007
-# sent_id = fiction-006Q-00070CKP
+# newpar id = nonfiction-006Q-0007
+# sent_id = nonfiction-006Q-00070CKP
 # text = Ես ատում եմ երիտասարդությունը միայն այն բանի համար, որ մի օր նա տրվելու է մտքին, կորցնելու է զգացմունքները և հոգու այդքան ցավոտ ու հաճելի մելամաղձությունը, չնայած, եթե ակնթարթը հավերժություն է, ուրեմն մենք ՓՈՐՁԵԼՈւ ենք ՓՈՐՁԵԼ առանց պատասխանատվության, առանց հեռուն տեսնելու` զգայուն, ինչպես ծառը և ազատ ինչպես թռչունը:
 # translit = Es atowm em eritasardowt’yownë miayn ayn bani hamar, or mi òr na trvelow ē mtk’in, korc’nelow ē zgac’mownk’nerë ew hogow aydk’an c’avot ow hač̣eli melamaġjowt’yownë, čnayaç, et’e aknt’art’ë haveržowt’yown ē, owremn menk’ P’ORJELOW enk’ P’ORJEL aṙanc’ patasxanatvowt’yan, aṙanc’ heṙown tesnelow, zgayown, inčpes çaṙë ew azat inčpes t’ṙčownë.
 1	Ես	ես	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Translit=Es|LTranslit=es
@@ -1104,8 +1104,8 @@
 55	թռչունը	թռչուն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	53	obl	_	Translit=t’ṙčownë|LTranslit=t’ṙčown|SpaceAfter=No
 56	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# newpar id = fiction-006Q-0008
-# sent_id = fiction-006Q-00080CKQ
+# newpar id = nonfiction-006Q-0008
+# sent_id = nonfiction-006Q-00080CKQ
 # text = Բախն իր լավագույն կանտատները գրել է երիտասարդ տարիքում:
 # translit = Baxn ir lavagowyn kantatnerë grel ē eritasard tarik’owm.
 1	Բախն	Բախ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Sur|Number=Sing	5	nsubj	_	Translit=Baxn|LTranslit=Bax
@@ -1118,7 +1118,7 @@
 8	տարիքում	տարիք	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Sing	5	obl	_	Translit=tarik’owm|LTranslit=tarik’|SpaceAfter=No
 9	:	:	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00080CKR
+# sent_id = nonfiction-006Q-00080CKR
 # text = Նրա մատներն աղեղվում են ու կծկվում:
 # translit = Nra matnern aġeġvowm en ow kçkvowm.
 1	Նրա	նա	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det:poss	_	Translit=Nra|LTranslit=na
@@ -1129,7 +1129,7 @@
 6	կծկվում	կծկվել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	3	conj	_	Translit=kçkvowm|LTranslit=kçkvel|SpaceAfter=No
 7	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-006Q-00080CKS
+# sent_id = nonfiction-006Q-00080CKS
 # text = Ահարկու ստվերը թրթռում է մոմի լույսի ներքո, կեղծամը ընկել է հատակին, ոտքերի մկանները ուր որ է կպայթեն, եկեղեցու պատերը դղրդում են երգեհոնի խելահեղ տեմպից. հանկարծ ամեն ինչ թաղվում է լռության մեջ. Բախի մատները քարանում են օդում ու հետո դանդաղ ու մեղմ հպվում ստեղներին. սկսվում է երիտասարդության ձայնը, որն այնքան մոտ է Աստծո ձայնին:
 # translit = Aharkow stverë t’rt’ṙowm ē momi lowysi nerk’o, keġçamë ënkel ē hatakin, otk’eri mkannerë owr or ē kpayt’en, ekeġec’ow paterë dġrdowm en ergehoni xelaheġ tempic’. hankarç amen inč t’aġvowm ē lṙowt’yan meǰ. Baxi matnerë k’aranowm en òdowm ow heto dandaġ ow meġm hpvowm steġnerin. sksvowm ē eritasardowt’yan jaynë, orn aynk’an mot ē Astço jaynin.
 1	Ահարկու	ահարկու	ADJ	_	_	2	amod	_	Translit=Aharkow|LTranslit=aharkow
@@ -1195,9 +1195,9 @@
 61	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 # doc_title = Տրակտատ «մաֆիա» խաղի որոշ դրսևորումների մասին
-# newdoc id = news-006M
-# newpar id = news-006M-0001
-# sent_id = news-006M-00010CF1
+# newdoc id = blog-006M
+# newpar id = blog-006M-0001
+# sent_id = blog-006M-00010CF1
 # text = Գրազ կգամ, որ իրականում Հայաստանը հանրահայտ «մաֆիա» խաղի մի մեեեեծ հարթակ է, որտեղ մենք բոլորս ակամա մաֆիա ենք խաղում։
 # translit = Graz kgam, or irakanowm Hayastanë hanrahayt «mafia» xaġi mi meeeeç hart’ak ē, orteġ menk’ bolors akama mafia enk’ xaġowm.
 1	Գրազ	գրազ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	compound:lvc	_	Translit=Graz|LTranslit=graz
@@ -1225,7 +1225,7 @@
 23	խաղում	խաղալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	14	acl:relcl	_	Translit=xaġowm|LTranslit=xaġal|SpaceAfter=No
 24	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006M-00010CF2
+# sent_id = blog-006M-00010CF2
 # text = Ում շերիֆ են նշանակում, նա սկսում է որոշումներ կայացնել՝ ում փխել, ում խնայել։
 # translit = OWm šerif en nšanakowm, na sksowm ē orošowmner kayac’nel, owm p’xel, owm xnayel.
 1	Ում	ով	PRON	_	Case=Dat|Number=Sing|PronType=Rel	4	obj	_	Translit=OWm|LTranslit=ov
@@ -1246,7 +1246,7 @@
 16	խնայել	խնայել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	13	conj	_	Translit=xnayel|LTranslit=xnayel|SpaceAfter=No
 17	։	։	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006M-00010CF3
+# sent_id = blog-006M-00010CF3
 # text = Մաֆիոզների սուրբ պարտականությունը սպանել-քանդել-ավիրել առանցքի վրա էսուէնկողմ գնալն է։
 # translit = Mafiozneri sowrb partakanowt’yownë spanel-k’andel-avirel aṙanc’k’i vra ēsowēnkoġm gnaln ē.
 1	Մաֆիոզների	մաֆիոզ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Plur|Style=Coll	3	nmod:poss	_	Translit=Mafiozneri|LTranslit=mafioz
@@ -1264,7 +1264,7 @@
 13	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	12	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
 14	։	։	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006M-00010CF4
+# sent_id = blog-006M-00010CF4
 # text = Ու բարոյականության հետ էս ամենը, ոնց խաղի մեջ, կապ չունի։
 # translit = OW baroyakanowt’yan het ēs amenë, onc’ xaġi meǰ, kap čowni.
 1	Ու	ու	CCONJ	_	_	12	cc	_	Translit=OW|LTranslit=ow
@@ -1281,7 +1281,7 @@
 12	չունի	ունեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=čowni|LTranslit=ownem|SpaceAfter=No
 13	։	։	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006M-00010CF5
+# sent_id = blog-006M-00010CF5
 # text = Խաղի կանոններն են թելադրում վարքագիծը։
 # translit = Xaġi kanonnern en t’eladrowm vark’agiçë.
 1	Խաղի	խաղ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	2	nmod:poss	_	Translit=Xaġi|LTranslit=xaġ
@@ -1291,7 +1291,7 @@
 5	վարքագիծը	վարքագիծ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	4	obj	_	Translit=vark’agiçë|LTranslit=vark’agiç|SpaceAfter=No
 6	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006M-00010CF6
+# sent_id = blog-006M-00010CF6
 # text = Հետևաբար համընդանուր վերաբերմունքն էլ էս ամենին իսկը խաղի պես է՝ նեղանալ չկա. խաղի կանոններն են էդպիսին։
 # translit = Hetewabar hamëndanowr verabermownk’n ēl ēs amenin iskë xaġi pes ē, neġanal čka. xaġi kanonnern en ēdpisin.
 1	Հետևաբար	հետևաբար	SCONJ	_	_	8	mark	_	Translit=Hetewabar|LTranslit=hetewabar
@@ -1314,8 +1314,8 @@
 18	էդպիսին	այդպիսի	PRON	_	Case=Nom|Definite=Def|Distance=Med|Number=Sing|PronType=Dem|Style=Coll	8	parataxis	_	Translit=ēdpisin|LTranslit=aydpisi|SpaceAfter=No
 19	։	։	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-006M-0002
-# sent_id = news-006M-00020CF7
+# newpar id = blog-006M-0002
+# sent_id = blog-006M-00020CF7
 # text = Եվ անկախ նրանից ով ես, ինչացու, ինչ կրթության, գիտելիքի, հնարավորությունների ու հունարի տեր ես, հենց քարտը քաշեցիր, վերջ, էությամբ ու բովանդակությամբ հարմարվում ես խաղում ստանձնած քո դերին ու ընկալվում որպես էդպիսին։
 # translit = Ev ankax nranic’ ov es, inčac’ow, inč krt’owt’yan, gitelik’i, hnaravorowt’yownneri ow hownari ter es, henc’ k’artë k’ašec’ir, verǰ, ēowt’yamb ow bovandakowt’yamb harmarvowm es xaġowm stanjnaç k’o derin ow ënkalvowm orpes ēdpisin.
 1	Եվ	և	CCONJ	_	_	29	cc	_	Translit=Ev|LTranslit=ew
@@ -1358,7 +1358,7 @@
 38	էդպիսին	այդպիսի	PRON	_	Case=Nom|Definite=Def|Distance=Med|Number=Sing|PronType=Dem|Style=Coll	36	obl	_	Translit=ēdpisin|LTranslit=aydpisi|SpaceAfter=No
 39	։	։	PUNCT	_	_	29	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006M-00020CF8
+# sent_id = blog-006M-00020CF8
 # text = Հակառակ դեպքում լավ խաղացող չես։
 # translit = Hakaṙak depk’owm lav xaġac’oġ čes.
 1	Հակառակ	հակառակ	ADJ	_	Degree=Pos	2	amod	_	Translit=Hakaṙak|LTranslit=hakaṙak
@@ -1368,7 +1368,7 @@
 5	չես	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=čes|LTranslit=em|SpaceAfter=No
 6	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006M-00020CF9
+# sent_id = blog-006M-00020CF9
 # text = Վատ խաղացողին էլ խաղից ռադ են անում։
 # translit = Vat xaġac’oġin ēl xaġic’ ṙad en anowm.
 1	Վատ	վատ	ADJ	_	Degree=Pos	2	amod	_	Translit=Vat|LTranslit=vat
@@ -1380,8 +1380,8 @@
 7	անում	անել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=anowm|LTranslit=anel|SpaceAfter=No
 8	։	։	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-006M-0003
-# sent_id = news-006M-00030CFA
+# newpar id = blog-006M-0003
+# sent_id = blog-006M-00030CFA
 # text = Եթե, օրինակ, ռոմանտիկ տեխնոկրատ ես, բայց դրայվի բերմամբ մշակույթի նախարարի քարտ ես քաշել, ուրեմն էդ պահից հետո սրտիդ թրթիռն է հուշում թե երկրումդ ինչն է ներկայացնում մշակութային արժեք, ինչը՝ մասմաբ, ինչն՝ այնքան էլ չէ։
 # translit = Et’e, òrinak, ṙomantik texnokrat es, bayc’ drayvi bermamb mšakowyt’i naxarari k’art es k’ašel, owremn ēd pahic’ heto srtid t’rt’iṙn ē howšowm t’e erkrowmd inčn ē nerkayac’nowm mšakowt’ayin aržek’, inčë, masmab, inčn, aynk’an ēl čē.
 1	Եթե	եթե	SCONJ	_	_	6	mark	_	Translit=Et’e|LTranslit=et’e|SpaceAfter=No
@@ -1428,7 +1428,7 @@
 42	չէ	չէ	PART	_	_	38	orphan	_	Translit=čē|LTranslit=čē|SpaceAfter=No
 43	։	։	PUNCT	_	_	25	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006M-00030CFB
+# sent_id = blog-006M-00030CFB
 # text = Ոչ չափանիշ է պետք, ոչ փորձագիտական կարծիք։
 # translit = Oč čap’aniš ē petk’, oč p’orjagitakan karçik’.
 1	Ոչ	ոչ	CCONJ	_	_	2	cc	_	Translit=Oč|LTranslit=oč
@@ -1441,7 +1441,7 @@
 8	կարծիք	կարծիք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	conj	_	Translit=karçik’|LTranslit=karçik’|SpaceAfter=No
 9	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006M-00030CFC
+# sent_id = blog-006M-00030CFC
 # text = Մեռնեմ բարաթին. քարտը ձեռքդ է, ուրեմն որոշողը դու ես։
 # translit = Meṙnem barat’in. k’artë jeṙk’d ē, owremn orošoġë dow es.
 1	Մեռնեմ	մեռնել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=Meṙnem|LTranslit=meṙnel
@@ -1457,7 +1457,7 @@
 11	ես	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	Translit=es|LTranslit=em|SpaceAfter=No
 12	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006M-00030CFD
+# sent_id = blog-006M-00030CFD
 # text = Խաղի կանոնն էդ է. մշակույթի նախարարը երկրի մշակույթը կուզի էս կողմը շուռ կտա, կուզի՝ էն։
 # translit = Xaġi kanonn ēd ē. mšakowyt’i naxararë erkri mšakowyt’ë kowzi ēs koġmë šowṙ kta, kowzi, ēn.
 1	Խաղի	խաղ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	2	nmod:poss	_	Translit=Xaġi|LTranslit=xaġ
@@ -1480,7 +1480,7 @@
 18	էն	այն	DET	_	Distance=Dist|PronType=Dem|Style=Coll	16	orphan	_	Translit=ēn|LTranslit=ayn|SpaceAfter=No
 19	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006M-00030CFE
+# sent_id = blog-006M-00030CFE
 # text = Բա նախարար է, բա ուրիշ ո՞նց պիտի լինի։
 # translit = Ba naxarar ē, ba owriš o?nc’ piti lini.
 1	Բա	բա	INTJ	_	Style=Vrnc	2	discourse	_	Translit=Ba|LTranslit=ba
@@ -1496,7 +1496,7 @@
 10	լինի	լինել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	Translit=lini|LTranslit=linel|SpaceAfter=No
 11	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006M-00030CFF
+# sent_id = blog-006M-00030CFF
 # text = Քարտը ինքն է քաշել. դու քաշեիր, դու որոշեիր։
 # translit = K’artë ink’n ē k’ašel. dow k’ašeir, dow orošeir.
 1	Քարտը	քարտ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	4	obj	_	Translit=K’artë|LTranslit=k’art
@@ -1511,8 +1511,8 @@
 10	որոշեիր	որոշել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=2|Polarity=Pos|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	7	conj	_	Translit=orošeir|LTranslit=orošel|SpaceAfter=No
 11	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-006M-0004
-# sent_id = news-006M-00040CFG
+# newpar id = blog-006M-0004
+# sent_id = blog-006M-00040CFG
 # text = Կամ թե խաղի հերթական ռաունդին գիշերը մաֆիան կողքիցդ անցնելուց գլխիդ բամփել էր ու վերջին ուշունցը տվել, ոչինչ, վնաս չկա. մյուս ռաունդին կարմիր քարտ կքաշես ու բամփողները իրենց ձեռքի տակ եղած լյումպեններին կղրկեն վերադարձդ նախապատրաստելու։
 # translit = Kam t’e xaġi hert’akan ṙaowndin gišerë mafian koġk’ic’d anc’nelowc’ glxid bamp’el ēr ow verǰin owšownc’ë tvel, očinč, vnas čka. myows ṙaowndin karmir k’art kk’ašes ow bamp’oġnerë irenc’ jeṙk’i tak eġaç lyowmpennerin kġrken veradarjd naxapatrastelow.
 1	Կամ	կամ	CCONJ	_	ConjType=Comp	21	cc	_	Translit=Kam|LTranslit=kam
@@ -1554,7 +1554,7 @@
 37	նախապատրաստելու	նախապատրաստել	VERB	_	Case=Dat|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Tran|VerbForm=Gdv|Voice=Act	35	obl	_	Translit=naxapatrastelow|LTranslit=naxapatrastel|SpaceAfter=No
 38	։	։	PUNCT	_	_	27	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006M-00040CFH
+# sent_id = blog-006M-00040CFH
 # text = Նեղանալը որս է. խաղը՝ խաղ, խաղում խաղընկերոջից նեղացողն էլ չասեմ ինչ։
 # translit = Neġanalë ors ē. xaġë, xaġ, xaġowm xaġënkeroǰic’ neġac’oġn ēl časem inč.
 1	Նեղանալը	նեղանալ	VERB	_	Case=Nom|Definite=Def|Number=Coll|Polarity=Pos|Subcat=Intr|VerbForm=Gdv|Voice=Mid	2	nsubj	_	Translit=Neġanalë|LTranslit=neġanal
@@ -1573,8 +1573,8 @@
 14	ինչ	ինչ	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Int	13	obj	_	Translit=inč|LTranslit=inč|SpaceAfter=No
 15	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-006M-0005
-# sent_id = news-006M-00050CFI
+# newpar id = blog-006M-0005
+# sent_id = blog-006M-00050CFI
 # text = Էն մեկել մարզպետի բախտն էս ռաունդին չբերեց, է, ոչինչ, մյուսին կբերի. մեկ է՝ խաղացողների քանակը սահմանափակ է, միշտ նույն մարդիկ են խաղում։
 # translit = Ēn mekel marzpeti baxtn ēs ṙaowndin čberec’, ē, očinč, myowsin kberi. mek ē, xaġac’oġneri k’anakë sahmanap’ak ē, mišt nowyn mardik en xaġowm.
 1	Էն	այն	DET	_	Distance=Dist|PronType=Dem|Style=Coll	3	det	_	Translit=Ēn|LTranslit=ayn
@@ -1607,7 +1607,7 @@
 28	խաղում	խաղալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	21	conj	_	Translit=xaġowm|LTranslit=xaġal|SpaceAfter=No
 29	։	։	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006M-00050CFJ
+# sent_id = blog-006M-00050CFJ
 # text = Մենք հո ոնց թամաշա անող եղել ենք, էնպես էլ լինելու ենք։
 # translit = Menk’ ho onc’ t’amaša anoġ eġel enk’, ēnpes ēl linelow enk’.
 1	Մենք	մենք	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	Translit=Menk’|LTranslit=menk’
@@ -1624,8 +1624,8 @@
 12	ենք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	Translit=enk’|LTranslit=em|SpaceAfter=No
 13	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-006M-0006
-# sent_id = news-006M-00060CFK
+# newpar id = blog-006M-0006
+# sent_id = blog-006M-00060CFK
 # text = Հիմա էլ, ոնց երևի տեսնում եք. ակտիվ ռաունդ է սկսվել. գմփոցներով, դրայվով, պատերազմներով... չեն թողնի ձանձրանանք։
 # translit = Hima ēl, onc’ erewi tesnowm ek’. aktiv ṙaownd ē sksvel. gmp’oc’nerov, drayvov, paterazmnerov... čen t’oġni janjranank’.
 1	Հիմա	հիմա	ADV	_	_	12	advmod	_	Translit=Hima|LTranslit=hima
@@ -1652,7 +1652,7 @@
 22	ձանձրանանք	ձանձրանալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	21	ccomp	_	Translit=janjranank’|LTranslit=janjranal|SpaceAfter=No
 23	։	։	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006M-00060CFL
+# sent_id = blog-006M-00060CFL
 # text = Սպասենք ռաունդի վերջին։
 # translit = Spasenk’ ṙaowndi verǰin.
 1	Սպասենք	սպասել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=Spasenk’|LTranslit=spasel
@@ -1660,7 +1660,7 @@
 3	վերջին	վերջ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	1	obj	_	Translit=verǰin|LTranslit=verǰ|SpaceAfter=No
 4	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006M-00060CFM
+# sent_id = blog-006M-00060CFM
 # text = Հունվարի գազիս վարձով պատրաստ եմ գրազ գալ, որ էս ռաունդին օպերայի շենքը կդիմանա։
 # translit = Hownvari gazis varjov patrast em graz gal, or ēs ṙaowndin òperayi šenk’ë kdimana.
 1	Հունվարի	հունվար	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	2	nmod:poss	_	Translit=Hownvari|LTranslit=hownvar
@@ -1679,7 +1679,7 @@
 14	կդիմանա	դիմանալ	VERB	_	Aspect=Prosp|Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	6	acl	_	Translit=kdimana|LTranslit=dimanal|SpaceAfter=No
 15	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006M-00060CFN
+# sent_id = blog-006M-00060CFN
 # text = Որ մյուս ռաունդին էլ խաղալու բան մնա։
 # translit = Or myows ṙaowndin ēl xaġalow ban mna.
 1	Որ	որ	SCONJ	_	_	7	mark	_	Translit=Or|LTranslit=or
@@ -1691,8 +1691,8 @@
 7	մնա	մնալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=mna|LTranslit=mnal|SpaceAfter=No
 8	։	։	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-006M-0007
-# sent_id = news-006M-00070CFO
+# newpar id = blog-006M-0007
+# sent_id = blog-006M-00070CFO
 # text = Գրազ գալիս ե՞ք։
 # translit = Graz galis e?k’.
 1	Գրազ	գրազ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	compound:lvc	_	Translit=Graz|LTranslit=graz
@@ -1703,9 +1703,9 @@
 5	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 # doc_title = Աշխատանքային արգելոց
-# newdoc id = news-006I
-# newpar id = news-006I-0001
-# sent_id = news-006I-00010CBV
+# newdoc id = blog-006I
+# newpar id = blog-006I-0001
+# sent_id = blog-006I-00010CBV
 # text = Ակադեմիան տխուր տեղ է։
 # translit = Akademian txowr teġ ē.
 1	Ակադեմիան	ակադեմիա	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	Translit=Akademian|LTranslit=akademia
@@ -1714,7 +1714,7 @@
 4	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
 5	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00010CC0
+# sent_id = blog-006I-00010CC0
 # text = Սկզբում նկատում ես, որ դժվար է դրսի մարդկանց հետ շփվելը, հետո սկսում ես հետները չշփվել, իսկ ավելի ուշ նույնիսկ ակտիվ կերպով խուսափում ես նրանցից ու մնում քո ակադեմիական պղպջակում երջանիկ անտեղյակության մեջ։
 # translit = Skzbowm nkatowm es, or džvar ē drsi mardkanc’ het šp’velë, heto sksowm es hetnerë čšp’vel, isk aveli owš nowynisk aktiv kerpov xowsap’owm es nranc’ic’ ow mnowm k’o akademiakan pġpǰakowm erǰanik anteġyakowt’yan meǰ.
 1	Սկզբում	սկզբում	ADV	_	Degree=Pos	2	advmod	_	Translit=Skzbowm|LTranslit=skzbowm
@@ -1754,7 +1754,7 @@
 35	մեջ	մեջ	ADP	_	AdpType=Post|Case=Nom	34	case	_	Translit=meǰ|LTranslit=meǰ|SpaceAfter=No
 36	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00010CC1
+# sent_id = blog-006I-00010CC1
 # text = Իսկ ավելի ճիշտ՝ գիտակցում ես, որ բնակչության մեծ մասը քեզնից տարբեր է, ու դու ես outlier-ը, ոչ թե նրանք։
 # translit = Isk aveli č̣išt, gitakc’owm es, or bnakčowt’yan meç masë k’eznic’ tarber ē, ow dow es outlier-ë, oč t’e nrank’.
 1	Իսկ	իսկ	CCONJ	_	_	3	cc	_	Translit=Isk|LTranslit=isk
@@ -1784,7 +1784,7 @@
 25	նրանք	նա	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	conj	_	Translit=nrank’|LTranslit=na|SpaceAfter=No
 26	։	։	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00010CC2
+# sent_id = blog-006I-00010CC2
 # text = Գիտակցում ես, որ ակադեմիայից դուրս մարդկանց հետ շփվելու հմտություններդ կամաց-կամաց մոռանում ես։
 # translit = Gitakc’owm es, or akademiayic’ dowrs mardkanc’ het šp’velow hmtowt’yownnerd kamac’-kamac’ moṙanowm es.
 1	Գիտակցում	գիտակցել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=Gitakc’owm|LTranslit=gitakc’el
@@ -1804,7 +1804,7 @@
 15	ես	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	aux	_	Translit=es|LTranslit=em|SpaceAfter=No
 16	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00010CC3
+# sent_id = blog-006I-00010CC3
 # text = Բայց էլ չես փորձում հետ բերել. քեզ պե՞տք է որ։
 # translit = Bayc’ ēl čes p’orjowm het berel. k’ez pe?tk’ ē or.
 1	Բայց	բայց	CCONJ	_	_	4	cc	_	Translit=Bayc’|LTranslit=bayc’
@@ -1822,7 +1822,7 @@
 12	որ	որ	PART	_	_	9	discourse	_	Translit=or|LTranslit=or|SpaceAfter=No
 13	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00010CC4
+# sent_id = blog-006I-00010CC4
 # text = Քեզ պե՞տք են բոլոր նորմալ մարդիկ իրենց նորմալ հոգսերով, աջականները, ծաղիկ-թիթեռ պոստողները, անտիվաքսերը, ֆաշիստները։
 # translit = K’ez pe?tk’ en bolor normal mardik irenc’ normal hogserov, aǰakannerë, çaġik-t’it’eṙ postoġnerë, antivak’serë, fašistnerë.
 1	Քեզ	դու	PRON	_	Case=Dat|Number=Sing|Person=2|Polite=Infm|PronType=Prs	2	obj	_	Translit=K’ez|LTranslit=dow
@@ -1849,7 +1849,7 @@
 21	ֆաշիստները	ֆաշիստ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	7	conj	_	Translit=fašistnerë|LTranslit=fašist|SpaceAfter=No
 22	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00010CC5
+# sent_id = blog-006I-00010CC5
 # text = Քեզ համար հանգիստ ապրում ես քո պղպջակում, որտեղ բոլոր մարդիկ իրար նման են մտածում, իսկ եթե նույնիսկ որոշ հարցերում համաձայն չեն, քեզ նման են բանավիճում, ընդհանուր լեզու գտնելը հեշտ է։
 # translit = K’ez hamar hangist aprowm es k’o pġpǰakowm, orteġ bolor mardik irar nman en mtaçowm, isk et’e nowynisk oroš harc’erowm hamajayn čen, k’ez nman en banavič̣owm, ëndhanowr lezow gtnelë hešt ē.
 1	Քեզ	դու	PRON	_	Case=Dat|Number=Sing|Person=2|Polite=Infm|PronType=Prs	4	obl	_	Translit=K’ez|LTranslit=dow
@@ -1888,8 +1888,8 @@
 34	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	33	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
 35	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-006I-0002
-# sent_id = news-006I-00020CC6
+# newpar id = blog-006I-0002
+# sent_id = blog-006I-00020CC6
 # text = Ընկերուհուս (էլի ակադեմիայից) երբ մի անգամ ասացի, որ ակադեմիայից դուրս մարդկանց հետ չեմ կարողանում շփվել, ասաց, որ էլիտիստ եմ։
 # translit = Ënkerowhows (ēli akademiayic’) erb mi angam asac’i, or akademiayic’ dowrs mardkanc’ het čem karoġanowm šp’vel, asac’, or ēlitist em.
 1	Ընկերուհուս	ընկերուհի	NOUN	_	Animacy=Hum|Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=1	9	iobj	_	Translit=Ënkerowhows|LTranslit=ënkerowhi
@@ -1918,7 +1918,7 @@
 24	եմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	23	cop	_	Translit=em|LTranslit=em|SpaceAfter=No
 25	։	։	PUNCT	_	_	20	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00020CC7
+# sent_id = blog-006I-00020CC7
 # text = Ասացի՝ էլիտիզմ չկա, էստեղ ինչ-որ հատկանիշի բացակայություն է, ոչ թե առկայություն, որը հեռու է պահում ինձ ակադեմիայից դուրս մարդկանցից։
 # translit = Asac’i, ēlitizm čka, ēsteġ inč-or hatkaniši bac’akayowt’yown ē, oč t’e aṙkayowt’yown, orë heṙow ē pahowm inj akademiayic’ dowrs mardkanc’ic’.
 1	Ասացի	ասել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=Asac’i|LTranslit=asel|SpaceAfter=No
@@ -1948,7 +1948,7 @@
 25	մարդկանցից	մարդ	NOUN	_	Animacy=Hum|Case=Abl|Definite=Ind|Number=Plur	21	obl	_	Translit=mardkanc’ic’|LTranslit=mard|SpaceAfter=No
 26	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00020CC8
+# sent_id = blog-006I-00020CC8
 # text = Ընկերուհիս ասպիրանտուրայից հետո թողեց ակադեմիան, ես՝ չէ, բայց դեռ մի քանի ամիսը մեկ հանդիպում ենք իմ կամ նրա տանը։
 # translit = Ënkerowhis aspirantowrayic’ heto t’oġec’ akademian, es, čē, bayc’ deṙ mi k’ani amisë mek handipowm enk’ im kam nra tanë.
 1	Ընկերուհիս	ընկերուհի	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	Translit=Ënkerowhis|LTranslit=ënkerowhi
@@ -1975,8 +1975,8 @@
 22	տանը	տուն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	17	obl	_	Translit=tanë|LTranslit=town|SpaceAfter=No
 23	։	։	PUNCT	_	_	17	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-006I-0003
-# sent_id = news-006I-00030CC9
+# newpar id = blog-006I-0003
+# sent_id = blog-006I-00030CC9
 # text = Շեֆիս ասացի, որ ակադեմիայում հավաքված մարդիկ իրար նման են։
 # translit = Šefis asac’i, or akademiayowm havak’vaç mardik irar nman en.
 1	Շեֆիս	շեֆ	NOUN	_	Animacy=Hum|Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=1|Style=Coll	2	iobj	_	Translit=Šefis|LTranslit=šef
@@ -1991,7 +1991,7 @@
 10	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	Translit=en|LTranslit=em|SpaceAfter=No
 11	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00030CCA
+# sent_id = blog-006I-00030CCA
 # text = Ասաց՝ կան հետազոտություններ, որ իրոք բոլորս ընդհանուր անձնային հատկանիշներ ունենք։
 # translit = Asac’, kan hetazotowt’yownner, or irok’ bolors ëndhanowr anjnayin hatkanišner ownenk’.
 1	Ասաց	ասել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=Asac’|LTranslit=asel|SpaceAfter=No
@@ -2008,7 +2008,7 @@
 12	ունենք	ունեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	Translit=ownenk’|LTranslit=ownem|SpaceAfter=No
 13	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00030CCB
+# sent_id = blog-006I-00030CCB
 # text = Թվարկեց հատկանիշները. ստեղծագործ, բարեխիղճ, ինտրովերտ, նևրոտիկ և միայն էմպաթիայի մակարդակով են տարբերվում։
 # translit = T’varkec’ hatkanišnerë. steġçagorç, barexiġč̣, introvert, newrotik ew miayn ēmpat’iayi makardakov en tarbervowm.
 1	Թվարկեց	թվարկել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=T’varkec’|LTranslit=t’varkel
@@ -2029,7 +2029,7 @@
 16	տարբերվում	տարբերվել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	4	conj	_	Translit=tarbervowm|LTranslit=tarbervel|SpaceAfter=No
 17	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00030CCC
+# sent_id = blog-006I-00030CCC
 # text = Գործընկերուհուս ասացի՝ բոլորս իրար նման ենք։
 # translit = Gorçënkerowhows asac’i, bolors irar nman enk’.
 1	Գործընկերուհուս	գործընկերուհի	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	2	iobj	_	Translit=Gorçënkerowhows|LTranslit=gorçënkerowhi
@@ -2041,7 +2041,7 @@
 7	ենք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=enk’|LTranslit=em|SpaceAfter=No
 8	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00030CCD
+# sent_id = blog-006I-00030CCD
 # text = Ասաց՝ ակադեմիան աշխատանքային արգելոց է մեզ նման մարդկանց համար, որոնք ուրիշ ոչ մի ոլորտում ֆունկցիոնալ չեն։
 # translit = Asac’, akademian ašxatank’ayin argeloc’ ē mez nman mardkanc’ hamar, oronk’ owriš oč mi olortowm fownkc’ional čen.
 1	Ասաց	ասել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=Asac’|LTranslit=asel|SpaceAfter=No
@@ -2064,7 +2064,7 @@
 18	չեն	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	17	cop	_	Translit=čen|LTranslit=em|SpaceAfter=No
 19	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00030CCE
+# sent_id = blog-006I-00030CCE
 # text = Մեկ-մեկ մտածում եմ՝ ի՞նչ կլինի, եթե ակադեմիայում չմնամ։
 # translit = Mek-mek mtaçowm em, i?nč klini, et’e akademiayowm čmnam.
 1	Մեկ	մեկ	ADV	_	NumForm=Word|NumType=Card|PronType=Tot	4	advmod	_	Translit=Mek|LTranslit=mek|SpaceAfter=No
@@ -2083,7 +2083,7 @@
 13	չմնամ	մնալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=1|Polarity=Neg|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	9	advcl	_	Translit=čmnam|LTranslit=mnal|SpaceAfter=No
 14	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00030CCF
+# sent_id = blog-006I-00030CCF
 # text = Ասենք, դուրս գամ ու նորմալ մարդ դառնամ։
 # translit = Asenk’, dowrs gam ow normal mard daṙnam.
 1	Ասենք	ասենք	PART	_	_	4	discourse	_	Translit=Asenk’|LTranslit=asenk’|SpaceAfter=No
@@ -2096,7 +2096,7 @@
 8	դառնամ	դառնալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	4	conj	_	Translit=daṙnam|LTranslit=daṙnal|SpaceAfter=No
 9	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00030CCG
+# sent_id = blog-006I-00030CCG
 # text = Բայց մեկ-մեկ էլ մտածում եմ ակադեմիան թողնողները հենց մեր միջի քչից-շատից նորմալներն են, նրանք, ովքեր իրական աշխարհի հետ կապը չեն կորցրել նաև ակադեմիայում եղած ժամանակ։
 # translit = Bayc’ mek-mek ēl mtaçowm em akademian t’oġnoġnerë henc’ mer miǰi k’čic’-šatic’ normalnern en, nrank’, ovk’er irakan ašxarhi het kapë čen korc’rel naew akademiayowm eġaç žamanak.
 1	Բայց	բայց	CCONJ	_	_	6	cc	_	Translit=Bayc’|LTranslit=bayc’
@@ -2132,7 +2132,7 @@
 31	ժամանակ	ժամանակ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	27	obl	_	Translit=žamanak|LTranslit=žamanak|SpaceAfter=No
 32	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00030CCH
+# sent_id = blog-006I-00030CCH
 # text = Իսկ մյուսներս կամաց-կամաց ավելի ենք կորում։
 # translit = Isk myowsners kamac’-kamac’ aveli enk’ korowm.
 1	Իսկ	իսկ	CCONJ	_	_	8	cc	_	Translit=Isk|LTranslit=isk
@@ -2145,7 +2145,7 @@
 8	կորում	կորել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=korowm|LTranslit=korel|SpaceAfter=No
 9	։	։	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00030CCI
+# sent_id = blog-006I-00030CCI
 # text = Կամաց-կամաց ավելի ենք փակվում մեր պղպջակում։
 # translit = Kamac’-kamac’ aveli enk’ p’akvowm mer pġpǰakowm.
 1	Կամաց	կամաց	ADV	_	Degree=Pos	6	advmod	_	Translit=Kamac’|LTranslit=kamac’|SpaceAfter=No
@@ -2158,7 +2158,7 @@
 8	պղպջակում	պղպջակ	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Sing	6	obl	_	Translit=pġpǰakowm|LTranslit=pġpǰak|SpaceAfter=No
 9	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00030CCJ
+# sent_id = blog-006I-00030CCJ
 # text = Մենք միմյանց համար ընկերներ ենք, թշնամիներ, գործընկներներ, հեղինակություններ, ուսուցիչներ, աշակերտներ, մենթորներ։
 # translit = Menk’ mimyanc’ hamar ënkerner enk’, t’šnaminer, gorçënknerner, heġinakowt’yownner, owsowc’ičner, ašakertner, ment’orner.
 1	Մենք	մենք	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	Translit=Menk’|LTranslit=menk’
@@ -2180,7 +2180,7 @@
 17	մենթորներ	մենթոր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Plur	4	conj	_	Translit=ment’orner|LTranslit=ment’or|SpaceAfter=No
 18	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00030CCK
+# sent_id = blog-006I-00030CCK
 # text = Ու տվայտվում ենք մեր աշխատանքի անկայունությունից, բայց սիրում ենք այն։
 # translit = OW tvaytvowm enk’ mer ašxatank’i ankayownowt’yownic’, bayc’ sirowm enk’ ayn.
 1	Ու	ու	CCONJ	_	_	2	cc	_	Translit=OW|LTranslit=ow
@@ -2196,7 +2196,7 @@
 11	այն	այն	PRON	_	Distance=Dist|Number=Sing|PronType=Dem	9	obj	_	Translit=ayn|LTranslit=ayn|SpaceAfter=No
 12	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00030CCL
+# sent_id = blog-006I-00030CCL
 # text = Մենք անվերջ հետաքրքրասեր ենք։
 # translit = Menk’ anverǰ hetak’rk’raser enk’.
 1	Մենք	մենք	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	Translit=Menk’|LTranslit=menk’
@@ -2205,7 +2205,7 @@
 4	ենք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	Translit=enk’|LTranslit=em|SpaceAfter=No
 5	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00030CCM
+# sent_id = blog-006I-00030CCM
 # text = Կարդում ենք բոլոր լուրերը։
 # translit = Kardowm enk’ bolor lowrerë.
 1	Կարդում	կարդալ	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=Kardowm|LTranslit=kardal
@@ -2214,7 +2214,7 @@
 4	լուրերը	լուր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	1	obj	_	Translit=lowrerë|LTranslit=lowr|SpaceAfter=No
 5	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00030CCN
+# sent_id = blog-006I-00030CCN
 # text = Կարդում ու ջղայնանում։
 # translit = Kardowm ow ǰġaynanowm.
 1	Կարդում	կարդալ	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=Kardowm|LTranslit=kardal
@@ -2222,7 +2222,7 @@
 3	ջղայնանում	ջղայնանալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	1	conj	_	Translit=ǰġaynanowm|LTranslit=ǰġaynanal|SpaceAfter=No
 4	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00030CCO
+# sent_id = blog-006I-00030CCO
 # text = Ջղայնանում, որ մյուսները մեզ նման չեն։
 # translit = J̌ġaynanowm, or myowsnerë mez nman čen.
 1	Ջղայնանում	ջղայնանալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=J̌ġaynanowm|LTranslit=ǰġaynanal|SpaceAfter=No
@@ -2234,7 +2234,7 @@
 7	չեն	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=čen|LTranslit=em|SpaceAfter=No
 8	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00030CCP
+# sent_id = blog-006I-00030CCP
 # text = Բայց մենք փոքրամասնություն ենք։
 # translit = Bayc’ menk’ p’ok’ramasnowt’yown enk’.
 1	Բայց	բայց	CCONJ	_	_	3	cc	_	Translit=Bayc’|LTranslit=bayc’
@@ -2243,7 +2243,7 @@
 4	ենք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	Translit=enk’|LTranslit=em|SpaceAfter=No
 5	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00030CCQ
+# sent_id = blog-006I-00030CCQ
 # text = Գիտելիք ստեղծող փոքրամասնություն։
 # translit = Gitelik’ steġçoġ p’ok’ramasnowt’yown.
 1	Գիտելիք	գիտելիք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	obj	_	Translit=Gitelik’|LTranslit=gitelik’
@@ -2251,7 +2251,7 @@
 3	փոքրամասնություն	փոքրամասնություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=p’ok’ramasnowt’yown|LTranslit=p’ok’ramasnowt’yown|SpaceAfter=No
 4	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006I-00030CCR
+# sent_id = blog-006I-00030CCR
 # text = Մտածելուց բացի ուրիշ ոչինչ չկարողացող փոքրամասնություն։
 # translit = Mtaçelowc’ bac’i owriš očinč čkaroġac’oġ p’ok’ramasnowt’yown.
 1	Մտածելուց	մտածել	VERB	_	Case=Abl|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Tran|VerbForm=Gdv|Voice=Act	4	nmod:npmod	_	Translit=Mtaçelowc’|LTranslit=mtaçel
@@ -2263,17 +2263,17 @@
 7	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 # doc_title = Ֆիզիկայի խխունջային օրենքը
-# newdoc id = news-006F
-# newpar id = news-006F-0001
-# sent_id = news-006F-00010CAJ
+# newdoc id = blog-006F
+# newpar id = blog-006F-0001
+# sent_id = blog-006F-00010CAJ
 # text = Ֆիզիկայի խխունջային օրենքը
 # translit = Fizikayi xxownǰayin òrenk’ë
 1	Ֆիզիկայի	ֆիզիկա	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	3	nmod:poss	_	Translit=Fizikayi|LTranslit=fizika
 2	խխունջային	խխունջային	ADJ	_	_	3	amod	_	Translit=xxownǰayin|LTranslit=xxownǰayin
 3	օրենքը	օրենք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=òrenk’ë|LTranslit=òrenk’
 
-# newpar id = news-006F-0002
-# sent_id = news-006F-00020CAK
+# newpar id = blog-006F-0002
+# sent_id = blog-006F-00020CAK
 # text = Կամ երևի ավելի ճիշտ՝ խխունջների հակաֆիզիկական օրենքը
 # translit = Kam erewi aveli č̣išt, xxownǰneri hakafizikakan òrenk’ë
 1	Կամ	կամ	CCONJ	_	ConjType=Comp	8	cc	_	Translit=Kam|LTranslit=kam
@@ -2285,8 +2285,8 @@
 7	հակաֆիզիկական	հակաֆիզիկական	ADJ	_	_	8	amod	_	Translit=hakafizikakan|LTranslit=hakafizikakan
 8	օրենքը	օրենք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=òrenk’ë|LTranslit=òrenk’
 
-# newpar id = news-006F-0003
-# sent_id = news-006F-00030CAL
+# newpar id = blog-006F-0003
+# sent_id = blog-006F-00030CAL
 # text = Չորացած խոտերի վրա անկենդան օտար կոկոնների պես կպած են խխունջները:
 # translit = Čorac’aç xoteri vra ankendan òtar kokonneri pes kpaç en xxownǰnerë.
 1	Չորացած	չորանալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	2	acl	_	Translit=Čorac’aç|LTranslit=čoranal
@@ -2301,7 +2301,7 @@
 10	խխունջները	խխունջ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	8	nsubj	_	Translit=xxownǰnerë|LTranslit=xxownǰ|SpaceAfter=No
 11	:	:	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006F-00030CAM
+# sent_id = blog-006F-00030CAM
 # text = Քամու հետ տարուբերվող ծղոտներին քնած, ասես՝ մեռած...:
 # translit = K’amow het tarowbervoġ çġotnerin k’naç, ases, meṙaç....
 1	Քամու	քամի	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	obl	_	Translit=K’amow|LTranslit=k’ami
@@ -2316,7 +2316,7 @@
 10	...	...	PUNCT	_	_	5	punct	_	Translit=...|LTranslit=...|SpaceAfter=No
 11	:	:	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006F-00030CAN
+# sent_id = blog-006F-00030CAN
 # text = Երեխաները սիրում են հավաքել դրանք:
 # translit = Erexanerë sirowm en havak’el drank’.
 1	Երեխաները	երեխա	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	2	nsubj	_	Translit=Erexanerë|LTranslit=erexa
@@ -2326,7 +2326,7 @@
 5	դրանք	դա	PRON	_	Case=Nom|Distance=Med|Number=Plur|PronType=Dem	4	obj	_	Translit=drank’|LTranslit=da|SpaceAfter=No
 6	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006F-00030CAO
+# sent_id = blog-006F-00030CAO
 # text = Սկզբում՝ որը գտնեն:
 # translit = Skzbowm, orë gtnen.
 1	Սկզբում	սկզբում	ADV	_	Degree=Pos	0	root	_	Translit=Skzbowm|LTranslit=skzbowm|SpaceAfter=No
@@ -2335,7 +2335,7 @@
 4	գտնեն	գտնել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	Translit=gtnen|LTranslit=gtnel|SpaceAfter=No
 5	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006F-00030CAP
+# sent_id = blog-006F-00030CAP
 # text = Հետո՝ որն ավելի արտահայտիչ է:
 # translit = Heto, orn aveli artahaytič ē.
 1	Հետո	հետո	ADV	_	_	0	root	_	Translit=Heto|LTranslit=heto|SpaceAfter=No
@@ -2346,7 +2346,7 @@
 6	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
 7	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006F-00030CAQ
+# sent_id = blog-006F-00030CAQ
 # text = Արտահայտիչը սովորաբար շագանակագույն գծերովն են:
 # translit = Artahaytičë sovorabar šaganakagowyn gçerovn en.
 1	Արտահայտիչը	արտահայտիչ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	Translit=Artahaytičë|LTranslit=artahaytič
@@ -2356,7 +2356,7 @@
 5	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=en|LTranslit=em|SpaceAfter=No
 6	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006F-00030CAR
+# sent_id = blog-006F-00030CAR
 # text = Պոկում ես՝ թեթեեեև:
 # translit = Pokowm es, t’et’eeeew.
 1	Պոկում	պոկել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=Pokowm|LTranslit=pokel
@@ -2365,7 +2365,7 @@
 4	թեթեեեև	թեթև	ADJ	_	Style=Expr	1	parataxis	_	Translit=t’et’eeeew|LTranslit=t’et’ew|SpaceAfter=No
 5	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006F-00030CAS
+# sent_id = blog-006F-00030CAS
 # text = Անկյանք պատյանի կշիռը ինչքա՞ն պիտի լինի:
 # translit = Ankyank’ patyani kšiṙë inčk’a?n piti lini.
 1	Անկյանք	անկյանք	ADJ	_	_	2	amod	_	Translit=Ankyank’|LTranslit=ankyank’
@@ -2378,15 +2378,15 @@
 7	լինի	լինել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=lini|LTranslit=linel|SpaceAfter=No
 8	:	:	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006F-00030CAT
+# sent_id = blog-006F-00030CAT
 # text = Համարյա անկշիռ:
 # translit = Hamarya ankšiṙ.
 1	Համարյա	համարյա	ADV	_	_	2	advmod	_	Translit=Hamarya|LTranslit=hamarya
 2	անկշիռ	անկշիռ	ADJ	_	_	0	root	_	Translit=ankšiṙ|LTranslit=ankšiṙ|SpaceAfter=No
 3	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-006F-0004
-# sent_id = news-006F-00040CAU
+# newpar id = blog-006F-0004
+# sent_id = blog-006F-00040CAU
 # text = Հետո դնում ես քարին ու սպասում, մինչև միջի կենդանին դուրս գա:
 # translit = Heto dnowm es k’arin ow spasowm, minčew miǰi kendanin dowrs ga.
 1	Հետո	հետո	ADV	_	_	2	advmod	_	Translit=Heto|LTranslit=heto
@@ -2403,7 +2403,7 @@
 12	գա	գալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	6	advcl	_	Translit=ga|LTranslit=gal|SpaceAfter=No
 13	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006F-00040CAV
+# sent_id = blog-006F-00040CAV
 # text = Վերցնում ես, դնում ձեռքիդ ու զգում, որ ծանրացել է:
 # translit = Verc’nowm es, dnowm jeṙk’id ow zgowm, or çanrac’el ē.
 1	Վերցնում	վերցնել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=Verc’nowm|LTranslit=verc’nel
@@ -2419,7 +2419,7 @@
 11	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
 12	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006F-00040CB0
+# sent_id = blog-006F-00040CB0
 # text = Մկանների կուչուձիգը, որ սեղմում է մատդ, այնքան ծանրացնում է անկշիռ խխունջին:
 # translit = Mkanneri kowčowjigë, or seġmowm ē matd, aynk’an çanrac’nowm ē ankšiṙ xxownǰin.
 1	Մկանների	մկան	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	2	nmod:poss	_	Translit=Mkanneri|LTranslit=mkan
@@ -2437,7 +2437,7 @@
 13	խխունջին	խխունջ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	10	iobj:agent	_	Translit=xxownǰin|LTranslit=xxownǰ|SpaceAfter=No
 14	:	:	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-006F-00040CB1
+# sent_id = blog-006F-00040CB1
 # text = Պարզվում է շարժումը ոչ միայն ժամանակ է, այլև՝ կշիռ:
 # translit = Parzvowm ē šaržowmë oč miayn žamanak ē, aylew, kšiṙ.
 1	Պարզվում	պարզվել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=Parzvowm|LTranslit=parzvel
@@ -2453,8 +2453,8 @@
 11	կշիռ	կշիռ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	6	conj	_	Translit=kšiṙ|LTranslit=kšiṙ|SpaceAfter=No
 12	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-006F-0005
-# sent_id = news-006F-00050CB2
+# newpar id = blog-006F-0005
+# sent_id = blog-006F-00050CB2
 # text = Էյնշտեյնը խխունջների հետ խաղար, ավելի շուտ իր օրենքները կգտներ:
 # translit = Ēynšteynë xxownǰneri het xaġar, aveli šowt ir òrenk’nerë kgtner.
 1	Էյնշտեյնը	Էյնշտեյն	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Giv|Number=Sing	4	nsubj	_	Translit=Ēynšteynë|LTranslit=Ēynšteyn
@@ -2470,9 +2470,9 @@
 11	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
 # doc_title = ՀՀ կառավարության որոշում, 517 - Ա
-# newdoc id = news-0067
-# newpar id = news-0067-0001
-# sent_id = news-0067-00010C5L
+# newdoc id = legal-0067
+# newpar id = legal-0067-0001
+# sent_id = legal-0067-00010C5L
 # text = Հայաստանի Հանրապետության կառավարության որոշում
 # translit = Hayastani Hanrapetowt’yan kaṙavarowt’yan orošowm
 1	Հայաստանի	Հայաստան	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	2	nmod:poss	_	Translit=Hayastani|LTranslit=Hayastan
@@ -2480,8 +2480,8 @@
 3	կառավարության	կառավարություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	4	nmod:poss	_	Translit=kaṙavarowt’yan|LTranslit=kaṙavarowt’yown
 4	որոշում	որոշում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=orošowm|LTranslit=orošowm
 
-# newpar id = news-0067-0002
-# sent_id = news-0067-00020C5M
+# newpar id = legal-0067-0002
+# sent_id = legal-0067-00020C5M
 # text = 2 Մայիսի 2019, 517 - Ա
 # translit = 2 Mayisi 2019, 517 - A
 1	2	2	NUM	_	NumForm=Digit|NumType=Card	0	root	_	Translit=2|LTranslit=2
@@ -2492,8 +2492,8 @@
 6	-	-	PUNCT	_	_	7	punct	_	Translit=-|LTranslit=-
 7	Ա	անհատական	ADJ	_	Abbr=Yes	5	flat	_	Translit=A|LTranslit=anhatakan
 
-# newpar id = news-0067-0003
-# sent_id = news-0067-00030C5N
+# newpar id = legal-0067-0003
+# sent_id = legal-0067-00030C5N
 # text = Անհատույց օգտագործման իրավունքով անշարժ գույք ամրացնելու մասին
 # translit = Anhatowyc’ ògtagorçman iravownk’ov anšarž gowyk’ amrac’nelow masin
 1	Անհատույց	անհատույց	ADJ	_	_	2	amod	_	Translit=Anhatowyc’|LTranslit=anhatowyc’
@@ -2504,8 +2504,8 @@
 6	ամրացնելու	ամրանալ	VERB	_	Case=Dat|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Tran|VerbForm=Gdv|Voice=Act	0	root	_	Translit=amrac’nelow|LTranslit=amranal
 7	մասին	մասին	ADP	_	AdpType=Post	6	case	_	Translit=masin|LTranslit=masin
 
-# newpar id = news-0067-0004
-# sent_id = news-0067-00040C5O
+# newpar id = legal-0067-0004
+# sent_id = legal-0067-00040C5O
 # text = Հիմք ընդունելով Հայաստանի Հանրապետության քաղաքացիական օրենսգրքի 685-րդ, 688-րդ հոդվածները և «Պետական ոչ առևտրային կազմակերպությունների մասին» Հայաստանի Հանրապետության օրենքի 5-րդ հոդվածի 1-ին կետը` Հայաստանի Հանրապետության կառավարությունը ո ր ո շ ու մ է.
 # translit = Himk’ ëndownelov Hayastani Hanrapetowt’yan k’aġak’ac’iakan òrensgrk’i 685-rd, 688-rd hodvaçnerë ew «Petakan oč aṙewtrayin kazmakerpowt’yownneri masin» Hayastani Hanrapetowt’yan òrenk’i 5-rd hodvaçi 1-in ketë, Hayastani Hanrapetowt’yan kaṙavarowt’yownë o r o š ow m ē.
 1	Հիմք	հիմք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	compound:lvc	_	Translit=Himk’|LTranslit=himk’
@@ -2546,8 +2546,8 @@
 36	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	30	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
 37	.	.	PUNCT	_	_	30	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-0067-0005
-# sent_id = news-0067-00050C5P
+# newpar id = legal-0067-0005
+# sent_id = legal-0067-00050C5P
 # text = 1. Հայաստանի Հանրապետության սեփականությունը հանդիսացող, Հայաստանի Հանրապետության տնտեսական զարգացման և ներդրումների նախարարության պետական գույքի կառավարման կոմիտեի տնօրինության՝ Հայաստանի Հանրապետության Շիրակի մարզ, քաղ. Գյումրի, Խրիմյան Հայրիկ փող. 19 հասցեում գտնվող՝ 745.67 քառ. մետր մակերեսով 26693567 դրամ սկզբնական (վերագնահատված) արժեքով շենք, շինությունները և դրանց սպասարկման և օգտագործման համար հատկացված 0.863004 հեկտար հողամասը (այսուհետ՝ անշարժ գույք) անհատույց, անժամկետ օգտագործման իրավունքով ամրացնել «Գյումրիի ժողգործիքների պետական նվագախումբ» պետական ոչ առևտրային կազմակերպությանը (գրանցման համար՝ 29.210.01936) (այսուհետ՝ կազմակերպություն):
 # translit = 1. Hayastani Hanrapetowt’yan sep’akanowt’yownë handisac’oġ, Hayastani Hanrapetowt’yan tntesakan zargac’man ew nerdrowmneri naxararowt’yan petakan gowyk’i kaṙavarman komitei tnòrinowt’yan, Hayastani Hanrapetowt’yan Širaki marz, k’aġ. Gyowmri, Xrimyan Hayrik p’oġ. 19 hasc’eowm gtnvoġ, 745.67 k’aṙ. metr makeresov 26693567 dram skzbnakan (veragnahatvaç) aržek’ov šenk’, šinowt’yownnerë ew dranc’ spasarkman ew ògtagorçman hamar hatkac’vaç 0.863004 hektar hoġamasë (aysowhet, anšarž gowyk’) anhatowyc’, anžamket ògtagorçman iravownk’ov amrac’nel «Gyowmrii žoġgorçik’neri petakan nvagaxowmb» petakan oč aṙewtrayin kazmakerpowt’yanë (granc’man hamar, 29.210.01936) (aysowhet, kazmakerpowt’yown).
 1	1	1	NUM	_	NumForm=Digit|NumType=Card	74	parataxis	_	Translit=1|LTranslit=1|SpaceAfter=No
@@ -2647,8 +2647,8 @@
 95	)	)	PUNCT	_	_	94	punct	_	Translit=)|LTranslit=)|SpaceAfter=No
 96	:	:	PUNCT	_	_	74	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-0067-0006
-# sent_id = news-0067-00060C5Q
+# newpar id = legal-0067-0006
+# sent_id = legal-0067-00060C5Q
 # text = 2. Հայաստանի Հանրապետության տնտեսական զարգացման և ներդրումների նախարարության պետական գույքի կառավարման կոմիտեի նախագահին՝ երկամսյա ժամկետում կազմակերպության հետ կնքել սույն որոշման 1-ին կետում նշված անշարժ գույքի անհատույց օգտագործման պայմանագիր (այսուհետ՝ պայմանագիր)՝ դրանում նախատեսելով, որ պայմանագրի նոտարական վավերացման և պայմանագրից ծագող գույքային իրավունքների պետական գրանցման ծախսերը ենթակա են իրականացման կազմակերպության միջոցների հաշվին:
 # translit = 2. Hayastani Hanrapetowt’yan tntesakan zargac’man ew nerdrowmneri naxararowt’yan petakan gowyk’i kaṙavarman komitei naxagahin, erkamsya žamketowm kazmakerpowt’yan het knk’el sowyn orošman 1-in ketowm nšvaç anšarž gowyk’i anhatowyc’ ògtagorçman paymanagir (aysowhet, paymanagir), dranowm naxateselov, or paymanagri notarakan vaverac’man ew paymanagric’ çagoġ gowyk’ayin iravownk’neri petakan granc’man çaxserë ent’aka en irakanac’man kazmakerpowt’yan miǰoc’neri hašvin.
 1	2	2	NUM	_	NumForm=Digit|NumType=Card	20	parataxis	_	Translit=2|LTranslit=2|SpaceAfter=No
@@ -2711,9 +2711,9 @@
 58	:	:	PUNCT	_	_	20	punct	_	Translit=.|LTranslit=.
 
 # doc_title = ՀՀ վարչապետի որոշում, 3 Մայիսի 2019, 486 - Լ
-# newdoc id = news-0065
-# newpar id = news-0065-0001
-# sent_id = news-0065-00010C50
+# newdoc id = legal-0065
+# newpar id = legal-0065-0001
+# sent_id = legal-0065-00010C50
 # text = Հայաստանի Հանրապետության վարչապետի որոշում
 # translit = Hayastani Hanrapetowt’yan varčapeti orošowm
 1	Հայաստանի	Հայաստան	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	2	nmod:poss	_	Translit=Hayastani|LTranslit=Hayastan
@@ -2721,8 +2721,8 @@
 3	վարչապետի	վարչապետ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	4	nmod:poss	_	Translit=varčapeti|LTranslit=varčapet
 4	որոշում	որոշում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=orošowm|LTranslit=orošowm
 
-# newpar id = news-0065-0002
-# sent_id = news-0065-00020C51
+# newpar id = legal-0065-0002
+# sent_id = legal-0065-00020C51
 # text = 3 Մայիսի 2019, 486 - Լ
 # translit = 3 Mayisi 2019, 486 - L
 1	3	3	NUM	_	NumForm=Digit|NumType=Card	0	root	_	Translit=3|LTranslit=3
@@ -2733,8 +2733,8 @@
 6	-	-	PUNCT	_	_	7	punct	_	Translit=-|LTranslit=-
 7	Լ	լոկալ	ADJ	_	Abbr=Yes	5	flat	_	Translit=L|LTranslit=lokal
 
-# newpar id = news-0065-0003
-# sent_id = news-0065-00030C52
+# newpar id = legal-0065-0003
+# sent_id = legal-0065-00030C52
 # text = Ազգային փոքրամասնությունների հարցերով խորհուրդ ստեղծելու և խորհրդի կազմը հաստատելու մասին
 # translit = Azgayin p’ok’ramasnowt’yownneri harc’erov xorhowrd steġçelow ew xorhrdi kazmë hastatelow masin
 1	Ազգային	ազգային	ADJ	_	Degree=Pos	2	amod	_	Translit=Azgayin|LTranslit=azgayin
@@ -2748,8 +2748,8 @@
 9	հաստատելու	հաստատել	VERB	_	Case=Dat|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Tran|VerbForm=Gdv|Voice=Act	5	conj	_	Translit=hastatelow|LTranslit=hastatel
 10	մասին	մասին	ADP	_	AdpType=Post	5	case	_	Translit=masin|LTranslit=masin
 
-# newpar id = news-0065-0004
-# sent_id = news-0065-00040C53
+# newpar id = legal-0065-0004
+# sent_id = legal-0065-00040C53
 # text = Համաձայն «Կառավարության կառուցվածքի և գործունեության մասին» Հայաստանի Հանրապետության օրենքի 7-րդ հոդվածի 16-րդ կետի և Հայաստանի Հանրապետության վարչապետի 2018 թվականի մայիսի 25-ի «Վարչապետի աշխատակազմի կանոնադրությունը և կառուցվածքը հաստատելու մասին» N 564-Լ որոշման 1-ին հավելվածի 20-րդ կետի 5-րդ ենթակետի, ինչպես նաև Հայաստանի Հանրապետությունում ազգային փոքրամասնությունների իրավունքների իրացմանը, ազգային ինքնության պահպանմանն ու մշակույթի զարգացմանը նպաստելու նպատակով՝
 # translit = Hamajayn «Kaṙavarowt’yan kaṙowc’vaçk’i ew gorçowneowt’yan masin» Hayastani Hanrapetowt’yan òrenk’i 7-rd hodvaçi 16-rd keti ew Hayastani Hanrapetowt’yan varčapeti 2018 t’vakani mayisi 25-i «Varčapeti ašxatakazmi kanonadrowt’yownë ew kaṙowc’vaçk’ë hastatelow masin» N 564-L orošman 1-in havelvaçi 20-rd keti 5-rd ent’aketi, inčpes naew Hayastani Hanrapetowt’yownowm azgayin p’ok’ramasnowt’yownneri iravownk’neri irac’manë, azgayin ink’nowt’yan pahpanmann ow mšakowyt’i zargac’manë npastelow npatakov,
 1	Համաձայն	համաձայն	ADP	_	AdpType=Post	15	case	_	Translit=Hamajayn|LTranslit=hamajayn
@@ -2815,8 +2815,8 @@
 61	նպատակով	նպատակով	ADP	_	AdpType=Post	60	case	_	Translit=npatakov|LTranslit=npatakov|SpaceAfter=No
 62	՝	՝	PUNCT	_	_	15	punct	_	Translit=,|LTranslit=,
 
-# newpar id = news-0065-0005
-# sent_id = news-0065-00050C54
+# newpar id = legal-0065-0005
+# sent_id = legal-0065-00050C54
 # text = 1. Ստեղծել Ազգային փոքրամասնությունների հարցերով խորհուրդ (այսուհետ՝ խորհուրդ) և հաստատել դրա կազմը՝ համաձայն հավելվածի, երկու տարի գործունեության ժամկետով:
 # translit = 1. Steġçel Azgayin p’ok’ramasnowt’yownneri harc’erov xorhowrd (aysowhet, xorhowrd) ew hastatel dra kazmë, hamajayn havelvaçi, erkow tari gorçowneowt’yan žamketov.
 1	1	1	NUM	_	NumForm=Digit|NumType=Card	3	parataxis	_	Translit=1|LTranslit=1|SpaceAfter=No
@@ -2845,8 +2845,8 @@
 24	ժամկետով	ժամկետ	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	14	obl	_	Translit=žamketov|LTranslit=žamket|SpaceAfter=No
 25	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-0065-0006
-# sent_id = news-0065-00060C55
+# newpar id = legal-0065-0006
+# sent_id = legal-0065-00060C55
 # text = 2. Խորհուրդը խորհրդակցական մարմին է, որը կազմված է ազգային փոքրամասնությունների հասարակական կազմակերպությունների ներկայացուցիչներից՝ յուրաքանչյուր ազգային համայնքից երկուական անդամ։
 # translit = 2. Xorhowrdë xorhrdakc’akan marmin ē, orë kazmvaç ē azgayin p’ok’ramasnowt’yownneri hasarakakan kazmakerpowt’yownneri nerkayac’owc’ičneric’, yowrak’ančyowr azgayin hamaynk’ic’ erkowakan andam.
 1	2	2	NUM	_	NumForm=Digit|NumType=Card	5	parataxis	_	Translit=2|LTranslit=2|SpaceAfter=No
@@ -2872,8 +2872,8 @@
 21	անդամ	անդամ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	15	appos	_	Translit=andam|LTranslit=andam|SpaceAfter=No
 22	։	։	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-0065-0007
-# sent_id = news-0065-00070C56
+# newpar id = legal-0065-0007
+# sent_id = legal-0065-00070C56
 # text = 3. Խորհրդի անդամ, բացառությամբ խորհրդի առաջին կազմի, ընտրվում են ազգային փոքրամասնության յուրաքանչյուր համայնքը ներկայացնող, առնվազն հինգ տարվա ազգային-մշակութային գործունեություն ծավալած (սկսած պետական գրանցման պահից) հասարակական կազմակերպությունները՝ համայնքը ներկայացնող հասարակական կազմակերպությունների ընդհանուր ժողովում:
 # translit = 3. Xorhrdi andam, bac’aṙowt’yamb xorhrdi aṙaǰin kazmi, ëntrvowm en azgayin p’ok’ramasnowt’yan yowrak’ančyowr hamaynk’ë nerkayac’noġ, aṙnvazn hing tarva azgayin-mšakowt’ayin gorçowneowt’yown çavalaç (sksaç petakan granc’man pahic’) hasarakakan kazmakerpowt’yownnerë, hamaynk’ë nerkayac’noġ hasarakakan kazmakerpowt’yownneri ëndhanowr žoġovowm.
 1	3	3	NUM	_	NumForm=Digit|NumType=Card	11	parataxis	_	Translit=3|LTranslit=3|SpaceAfter=No
@@ -2919,7 +2919,7 @@
 41	ժողովում	ժողով	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Sing	11	obl	_	Translit=žoġovowm|LTranslit=žoġov|SpaceAfter=No
 42	:	:	PUNCT	_	_	11	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-0065-00070C57
+# sent_id = legal-0065-00070C57
 # text = Ընդհանուր ժողովը երկու տարին մեկ անգամ ընտրում է խորհրդի երկու նոր անդամների:
 # translit = Ëndhanowr žoġovë erkow tarin mek angam ëntrowm ē xorhrdi erkow nor andamneri.
 1	Ընդհանուր	ընդհանուր	ADJ	_	Degree=Pos	2	amod	_	Translit=Ëndhanowr|LTranslit=ëndhanowr
@@ -2936,8 +2936,8 @@
 12	անդամների	անդամ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Plur	7	obj	_	Translit=andamneri|LTranslit=andam|SpaceAfter=No
 13	:	:	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-0065-0008
-# sent_id = news-0065-00080C58
+# newpar id = legal-0065-0008
+# sent_id = legal-0065-00080C58
 # text = 4. Խորհուրդը քննարկում է Հայաստանի Հանրապետության ազգային փոքրամասնությունների ոլորտին առնչվող հիմնախնդիրները, արտահայտում իր դիրքորոշումը դրանց վերաբերյալ, ինչպես նաև մշակում համապատասխան առաջարկություններ, այդ թվում՝ նաև ազգային փոքրամասնություններին հատկացվող պետական աջակցությունը բաշխելու հարցի վերաբերյալ:
 # translit = 4. Xorhowrdë k’nnarkowm ē Hayastani Hanrapetowt’yan azgayin p’ok’ramasnowt’yownneri olortin aṙnčvoġ himnaxndirnerë, artahaytowm ir dirk’orošowmë dranc’ veraberyal, inčpes naew mšakowm hamapatasxan aṙaǰarkowt’yownner, ayd t’vowm, naew azgayin p’ok’ramasnowt’yownnerin hatkac’voġ petakan aǰakc’owt’yownë bašxelow harc’i veraberyal.
 1	4	4	NUM	_	NumForm=Digit|NumType=Card	4	parataxis	_	Translit=4|LTranslit=4|SpaceAfter=No
@@ -2979,8 +2979,8 @@
 37	վերաբերյալ	վերաբերյալ	ADP	_	AdpType=Post	36	case	_	Translit=veraberyal|LTranslit=veraberyal|SpaceAfter=No
 38	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-0065-0009
-# sent_id = news-0065-00090C59
+# newpar id = legal-0065-0009
+# sent_id = legal-0065-00090C59
 # text = 5. Խորհրդի նիստերին կարող են մասնակցել ազգային փոքրամասնությունների շահերը ներկայացնող կազմակերպությունների ներկայացուցիչներ, ինչպես նաև խորհրդի նախագահի կողմից հրավիրված այլ անձինք:
 # translit = 5. Xorhrdi nisterin karoġ en masnakc’el azgayin p’ok’ramasnowt’yownneri šaherë nerkayac’noġ kazmakerpowt’yownneri nerkayac’owc’ičner, inčpes naew xorhrdi naxagahi koġmic’ hravirvaç ayl anjink’.
 1	5	5	NUM	_	NumForm=Digit|NumType=Card	5	parataxis	_	Translit=5|LTranslit=5|SpaceAfter=No
@@ -3007,8 +3007,8 @@
 22	անձինք	անձ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Assoc	13	conj	_	Translit=anjink’|LTranslit=anj|SpaceAfter=No
 23	:	:	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-0065-000A
-# sent_id = news-0065-000A0C5A
+# newpar id = legal-0065-000A
+# sent_id = legal-0065-000A0C5A
 # text = 6. Խորհրդի նիստն իրավազոր է, եթե դրան մասնակցում է խորհրդի անդամների առնվազն 2/3-ը:
 # translit = 6. Xorhrdi nistn iravazor ē, et’e dran masnakc’owm ē xorhrdi andamneri aṙnvazn 2/3-ë.
 1	6	6	NUM	_	NumForm=Digit|NumType=Card	5	parataxis	_	Translit=6|LTranslit=6|SpaceAfter=No
@@ -3028,8 +3028,8 @@
 15	2/3-ը	2/3	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing|NumForm=Digit	10	nsubj	_	Translit=2/3-ë|LTranslit=2/3|SpaceAfter=No
 16	:	:	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-0065-000B
-# sent_id = news-0065-000B0C5B
+# newpar id = legal-0065-000B
+# sent_id = legal-0065-000B0C5B
 # text = 7. Խորհրդում աշխատակարգային որոշումները կայացվում են նիստին ներկա խորհրդի անդամների ձայների պարզ մեծամասնությամբ:
 # translit = 7. Xorhrdowm ašxatakargayin orošowmnerë kayac’vowm en nistin nerka xorhrdi andamneri jayneri parz meçamasnowt’yamb.
 1	7	7	NUM	_	NumForm=Digit|NumType=Card	6	parataxis	_	Translit=7|LTranslit=7|SpaceAfter=No
@@ -3048,8 +3048,8 @@
 14	մեծամասնությամբ	մեծամասնություն	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	6	obl	_	Translit=meçamasnowt’yamb|LTranslit=meçamasnowt’yown|SpaceAfter=No
 15	:	:	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-0065-000C
-# sent_id = news-0065-000C0C5C
+# newpar id = legal-0065-000C
+# sent_id = legal-0065-000C0C5C
 # text = 8. Խորհրդի աշխատակարգը հաստատում է խորհուրդը:
 # translit = 8. Xorhrdi ašxatakargë hastatowm ē xorhowrdë.
 1	8	8	NUM	_	NumForm=Digit|NumType=Card	5	parataxis	_	Translit=8|LTranslit=8|SpaceAfter=No
@@ -3061,8 +3061,8 @@
 7	խորհուրդը	խորհուրդ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	5	nsubj	_	Translit=xorhowrdë|LTranslit=xorhowrd|SpaceAfter=No
 8	:	:	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-0065-000D
-# sent_id = news-0065-000D0C5D
+# newpar id = legal-0065-000D
+# sent_id = legal-0065-000D0C5D
 # text = 9. Խորհրդի նախագահին` երկշաբաթյա ժամկետում հրավիրել խորհրդի նիստ՝ օրակարգում ներառելով խորհրդի աշխատակարգի հաստատումը և ազգային փոքրամասնություններին հատկացվող պետական աջակցությունը բաշխելու հարցի վերաբերյալ առաջարկությունների ներկայացումը:
 # translit = 9. Xorhrdi naxagahin, erkšabat’ya žamketowm hravirel xorhrdi nist, òrakargowm neraṙelov xorhrdi ašxatakargi hastatowmë ew azgayin p’ok’ramasnowt’yownnerin hatkac’voġ petakan aǰakc’owt’yownë bašxelow harc’i veraberyal aṙaǰarkowt’yownneri nerkayac’owmë.
 1	9	9	NUM	_	NumForm=Digit|NumType=Card	8	parataxis	_	Translit=9|LTranslit=9|SpaceAfter=No
@@ -3095,9 +3095,9 @@
 28	:	:	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
 
 # doc_title = ՀՀ կառավարության որոշում, 28 Փետրվարի 2019, 158 - Ա
-# newdoc id = news-005V
-# newpar id = news-005V-0001
-# sent_id = news-005V-00010BTT
+# newdoc id = legal-005V
+# newpar id = legal-005V-0001
+# sent_id = legal-005V-00010BTT
 # text = Հայաստանի Հանրապետության կառավարության որոշում
 # translit = Hayastani Hanrapetowt’yan kaṙavarowt’yan orošowm
 1	Հայաստանի	Հայաստան	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	2	nmod:poss	_	Translit=Hayastani|LTranslit=Hayastan
@@ -3105,8 +3105,8 @@
 3	կառավարության	կառավարություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	4	nmod:poss	_	Translit=kaṙavarowt’yan|LTranslit=kaṙavarowt’yown
 4	որոշում	որոշում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=orošowm|LTranslit=orošowm
 
-# newpar id = news-005V-0002
-# sent_id = news-005V-00020BTU
+# newpar id = legal-005V-0002
+# sent_id = legal-005V-00020BTU
 # text = 28 Փետրվարի 2019, 158 - Ա
 # translit = 28 P’etrvari 2019, 158 - A
 1	28	28	NUM	_	NumForm=Digit|NumType=Card	0	root	_	Translit=28|LTranslit=28
@@ -3117,8 +3117,8 @@
 6	-	-	PUNCT	_	_	7	punct	_	Translit=-|LTranslit=-
 7	Ա	անհատական	ADJ	_	Abbr=Yes	5	flat	_	Translit=A|LTranslit=anhatakan
 
-# newpar id = news-005V-0003
-# sent_id = news-005V-00030BTV
+# newpar id = legal-005V-0003
+# sent_id = legal-005V-00030BTV
 # text = Հյուսիս-հարավ ճանապարհային միջանցքի ներդրումային ծրագիր-Ծրագիր 2-ի շրջանակներում ձեռք բերված՝ ծրագրի կարիքների համար չպահանջվող անշարժ գույքը Հայաստանի Հանրապետության պետական գույքի կառավարման կոմիտեին ամրացնելու մասին
 # translit = Hyowsis-harav č̣anaparhayin miǰanc’k’i nerdrowmayin çragir-Çragir 2-i šrǰanaknerowm jeṙk’ bervaç, çragri karik’neri hamar čpahanǰvoġ anšarž gowyk’ë Hayastani Hanrapetowt’yan petakan gowyk’i kaṙavarman komitein amrac’nelow masin
 1	Հյուսիս	հյուսիս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Coll	5	nmod	_	Translit=Hyowsis|LTranslit=hyowsis|SpaceAfter=No
@@ -3150,8 +3150,8 @@
 27	ամրացնելու	ամրանալ	VERB	_	Case=Dat|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Tran|VerbForm=Gdv|Voice=Act	0	root	_	Translit=amrac’nelow|LTranslit=amranal
 28	մասին	մասին	ADP	_	AdpType=Post	27	case	_	Translit=masin|LTranslit=masin
 
-# newpar id = news-005V-0004
-# sent_id = news-005V-00040BU0
+# newpar id = legal-005V-0004
+# sent_id = legal-005V-00040BU0
 # text = Ղեկավարվելով «Կառավարչական իրավահարաբերությունների կարգավորման մասին» Հայաստանի Հանրապետության օրենքի 5-րդ հոդվածի 5-րդ մասի պահանջներով, Հյուսիս-հարավ ճանապարհային միջանցքի ներդրումային ծրագրի-ծրագիր 2 (այսուհետ՝ ծրագիր) Աշտարակ-Թալին ճանապարհահատվածի հողերի օտարման և տարաբնակեցման ծրագրի շրջանակներում որպես Հայաստանի Հանրապետության սեփականություն ձեռք բերված, սակայն ծրագրի նպատակների համար չպահանջվող անշարժ գույքի արդյունավետ կառավարումն ու օգտագործումն ապահովելու նպատակով Հայաստանի Հանրապետության կառավարությունը ո ր ո շ ու մ է.
 # translit = Ġekavarvelov «Kaṙavarčakan iravaharaberowt’yownneri kargavorman masin» Hayastani Hanrapetowt’yan òrenk’i 5-rd hodvaçi 5-rd masi pahanǰnerov, Hyowsis-harav č̣anaparhayin miǰanc’k’i nerdrowmayin çragri-çragir 2 (aysowhet, çragir) Aštarak-T’alin č̣anaparhahatvaçi hoġeri òtarman ew tarabnakec’man çragri šrǰanaknerowm orpes Hayastani Hanrapetowt’yan sep’akanowt’yown jeṙk’ bervaç, sakayn çragri npatakneri hamar čpahanǰvoġ anšarž gowyk’i ardyownavet kaṙavarowmn ow ògtagorçowmn apahovelow npatakov Hayastani Hanrapetowt’yan kaṙavarowt’yownë o r o š ow m ē.
 1	Ղեկավարվելով	ղեկավարվել	VERB	_	Case=Ins|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Intr|VerbForm=Gdv|Voice=Mid	65	advcl	_	Translit=Ġekavarvelov|LTranslit=ġekavarvel
@@ -3227,8 +3227,8 @@
 71	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	65	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
 72	.	.	PUNCT	_	_	65	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-005V-0005
-# sent_id = news-005V-00050BU1
+# newpar id = legal-005V-0005
+# sent_id = legal-005V-00050BU1
 # text = 1. Հայաստանի Հանրապետության պետական գույքի կառավարման կոմիտեին ամրացնել սույն որոշման հավելվածում ընդգրկված հողամասերի՝ ծրագրի իրականացման համար չպահանջվող հատվածները և դրանց վրա առկա անշարժ գույքը:
 # translit = 1. Hayastani Hanrapetowt’yan petakan gowyk’i kaṙavarman komitein amrac’nel sowyn orošman havelvaçowm ëndgrkvaç hoġamaseri, çragri irakanac’man hamar čpahanǰvoġ hatvaçnerë ew dranc’ vra aṙka anšarž gowyk’ë.
 1	1	1	NUM	_	NumForm=Digit|NumType=Card	9	parataxis	_	Translit=1|LTranslit=1|SpaceAfter=No
@@ -3259,8 +3259,8 @@
 26	գույքը	գույք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	20	conj	_	Translit=gowyk’ë|LTranslit=gowyk’|SpaceAfter=No
 27	:	:	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-005V-0006
-# sent_id = news-005V-00060BU2
+# newpar id = legal-005V-0006
+# sent_id = legal-005V-00060BU2
 # text = 2. Սահմանել, որ՝
 # translit = 2. Sahmanel, or,
 1	2	2	NUM	_	NumForm=Digit|NumType=Card	3	parataxis	_	Translit=2|LTranslit=2|SpaceAfter=No
@@ -3270,8 +3270,8 @@
 5	որ	որ	SCONJ	_	_	3	orphan	_	Translit=or|LTranslit=or|SpaceAfter=No
 6	՝	՝	PUNCT	_	_	3	punct	_	Translit=,|LTranslit=,
 
-# newpar id = news-005V-0007
-# sent_id = news-005V-00070BU3
+# newpar id = legal-005V-0007
+# sent_id = legal-005V-00070BU3
 # text = 1) սույն որոշման 1-ին կետում նշված տարածքները Հյուսիս-հարավ ճանապարհային միջանցքի ներդրումային ծրագրի կարիքների և հանրության այլ գերակա շահերի օգտագործման համար աննպատակահարմար են.
 # translit = 1) sowyn orošman 1-in ketowm nšvaç taraçk’nerë Hyowsis-harav č̣anaparhayin miǰanc’k’i nerdrowmayin çragri karik’neri ew hanrowt’yan ayl geraka šaheri ògtagorçman hamar annpatakaharmar en.
 1	1	1	NUM	_	NumForm=Digit|NumType=Card	24	parataxis	_	Translit=1|LTranslit=1|SpaceAfter=No
@@ -3301,8 +3301,8 @@
 25	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	24	cop	_	Translit=en|LTranslit=em|SpaceAfter=No
 26	.	.	PUNCT	_	_	24	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-005V-0008
-# sent_id = news-005V-00080BU4
+# newpar id = legal-005V-0008
+# sent_id = legal-005V-00080BU4
 # text = 2) սույն որոշման հավելվածում նշված հողամասերի՝ ծրագրի իրականացման համար չպահանջվող հատվածների առանձնացման և դրանց նկատմամբ իրավունքների պետական գրանցման հետ կապված ծախսերը կատարվելու են Հայաստանի Հանրապետության կառավարության 2012 թվականի սեպտեմբերի 6-ի N 1140-Ն որոշմամբ «Տրանսպորտային ծրագրերի իրականացման կազմակերպություն» պետական ոչ առևտրային կազմակերպության իրավանախորդ «Հյուսիս-հարավ ճանապարհային միջանցքի ներդրումային ծրագրի իրականացման կազմակերպություն» պետական ոչ առևտրային կազմակերպությանը տրամադրված և Հայաստանի Հանրապետության կառավարության 2014 թվականի հունիսի 12-ի N 603-Ն որոշմամբ ավելացված Հյուսիս-հարավ ճանապարհային միջանցքի ներդրումային ծրագրի (Տրանշ-2) շրջանակներում Աշտարակ-Թալին ճանապարհահատվածի հողերի օտարման և տարաբնակեցման ծրագրի փոխհատուցման ամփոփ բյուջեի «Չնախատեսված ծախսեր» տողով:
 # translit = 2) sowyn orošman havelvaçowm nšvaç hoġamaseri, çragri irakanac’man hamar čpahanǰvoġ hatvaçneri aṙanjnac’man ew dranc’ nkatmamb iravownk’neri petakan granc’man het kapvaç çaxserë katarvelow en Hayastani Hanrapetowt’yan kaṙavarowt’yan 2012 t’vakani septemberi 6-i N 1140-N orošmamb «Transportayin çragreri irakanac’man kazmakerpowt’yown» petakan oč aṙewtrayin kazmakerpowt’yan iravanaxord «Hyowsis-harav č̣anaparhayin miǰanc’k’i nerdrowmayin çragri irakanac’man kazmakerpowt’yown» petakan oč aṙewtrayin kazmakerpowt’yanë tramadrvaç ew Hayastani Hanrapetowt’yan kaṙavarowt’yan 2014 t’vakani hownisi 12-i N 603-N orošmamb avelac’vaç Hyowsis-harav č̣anaparhayin miǰanc’k’i nerdrowmayin çragri (Tranš-2) šrǰanaknerowm Aštarak-T’alin č̣anaparhahatvaçi hoġeri òtarman ew tarabnakec’man çragri p’oxhatowc’man amp’op’ byowǰei «Čnaxatesvaç çaxser» toġov.
 1	2	2	NUM	_	NumForm=Digit|NumType=Card	24	parataxis	_	Translit=2|LTranslit=2|SpaceAfter=No
@@ -3415,8 +3415,8 @@
 108	տողով	տող	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	24	obl	_	Translit=toġov|LTranslit=toġ|SpaceAfter=No
 109	:	:	PUNCT	_	_	24	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-005V-0009
-# sent_id = news-005V-00090BU5
+# newpar id = legal-005V-0009
+# sent_id = legal-005V-00090BU5
 # text = 3. Հայաստանի Հանրապետության տրանսպորտի, կապի և տեղեկատվական տեխնոլոգիաների նախարարին՝
 # translit = 3. Hayastani Hanrapetowt’yan transporti, kapi ew teġekatvakan texnologianeri naxararin,
 1	3	3	NUM	_	NumForm=Digit|NumType=Card	11	parataxis	_	Translit=3|LTranslit=3|SpaceAfter=No
@@ -3432,8 +3432,8 @@
 11	նախարարին	նախարար	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	0	root	_	Translit=naxararin|LTranslit=naxarar|SpaceAfter=No
 12	՝	՝	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,
 
-# newpar id = news-005V-000A
-# sent_id = news-005V-000A0BU6
+# newpar id = legal-005V-000A
+# sent_id = legal-005V-000A0BU6
 # text = 1) սույն որոշման 2-րդ կետում նշված ծառայությունների գնման պայմանագիրն ստորագրելու օրվանից տասնամսյա ժամկետում ապահովել սույն որոշման հավելվածում ընդգրկված հողամասերից ծրագրի իրականացման համար չպահանջվող հատվածների բաժանումը և գույքային իրավունքների պետական գրանցումը.
 # translit = 1) sowyn orošman 2-rd ketowm nšvaç çaṙayowt’yownneri gnman paymanagirn storagrelow òrvanic’ tasnamsya žamketowm apahovel sowyn orošman havelvaçowm ëndgrkvaç hoġamaseric’ çragri irakanac’man hamar čpahanǰvoġ hatvaçneri bažanowmë ew gowyk’ayin iravownk’neri petakan granc’owmë.
 1	1	1	NUM	_	NumForm=Digit|NumType=Card	15	parataxis	_	Translit=1|LTranslit=1|SpaceAfter=No
@@ -3469,8 +3469,8 @@
 31	գրանցումը	գրանցում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	26	conj	_	Translit=granc’owmë|LTranslit=granc’owm|SpaceAfter=No
 32	.	.	PUNCT	_	_	15	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-005V-000B
-# sent_id = news-005V-000B0BU7
+# newpar id = legal-005V-000B
+# sent_id = legal-005V-000B0BU7
 # text = 2) սույն կետի 1-ին ենթակետում նշված գույքային իրավունքների պետական գրանցման օրվանից մեկամսյա ժամկետում սույն որոշման 1-ին կետում նշված անշարժ գույքի նախկին սեփականատերերին ծանուցել «Հանրության գերակա շահերի ապահովման նպատակով սեփականության օտարման մասին» Հայաստանի Հանրապետության օրենքի 16-րդ հոդվածի 3-րդ մասի հիմքով ծրագրի իրականացման համար չպահանջվող հատվածների ձեռքբերման պահանջ ներկայացնելու իրենց իրավունքի մասին՝ սահմանելով պահանջը ներկայացնելու ողջամիտ ժամկետ, բայց ոչ ավելի, քան ծանուցումն ուղարկելուց հետո մեկ տարվա ժամկետից:
 # translit = 2) sowyn keti 1-in ent’aketowm nšvaç gowyk’ayin iravownk’neri petakan granc’man òrvanic’ mekamsya žamketowm sowyn orošman 1-in ketowm nšvaç anšarž gowyk’i naxkin sep’akanatererin çanowc’el «Hanrowt’yan geraka šaheri apahovman npatakov sep’akanowt’yan òtarman masin» Hayastani Hanrapetowt’yan òrenk’i 16-rd hodvaçi 3-rd masi himk’ov çragri irakanac’man hamar čpahanǰvoġ hatvaçneri jeṙk’berman pahanǰ nerkayac’nelow irenc’ iravownk’i masin, sahmanelov pahanǰë nerkayac’nelow oġǰamit žamket, bayc’ oč aveli, k’an çanowc’owmn owġarkelowc’ heto mek tarva žamketic’.
 1	2	2	NUM	_	NumForm=Digit|NumType=Card	24	parataxis	_	Translit=2|LTranslit=2|SpaceAfter=No
@@ -3546,8 +3546,8 @@
 71	ժամկետից	ժամկետ	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	63	obl	_	Translit=žamketic’|LTranslit=žamket|SpaceAfter=No
 72	:	:	PUNCT	_	_	24	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-005V-000C
-# sent_id = news-005V-000C0BU8
+# newpar id = legal-005V-000C
+# sent_id = legal-005V-000C0BU8
 # text = 4. Ընդունել ի գիտություն, որ սույն որոշման 3-րդ կետի 2-րդ ենթակետում նշված ժամկետը չի սահմանափակում անշարժ գույքի նախկին սեփականատերերին «Հանրության գերակա շահերի ապահովման նպատակով սեփականության օտարման մասին» Հայաստանի Հանրապետության օրենքի 16-րդ հոդվածի 3-րդ մասի հիմքով ծրագրի իրականացման համար չպահանջվող հատվածների ձեռքբերման պահանջ ներկայացնելու՝ մինչև տվյալ գույքն այլ անձանց օտարելու համար աճուրդ կամ մրցույթ հայտարարելը:
 # translit = 4. Ëndownel i gitowt’yown, or sowyn orošman 3-rd keti 2-rd ent’aketowm nšvaç žamketë či sahmanap’akowm anšarž gowyk’i naxkin sep’akanatererin «Hanrowt’yan geraka šaheri apahovman npatakov sep’akanowt’yan òtarman masin» Hayastani Hanrapetowt’yan òrenk’i 16-rd hodvaçi 3-rd masi himk’ov çragri irakanac’man hamar čpahanǰvoġ hatvaçneri jeṙk’berman pahanǰ nerkayac’nelow, minčew tvyal gowyk’n ayl anjanc’ òtarelow hamar ač̣owrd kam mrc’owyt’ haytararelë.
 1	4	4	NUM	_	NumForm=Digit|NumType=Card	3	parataxis	_	Translit=4|LTranslit=4|SpaceAfter=No
@@ -3611,7 +3611,7 @@
 59	հայտարարելը	հայտարարել	VERB	_	Case=Nom|Definite=Def|Number=Coll|Polarity=Pos|Subcat=Tran|VerbForm=Gdv|Voice=Act	47	obl	_	Translit=haytararelë|LTranslit=haytararel|SpaceAfter=No
 60	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = news-005V-000C0BU9
+# sent_id = legal-005V-000C0BU9
 # text = Ընդ որում, սույն կետում նշված պահանջը կարող է ներկայացվել նաև աճուրդի կամ մրցույթի արդյունքում տվյալ գույքը չօտարվելու դեպքում՝ մինչև նոր աճուրդ կամ մրցույթ հայտարարելը:
 # translit = Ënd orowm, sowyn ketowm nšvaç pahanǰë karoġ ē nerkayac’vel naew ač̣owrdi kam mrc’owyt’i ardyownk’owm tvyal gowyk’ë čòtarvelow depk’owm, minčew nor ač̣owrd kam mrc’owyt’ haytararelë.
 1	Ընդ	ընդ	ADP	_	AdpType=Prep|Style=Arch	8	parataxis	_	Translit=Ënd|LTranslit=ënd
@@ -3642,8 +3642,8 @@
 26	հայտարարելը	հայտարարել	VERB	_	Case=Nom|Definite=Def|Number=Coll|Polarity=Pos|Subcat=Tran|VerbForm=Gdv|Voice=Act	19	nmod:npmod	_	Translit=haytararelë|LTranslit=haytararel|SpaceAfter=No
 27	:	:	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-005V-000D
-# sent_id = news-005V-000D0BUA
+# newpar id = legal-005V-000D
+# sent_id = legal-005V-000D0BUA
 # text = 5. Հայաստանի Հանրապետության տրանսպորտի, կապի և տեղեկատվական տեխնոլոգիաների նախարարին ու Հայաստանի Հանրապետության պետական գույքի կառավարման կոմիտեի նախագահին՝ սույն որոշման 3-րդ կետի 1-ին ենթակետում նշված ժամկետի ավարտի օրվանից չորսամսյա ժամկետում իրականացնել սույն որոշման 1-ին կետում նշված անշարժ գույքի միավորների հանձնման-ընդունման աշխատանքները՝ հիմք ընդունելով սույն որոշման 1-ին կետում նշված հողամասերի նկատմամբ իրավունքների պետական գրանցման վկայականներում արտացոլված մակերեսները։
 # translit = 5. Hayastani Hanrapetowt’yan transporti, kapi ew teġekatvakan texnologianeri naxararin ow Hayastani Hanrapetowt’yan petakan gowyk’i kaṙavarman komitei naxagahin, sowyn orošman 3-rd keti 1-in ent’aketowm nšvaç žamketi avarti òrvanic’ čorsamsya žamketowm irakanac’nel sowyn orošman 1-in ketowm nšvaç anšarž gowyk’i miavorneri hanjnman-ëndownman ašxatank’nerë, himk’ ëndownelov sowyn orošman 1-in ketowm nšvaç hoġamaseri nkatmamb iravownk’neri petakan granc’man vkayakannerowm artac’olvaç makeresnerë.
 1	5	5	NUM	_	NumForm=Digit|NumType=Card	33	parataxis	_	Translit=5|LTranslit=5|SpaceAfter=No
@@ -3709,8 +3709,8 @@
 61	մակերեսները	մակերես	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	48	obj	_	Translit=makeresnerë|LTranslit=makeres|SpaceAfter=No
 62	։	։	PUNCT	_	_	33	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-005V-000E
-# sent_id = news-005V-000E0BUB
+# newpar id = legal-005V-000E
+# sent_id = legal-005V-000E0BUB
 # text = 6. Հայաստանի Հանրապետության պետական գույքի կառավարման կոմիտեի նախագահին՝ սույն որոշման 3-րդ կետի 2-րդ ենթակետում նշված պահանջների առկայության դեպքում «Հանրության գերակա շահերի ապահովման նպատակով սեփականության օտարման մասին» Հայաստանի Հանրապետության օրենքով սահմանված կարգով ապահովել գույքի գնահատումը:
 # translit = 6. Hayastani Hanrapetowt’yan petakan gowyk’i kaṙavarman komitei naxagahin, sowyn orošman 3-rd keti 2-rd ent’aketowm nšvaç pahanǰneri aṙkayowt’yan depk’owm «Hanrowt’yan geraka šaheri apahovman npatakov sep’akanowt’yan òtarman masin» Hayastani Hanrapetowt’yan òrenk’ov sahmanvaç kargov apahovel gowyk’i gnahatowmë.
 1	6	6	NUM	_	NumForm=Digit|NumType=Card	36	parataxis	_	Translit=6|LTranslit=6|SpaceAfter=No
@@ -3753,8 +3753,8 @@
 38	գնահատումը	գնահատում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	36	obj	_	Translit=gnahatowmë|LTranslit=gnahatowm|SpaceAfter=No
 39	:	:	PUNCT	_	_	36	punct	_	Translit=.|LTranslit=.
 
-# newpar id = news-005V-000F
-# sent_id = news-005V-000F0BUC
+# newpar id = legal-005V-000F
+# sent_id = legal-005V-000F0BUC
 # text = 7. Առաջարկել համայնքի ղեկավարներին, համագործակցելով Հայաստանի Հանրապետության պետական գույքի կառավարման կոմիտեի և Հայաստանի Հանրապետության տրանսպորտի, կապի և տեղեկատվական տեխնոլոգիաների նախարարության հետ, ապահովել սույն որոշման 1-ին կետում նշված գույքի՝ Հայաստանի Հանրապետության օրենսդրությամբ սահմանված կարգով օտարումը՝ ղեկավարվելով «Հանրության գերակա շահերի ապահովման նպատակով սեփականության օտարման մասին» Հայաստանի Հանրապետության օրենքի 16-րդ հոդվածի 3-րդ մասի պահանջներով:
 # translit = 7. Aṙaǰarkel hamaynk’i ġekavarnerin, hamagorçakc’elov Hayastani Hanrapetowt’yan petakan gowyk’i kaṙavarman komitei ew Hayastani Hanrapetowt’yan transporti, kapi ew teġekatvakan texnologianeri naxararowt’yan het, apahovel sowyn orošman 1-in ketowm nšvaç gowyk’i, Hayastani Hanrapetowt’yan òrensdrowt’yamb sahmanvaç kargov òtarowmë, ġekavarvelov «Hanrowt’yan geraka šaheri apahovman npatakov sep’akanowt’yan òtarman masin» Hayastani Hanrapetowt’yan òrenk’i 16-rd hodvaçi 3-rd masi pahanǰnerov.
 1	7	7	NUM	_	NumForm=Digit|NumType=Card	3	parataxis	_	Translit=7|LTranslit=7|SpaceAfter=No
@@ -5241,9 +5241,9 @@
 4	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 # doc_title = Մեծամոր
-# newdoc id = fiction-005E
-# newpar id = fiction-005E-0001
-# sent_id = fiction-005E-00010BED
+# newdoc id = nonfiction-005E
+# newpar id = nonfiction-005E-0001
+# sent_id = nonfiction-005E-00010BED
 # text = Հերն անիծած, բայց Արարատը միշտ եղել է Արարատյան հովտում, իսկ հովիտն Ասորիքից հյուսիս է. հեթիթներն էլ հյուսիս էին, բայց այդ առեղծվածային հիքսոսները կռվել են նաև հեթիթների դեմ:
 # translit = Hern aniçaç, bayc’ Araratë mišt eġel ē Araratyan hovtowm, isk hovitn Asorik’ic’ hyowsis ē. het’it’nern ēl hyowsis ēin, bayc’ ayd aṙeġçvaçayin hik’sosnerë kṙvel en naew het’it’neri dem.
 1	Հերն	հայր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing|Style=Coll	7	parataxis	_	Translit=Hern|LTranslit=hayr
@@ -5279,8 +5279,8 @@
 31	դեմ	դեմ	ADP	_	AdpType=Post	30	case	_	Translit=dem|LTranslit=dem|SpaceAfter=No
 32	:	:	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
-# newpar id = fiction-005E-0002
-# sent_id = fiction-005E-00020BEE
+# newpar id = nonfiction-005E-0002
+# sent_id = nonfiction-005E-00020BEE
 # text = Թուխ ու ջղային մարդկանց մի ցեղ, որ իրեն հիքսոս էր կոչում, հյուսիսի Արարատ երկրում զինվեց Մեծամորի պողպատե սրով, մարտակառքի անվաճաղերը հղկեց Արեգունու կենի ծառից, որ մետաղի կարծրություն ունի...
 # translit = T’owx ow ǰġayin mardkanc’ mi c’eġ, or iren hik’sos ēr kočowm, hyowsisi Ararat erkrowm zinvec’ Meçamori poġpate srov, martakaṙk’i anvač̣aġerë hġkec’ Aregownow keni çaṙic’, or metaġi karçrowt’yown owni...
 1	Թուխ	թուխ	ADJ	_	Degree=Pos	4	amod	_	Translit=T’owx|LTranslit=t’owx
@@ -5317,7 +5317,7 @@
 32	ունի	ունեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	27	acl	_	Translit=owni|LTranslit=ownem|SpaceAfter=No
 33	...	...	PUNCT	_	_	17	punct	_	Translit=...|LTranslit=...
 
-# sent_id = fiction-005E-00020BEF
+# sent_id = nonfiction-005E-00020BEF
 # text = Ցորնաթուխ ու եռանդուն մարդկանց մի ցեղ, որ երկաթը քարից զատում էր ֆոսֆորի մոգությամբ, իսկ ֆոսֆորը գտել էր ոչխարի ու տավարի ոսկորի մեջ և առհասարակ ոսկորի մեջ՝ լինի տավարի թե մարդու...
 # translit = C’ornat’owx ow eṙandown mardkanc’ mi c’eġ, or erkat’ë k’aric’ zatowm ēr fosfori mogowt’yamb, isk fosforë gtel ēr očxari ow tavari oskori meǰ ew aṙhasarak oskori meǰ, lini tavari t’e mardow...
 1	Ցորնաթուխ	ցորնաթուխ	ADJ	_	_	4	amod	_	Translit=C’ornat’owx|LTranslit=c’ornat’owx
@@ -5355,8 +5355,8 @@
 33	մարդու	մարդ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	31	conj	_	Translit=mardow|LTranslit=mard|SpaceAfter=No
 34	...	...	PUNCT	_	_	6	punct	_	Translit=...|LTranslit=...
 
-# newpar id = fiction-005E-0003
-# sent_id = fiction-005E-00030BEG
+# newpar id = nonfiction-005E-0003
+# sent_id = nonfiction-005E-00030BEG
 # text = Թուխ ու ջղային մարդկանց մի ցեղ, որ իրեն հայ ու իր երկիրը Հայք էր կոչում, հեթիթներին ոտնատակ տալով հյուսիսից իջավ Ասորիք, սուրաց ու փշրեց երկաթով բրոնզե բանակներն ու...
 # translit = T’owx ow ǰġayin mardkanc’ mi c’eġ, or iren hay ow ir erkirë Hayk’ ēr kočowm, het’it’nerin otnatak talov hyowsisic’ iǰav Asorik’, sowrac’ ow p’šrec’ erkat’ov bronze banaknern ow...
 1	Թուխ	թուխ	ADJ	_	Degree=Pos	4	amod	_	Translit=T’owx|LTranslit=t’owx
@@ -5392,7 +5392,7 @@
 31	ու	ու	CCONJ	_	_	22	orphan	_	Translit=ow|LTranslit=ow|SpaceAfter=No
 32	...	...	PUNCT	_	_	22	punct	_	Translit=...|LTranslit=...
 
-# sent_id = fiction-005E-00030BEH
+# sent_id = nonfiction-005E-00030BEH
 # text = Թուխ ու ջղային մարդկանց երկու ցեղ, որ իրենց հայ ու հույն էին կոչում, զինվեցին սաղավարտով, նիզակով, թրով, զրահավորվեցին իրենք և զրահապատեցին իրենց նժույգը, միացան, դարձան հայ-հույն միակուռ ասպետ, և Մարաթոնից զրնգոցով եկավ ասպետը...
 # translit = T’owx ow ǰġayin mardkanc’ erkow c’eġ, or irenc’ hay ow howyn ēin kočowm, zinvec’in saġavartov, nizakov, t’rov, zrahavorvec’in irenk’ ew zrahapatec’in irenc’ nžowygë, miac’an, darjan hay-howyn miakowṙ aspet, ew Marat’onic’ zrngoc’ov ekav aspetë...
 1	Թուխ	թուխ	ADJ	_	Degree=Pos	4	amod	_	Translit=T’owx|LTranslit=t’owx
@@ -5440,7 +5440,7 @@
 43	ասպետը	ասպետ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	42	nsubj	_	Translit=aspetë|LTranslit=aspet|SpaceAfter=No
 44	...	...	PUNCT	_	_	16	punct	_	Translit=...|LTranslit=...
 
-# sent_id = fiction-005E-00030BEI
+# sent_id = nonfiction-005E-00030BEI
 # text = Արևելքից գալիս էր արտ ու արոտ տրորելով Ակչա-կոյունլու ոչխարի հոտը...
 # translit = Arewelk’ic’ galis ēr art ow arot trorelov Akča-koyownlow očxari hotë...
 1	Արևելքից	արևելք	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Coll	2	obl	_	Translit=Arewelk’ic’|LTranslit=arewelk’
@@ -5457,7 +5457,7 @@
 12	հոտը	հոտ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	Translit=hotë|LTranslit=hot|SpaceAfter=No
 13	...	...	PUNCT	_	_	2	punct	_	Translit=...|LTranslit=...
 
-# sent_id = fiction-005E-00030BEJ
+# sent_id = nonfiction-005E-00030BEJ
 # text = Զրնգոցով գնաց ասպետը, խփեց ու խրվեց Ակչա-կոյունլու հոտի մեջ և տառապեց ու ելնել չկարեցավ բրդի փափուկ նեղվածքից, և նրա զրահը բրդի մեջ չէր զրնգում...
 # translit = Zrngoc’ov gnac’ aspetë, xp’ec’ ow xrvec’ Akča-koyownlow hoti meǰ ew taṙapec’ ow elnel čkarec’av brdi p’ap’owk neġvaçk’ic’, ew nra zrahë brdi meǰ čēr zrngowm...
 1	Զրնգոցով	զրնգոց	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	2	obl	_	Translit=Zrngoc’ov|LTranslit=zrngoc’
@@ -5490,7 +5490,7 @@
 28	զրնգում	զրնգալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	2	conj	_	Translit=zrngowm|LTranslit=zrngal|SpaceAfter=No
 29	...	...	PUNCT	_	_	2	punct	_	Translit=...|LTranslit=...
 
-# sent_id = fiction-005E-00030BEK
+# sent_id = nonfiction-005E-00030BEK
 # text = Եվ հովիվը մահակը թափահարեց ու քշեց նրան էլ հոտի հետ մինչև Մարաթոն ու Հերկուլեսյան սյուներ:
 # translit = Ev hovivë mahakë t’ap’aharec’ ow k’šec’ nran ēl hoti het minčew Marat’on ow Herkowlesyan syowner.
 1	Եվ	և	CCONJ	_	_	4	cc	_	Translit=Ev|LTranslit=ew
@@ -5510,7 +5510,7 @@
 15	սյուներ	սյուն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	12	conj	_	Translit=syowner|LTranslit=syown|SpaceAfter=No
 16	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-005E-00030BEL
+# sent_id = nonfiction-005E-00030BEL
 # text = Եվ նա մոռացել էր, որ ինքն ասպետ էր և Ակչա-կոյունլու հոտի մեջ մայում էր:
 # translit = Ev na moṙac’el ēr, or ink’n aspet ēr ew Akča-koyownlow hoti meǰ mayowm ēr.
 1	Եվ	և	CCONJ	_	_	3	cc	_	Translit=Ev|LTranslit=ew
@@ -5532,8 +5532,8 @@
 17	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	16	aux	_	Translit=ēr|LTranslit=em|SpaceAfter=No
 18	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# newpar id = fiction-005E-0004
-# sent_id = fiction-005E-00040BEM
+# newpar id = nonfiction-005E-0004
+# sent_id = nonfiction-005E-00040BEM
 # text = Քո բոլոր ճակատամարտերն այլևս տանուլ են տրված:
 # translit = K’o bolor č̣akatamartern aylews tanowl en trvaç.
 1	Քո	դու	DET	_	Case=Gen|Number=Sing|Person=2|Polite=Infm|Poss=Yes|PronType=Prs	3	det:poss	_	Translit=K’o|LTranslit=dow
@@ -5545,7 +5545,7 @@
 7	տրված	տալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	0	root	_	Translit=trvaç|LTranslit=tal|SpaceAfter=No
 8	:	:	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-005E-00040BEN
+# sent_id = nonfiction-005E-00040BEN
 # text = Քո երկրից հաղթանակ տարած ոչ մի զորավար չի մեծարվել հաղթակամարով:
 # translit = K’o erkric’ haġt’anak taraç oč mi zoravar či meçarvel haġt’akamarov.
 1	Քո	դու	DET	_	Case=Gen|Number=Sing|Person=2|Polite=Infm|Poss=Yes|PronType=Prs	2	det:poss	_	Translit=K’o|LTranslit=dow
@@ -5560,7 +5560,7 @@
 10	հաղթակամարով	հաղթակամար	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	9	obl	_	Translit=haġt’akamarov|LTranslit=haġt’akamar|SpaceAfter=No
 11	:	:	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-005E-00040BEO
+# sent_id = nonfiction-005E-00040BEO
 # text = Ոչնչացվել են կռվողների քո փոքրիկ խմբերը լեռներում ու կիրճերում:
 # translit = Očnčac’vel en kṙvoġneri k’o p’ok’rik xmberë leṙnerowm ow kirč̣erowm.
 1	Ոչնչացվել	ոչնչանալ	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Pass	0	root	_	Translit=Očnčac’vel|LTranslit=očnčanal
@@ -5574,7 +5574,7 @@
 9	կիրճերում	կիրճ	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Plur	7	conj	_	Translit=kirč̣erowm|LTranslit=kirč̣|SpaceAfter=No
 10	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-005E-00040BEP
+# sent_id = nonfiction-005E-00040BEP
 # text = Դու ոչ մի հաղթանակ չունես:
 # translit = Dow oč mi haġt’anak čownes.
 1	Դու	դու	PRON	_	Case=Nom|Number=Sing|Person=2|Polite=Infm|PronType=Prs	5	nsubj	_	Translit=Dow|LTranslit=dow
@@ -5584,7 +5584,7 @@
 5	չունես	ունեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=čownes|LTranslit=ownem|SpaceAfter=No
 6	:	:	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-005E-00040BEQ
+# sent_id = nonfiction-005E-00040BEQ
 # text = Քո պարզած սպիտակ դրոշները թշնամու մեջ չեն խաղացրել սրտառուչ հարգանք և հաշտության քո բանագնացները խեղդվել են թաց հռհռոցի մեջ:
 # translit = K’o parzaç spitak drošnerë t’šnamow meǰ čen xaġac’rel srtaṙowč hargank’ ew haštowt’yan k’o banagnac’nerë xeġdvel en t’ac’ hṙhṙoc’i meǰ.
 1	Քո	դու	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	obl	_	Translit=K’o|LTranslit=dow
@@ -5608,7 +5608,7 @@
 19	մեջ	մեջ	ADP	_	AdpType=Post|Case=Nom	18	case	_	Translit=meǰ|LTranslit=meǰ|SpaceAfter=No
 20	:	:	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-005E-00040BER
+# sent_id = nonfiction-005E-00040BER
 # text = Քո երկիր մտել են ոչ թե փաղանգների կուռ սպառնալիքով կորզելու հավասարի քո դաշինքը կամ գնելու քո մեծահոգի չեզոքությունը, այլ թափթփված խուժանի խմբերով են եկել՝ կնիկ, ճարմանդ, կարպետ, ձի խլելու, արտ հրդեհելու:
 # translit = K’o erkir mtel en oč t’e p’aġangneri kowṙ spaṙnalik’ov korzelow havasari k’o dašink’ë kam gnelow k’o meçahogi čezok’owt’yownë, ayl t’ap’t’p’vaç xowžani xmberov en ekel, knik, č̣armand, karpet, ji xlelow, art hrdehelow.
 1	Քո	դու	DET	_	Case=Gen|Number=Sing|Person=2|Polite=Infm|Poss=Yes|PronType=Prs	2	det:poss	_	Translit=K’o|LTranslit=dow
@@ -5650,7 +5650,7 @@
 37	հրդեհելու	հրդեհել	VERB	_	Case=Dat|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Tran|VerbForm=Gdv|Voice=Act	34	conj	_	Translit=hrdehelow|LTranslit=hrdehel|SpaceAfter=No
 38	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-005E-00040BES
+# sent_id = nonfiction-005E-00040BES
 # text = Պատառոտվել են նոր գնդեր գումարելու քո ծրագրերը:
 # translit = Pataṙotvel en nor gnder gowmarelow k’o çragrerë.
 1	Պատառոտվել	պատառոտվել	VERB	_	Aspect=Iter,Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=Pataṙotvel|LTranslit=pataṙotvel
@@ -5662,7 +5662,7 @@
 7	ծրագրերը	ծրագիր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	1	nsubj	_	Translit=çragrerë|LTranslit=çragir|SpaceAfter=No
 8	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-005E-00040BET
+# sent_id = nonfiction-005E-00040BET
 # text = Բարձախեղդ է արվել որևէ ելք փնտրելու քո մտմտուքը:
 # translit = Barjaxeġd ē arvel orewē elk’ p’ntrelow k’o mtmtowk’ë.
 1	Բարձախեղդ	բարձախեղդ	ADJ	_	_	3	compound:lvc	_	Translit=Barjaxeġd|LTranslit=barjaxeġd
@@ -5675,7 +5675,7 @@
 8	մտմտուքը	մտմտուք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	3	nsubj:pass	_	Translit=mtmtowk’ë|LTranslit=mtmtowk’|SpaceAfter=No
 9	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-005E-00040BEU
+# sent_id = nonfiction-005E-00040BEU
 # text = Ուրկից որ գուցե հանեիր զրույցի հրեղեն թուրը՝ ճզմել են քո գանգի այդ մասը:
 # translit = OWrkic’ or gowc’e haneir zrowyc’i hreġen t’owrë, č̣zmel en k’o gangi ayd masë.
 1	Ուրկից	ուրկից	ADV	_	Style=Rare	4	advmod	_	Translit=OWrkic’|LTranslit=owrkic’
@@ -5694,7 +5694,7 @@
 14	մասը	մաս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	9	obj	_	Translit=masë|LTranslit=mas|SpaceAfter=No
 15	:	:	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-005E-00040BEV
+# sent_id = nonfiction-005E-00040BEV
 # text = Դու ջախջախված բանակի միավոր ես:
 # translit = Dow ǰaxǰaxvaç banaki miavor es.
 1	Դու	դու	PRON	_	Case=Nom|Number=Sing|Person=2|Polite=Infm|PronType=Prs	4	nsubj	_	Translit=Dow|LTranslit=dow
@@ -5704,7 +5704,7 @@
 5	ես	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=es|LTranslit=em|SpaceAfter=No
 6	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-005E-00040BF0
+# sent_id = nonfiction-005E-00040BF0
 # text = Դու պիտի այն անես, ինչ անում են պարտված բանակները:
 # translit = Dow piti ayn anes, inč anowm en partvaç banaknerë.
 1	Դու	դու	PRON	_	Case=Nom|Number=Sing|Person=2|Polite=Infm|PronType=Prs	4	nsubj	_	Translit=Dow|LTranslit=dow
@@ -5719,7 +5719,7 @@
 10	բանակները	բանակ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	7	nsubj	_	Translit=banaknerë|LTranslit=banak|SpaceAfter=No
 11	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-005E-00040BF1
+# sent_id = nonfiction-005E-00040BF1
 # text = Պարտված բանակները հաղթողների համար կանգնեցնում են իրենց պարտության հուշասյունը:
 # translit = Partvaç banaknerë haġt’oġneri hamar kangnec’nowm en irenc’ partowt’yan howšasyownë.
 1	Պարտված	պարտվել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	2	acl	_	Translit=Partvaç|LTranslit=partvel
@@ -5733,8 +5733,8 @@
 9	հուշասյունը	հուշասյուն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	5	obj	_	Translit=howšasyownë|LTranslit=howšasyown|SpaceAfter=No
 10	:	:	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
-# newpar id = fiction-005E-0005
-# sent_id = fiction-005E-00050BF2
+# newpar id = nonfiction-005E-0005
+# sent_id = nonfiction-005E-00050BF2
 # text = Եռանդուն մարդկանց մի ցեղ, որ իրեն հիքսոս էր կոչում, հյուսիսի Արարատ երկրում պողպատը...— Ոչ, մի պարծեցիր:
 # translit = Eṙandown mardkanc’ mi c’eġ, or iren hik’sos ēr kočowm, hyowsisi Ararat erkrowm poġpatë...— Oč, mi parçec’ir.
 1	Եռանդուն	եռանդուն	ADJ	_	Degree=Pos	2	amod	_	Translit=Eṙandown|LTranslit=eṙandown
@@ -5760,7 +5760,7 @@
 21	պարծեցիր	պարծենալ	VERB	_	Aspect=Prosp|Mood=Imp|Number=Sing|Person=2|Subcat=Intr|VerbForm=Fin|Voice=Mid	4	parataxis	_	Translit=parçec’ir|LTranslit=parçenal|SpaceAfter=No
 22	:	:	PUNCT	_	_	21	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-005E-00050BF3
+# sent_id = nonfiction-005E-00050BF3
 # text = Ազնիվ Դիլբասին փնտրում է 1915-ին անհետ կորած իր Համազասպ հորը, Արուսյակ մորը, երկու միլիոն եղբայրներին ու...— Մի նվնվա:
 # translit = Azniv Dilbasin p’ntrowm ē 1915-in anhet koraç ir Hamazasp horë, Arowsyak morë, erkow milion eġbayrnerin ow...— Mi nvnva.
 1	Ազնիվ	Ազնիվ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	3	nsubj	_	Translit=Azniv|LTranslit=Azniv
@@ -5787,7 +5787,7 @@
 22	նվնվա	նվնվալ	VERB	_	Mood=Imp|Number=Sing|Person=2|Subcat=Intr|VerbForm=Fin|Voice=Mid	3	parataxis	_	Translit=nvnva|LTranslit=nvnval|SpaceAfter=No
 23	:	:	PUNCT	_	_	22	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-005E-00050BF4
+# sent_id = nonfiction-005E-00050BF4
 # text = Մեկ-երկու տարի չանցած թանգարաններ կդառնան Մեծամորը, Հառիճը, Շենգավիթը, Սևանի ջրերից ազատված տարածությունները և, ամենայն հավանականությամբ, ազատվելիք տարածությունները նույնպես:
 # translit = Mek-erkow tari čanc’aç t’angaranner kdaṙnan Meçamorë, Haṙič̣ë, Šengavit’ë, Sewani ǰreric’ azatvaç taraçowt’yownnerë ew, amenayn havanakanowt’yamb, azatvelik’ taraçowt’yownnerë nowynpes.
 1	Մեկ-երկու	մեկ֊երկու	NUM	_	NumForm=Word|NumType=Range	2	nummod	_	Translit=Mek-erkow|LTranslit=mek-erkow
@@ -5815,7 +5815,7 @@
 23	նույնպես	նույնպես	ADV	_	PronType=Dem	22	advmod:emph	_	Translit=nowynpes|LTranslit=nowynpes|SpaceAfter=No
 24	:	:	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-005E-00050BF5
+# sent_id = nonfiction-005E-00050BF5
 # text = Չէ՞ որ օտարները մեր հանրապետությունը կոչում են թանգարան բաց երկնքի տակ։— Մի հեգնիր:
 # translit = Čē? or òtarnerë mer hanrapetowt’yownë kočowm en t’angaran bac’ erknk’i tak.— Mi hegnir.
 1-2	Չէ՞	_	_	_	_	_	_	_	Translit=Čē?
@@ -5837,16 +5837,16 @@
 16	հեգնիր	հեգնել	VERB	_	Aspect=Prosp|Mood=Imp|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin|Voice=Act	7	parataxis	_	Translit=hegnir|LTranslit=hegnel|SpaceAfter=No
 17	:	:	PUNCT	_	_	16	punct	_	Translit=.|LTranslit=.
 
-# newpar id = fiction-005E-0006
-# sent_id = fiction-005E-00060BF6
+# newpar id = nonfiction-005E-0006
+# sent_id = nonfiction-005E-00060BF6
 # text = — Լավ:
 # translit = — Lav.
 1	—	—	PUNCT	_	_	2	punct	_	Translit=—|LTranslit=—
 2	Լավ	լավ	INTJ	_	_	0	root	_	Translit=Lav|LTranslit=lav|SpaceAfter=No
 3	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
-# newpar id = fiction-005E-0007
-# sent_id = fiction-005E-00070BF8
+# newpar id = nonfiction-005E-0007
+# sent_id = nonfiction-005E-00070BF8
 # text = Գնացքի էր սպասում երկաթուղին, լռում էին Էջմիածնի պղնձե զանգերը, խորհում էր կավե մի կտոր պատը խաղողի պառավ որթի մոտ, լույսը ծփում էր Երևան քաղաքի վրա Արարատյան հովտով մեկ, Մեծամոր բլրի մոտ մթի տակ տնքում էին փորձնական տնտեսության գոմեշները, ջուրը փայլում էր ածուների մեջ, Արարատի ձյուներից ներքև՝ քանդված մատուռի մոտ, հովվակրակի հետ մարմրում էր ոչխարաշան ոռնոցը երկու միլիոն մեռելների ուրվականների մեջ, նիրհող հոտի վրա՝ ամուուու...
 # translit = Gnac’k’i ēr spasowm erkat’owġin, lṙowm ēin Ēǰmiaçni pġnje zangerë, xorhowm ēr kave mi ktor patë xaġoġi paṙav ort’i mot, lowysë çp’owm ēr Erewan k’aġak’i vra Araratyan hovtov mek, Meçamor blri mot mt’i tak tnk’owm ēin p’orjnakan tntesowt’yan gomešnerë, ǰowrë p’aylowm ēr açowneri meǰ, Ararati jyowneric’ nerk’ew, k’andvaç matowṙi mot, hovvakraki het marmrowm ēr očxarašan oṙnoc’ë erkow milion meṙelneri owrvakanneri meǰ, nirhoġ hoti vra, amowowow...
 1	Գնացքի	գնացք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	obj	_	Translit=Gnac’k’i|LTranslit=gnac’k’
@@ -5925,8 +5925,8 @@
 74	ամուուու	ամուուու	INTJ	_	_	60	discourse	_	Translit=amowowow|LTranslit=amowowow|SpaceAfter=No
 75	...	...	PUNCT	_	_	3	punct	_	Translit=...|LTranslit=...
 
-# newpar id = fiction-005E-0008
-# sent_id = fiction-005E-00080BF9
+# newpar id = nonfiction-005E-0008
+# sent_id = nonfiction-005E-00080BF9
 # text = Հանգստանում էին շոգեքարշը, անավարտ քարի մոտ՝ մուրճը, մեռնում էին հին շշուկները հին իջևանատան պառավ մոխրի մոտ՝ Անիի կանաչ ճանապարհին, խամրում էր երեկվա լրագիրը ուրախ լուրով՝ թե Երկրի գերբնակեցման վտանգը չի սպառնում մեր մեծ Միությանը:
 # translit = Hangstanowm ēin šogek’aršë, anavart k’ari mot, mowrč̣ë, meṙnowm ēin hin ššowknerë hin iǰewanatan paṙav moxri mot, Anii kanač č̣anaparhin, xamrowm ēr erekva lragirë owrax lowrov, t’e Erkri gerbnakec’man vtangë či spaṙnowm mer meç Miowt’yanë.
 1	Հանգստանում	հանգստանալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=Hangstanowm|LTranslit=hangstanal
@@ -5971,7 +5971,7 @@
 40	Միությանը	միություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	37	obj	_	Translit=Miowt’yanë|LTranslit=miowt’yown|SpaceAfter=No
 41	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
-# sent_id = fiction-005E-00080BFA
+# sent_id = nonfiction-005E-00080BFA
 # text = Խոր գիշերվա մեջ լուռ մտածում էին գրքերը, լքված իջևանատունը Անիի հին ճանապարհի վրա, անավարտ քարը տառեր, ողկույզ ու խաչ էր խոկում, պառավում էր Էրեբունի բերդի կավը, թանգարանում դանդաղ փոշիանում էր տեգը, և անհավատալի էր, թե այս երկրում երբևէ տեգ են կոփել և տեգ են բռնել,— և ճաղատ մատենագիրը կարճ պինդ մատներով տրորում էր մեծ գլուխն ու վախենում էր մոտենալ լավաշի չափ լուսավոր գրասեղանին,— գալիս է հոտը... գալիս է հոտը... գալիս է հոտը...
 # translit = Xor gišerva meǰ lowṙ mtaçowm ēin grk’erë, lk’vaç iǰewanatownë Anii hin č̣anaparhi vra, anavart k’arë taṙer, oġkowyz ow xač ēr xokowm, paṙavowm ēr Ērebowni berdi kavë, t’angaranowm dandaġ p’ošianowm ēr tegë, ew anhavatali ēr, t’e ays erkrowm erbewē teg en kop’el ew teg en bṙnel,— ew č̣aġat matenagirë karč̣ pind matnerov trorowm ēr meç glowxn ow vaxenowm ēr motenal lavaši čap’ lowsavor graseġanin,— galis ē hotë... galis ē hotë... galis ē hotë...
 1	Խոր	խոր	ADJ	_	Degree=Pos	2	amod	_	Translit=Xor|LTranslit=xor
