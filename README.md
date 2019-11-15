@@ -44,7 +44,7 @@ UD_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependencies.org/f
 # Changelog
 
 * 2019-15-11 **v2.5**
-  * Fixed annotation errors and added new texts: 36K→53K.
+  * Fixed annotation errors and added new texts: 36K→52K.
   * `aux:ex` added.
   * `aux` for `AUX` _պիտի_ and _պետք է_.
   * MWE fixed.
