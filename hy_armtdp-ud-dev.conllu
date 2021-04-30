@@ -38,7 +38,7 @@
 10	քաոսը	քաոս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	2	conj	_	Translit=k’aosë|LTranslit=k’aos
 11	համակարգ	համակարգ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	10	orphan	_	Translit=hamakarg|LTranslit=hamakarg|SpaceAfter=No
 12	.	.	PUNCT	_	_	14	punct	_	Translit=.|LTranslit=.
-13	այն	այն	PRON	_	Distance=Dist|Number=Sing|PronType=Dem	14	nsubj	_	Translit=ayn|LTranslit=ayn
+13	այն	այն	PRON	_	Deixis=Remt|Number=Sing|PronType=Dem	14	nsubj	_	Translit=ayn|LTranslit=ayn
 14	ընդունում	ընդունել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	2	parataxis	_	Translit=ëndownowm|LTranslit=ëndownel
 15	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	14	aux	_	Translit=ē|LTranslit=em
 16	երիտասարդությանը	երիտասարդություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Coll	14	obj	_	Translit=eritasardowt’yanë|LTranslit=eritasardowt’yown
