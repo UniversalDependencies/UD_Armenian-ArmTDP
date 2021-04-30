@@ -4,7 +4,7 @@ Modern Eastern Armenian Universal Dependencies treebank, developed for UD origin
 
 # Introduction
 
-UD_Armenian-ArmTDP is based on the ՀայՇտեմ-ArmTDP-East dataset (version 2.0), a mix of random sentences sampled from different sources and representing different genres and domains, released in several formats (local on-line newspaper and journal articles, contemporary fiction dated between 1976 and 2019). The treebank consists 2502 sentences (~53K tokens).
+UD_Armenian-ArmTDP is based on the Հայերենի ծառադարան-ArmTDP-East dataset (version 2.0), a mix of random sentences sampled from different sources and representing different genres and domains, released in several formats (local on-line newspaper and journal articles, contemporary fiction dated between 1976 and 2019). The treebank consists 2502 sentences (~53K tokens).
 
 The annotation scheme was developed in according to the UD guidelines. The original data was manually annotated by the ArmTDP team. The tokenization and POS-tagging process was carried out through alternating steps of automatic scripting and manual revision in the YerevaNN research lab (led by Hrant H. Khachatrian). The treebank is so far the only manual verificated corpus of Eastern Armenian supplied with comprehensive morphological annotation and syntactic annotation in the form of a complete dependency tree provided for every sentence.
 
@@ -42,6 +42,9 @@ UD_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependencies.org/f
 
 
 # Changelog
+
+* 2021-15-05 **v2.8**
+  * Improved treatment of `Deixis`.
 
 * 2019-15-11 **v2.5**
   * Fixed annotation errors and added new texts: 36K→52K.
