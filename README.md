@@ -4,13 +4,13 @@ The Eastern Armenian UD treebank is based on the Eastern Armenian section of the
 
 # Introduction
 
-The UD_Armenian-ArmTDP treebank is based on the Հայերենի ծառադարան dataset (version 2.0), a mix of random sentences sampled from different sources and representing different genres and domains, released in several formats (local on-line newspaper and journal articles, contemporary fiction dated between 1976 and 2019). The treebank consists 2502 sentences (~53K tokens).
+The UD_Armenian-ArmTDP treebank is based on the Հայերենի ծառադարան dataset (version 2.0), a mix of texts sampled from different sources and representing different genres and domains (local on-line newspaper and journal articles, contemporary fiction dated between 1976 and 2019). The treebank consists of 2502 sentences (~53K tokens).
 
-The annotation scheme was developed in according to the UD guidelines. The original data was manually annotated by the ArmTDP team. The tokenization and POS-tagging process was carried out through alternating steps of automatic scripting and manual revision in the YerevaNN research lab (led by Hrant H. Khachatrian). The treebank is so far the only manual verificated corpus of Eastern Armenian supplied with comprehensive morphological annotation and syntactic annotation in the form of a complete dependency tree provided for every sentence.
+The annotation scheme was developed in accordance with the UD guidelines. The original data was manually annotated by the ArmTDP team. The tokenization and POS-tagging process was carried out through alternating steps of automatic scripting and manual revision in the YerevaNN research lab (led by Hrant H. Khachatrian). The treebank is so far the only manual verificated corpus of Eastern Armenian supplied with comprehensive morphological annotation and syntactic annotation in the form of a complete dependency tree provided for every sentence.
 
 # Acknowledgments
 
-This work became possible in part by a research grant from the Armenian National Science and Education Fund (ANSEF) based in New York, USA and partially funded by ISTC Foundation, Yerevan, Armenia.
+This work became possible through a research grant from the Armenian National Science and Education Fund (ANSEF) based in New York, USA, and partially funded by ISTC Foundation, Yerevan, Armenia.
 
 The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna S. Danielyan, Gor D. Arakelyan, Martin S. Mirakyan.
 
