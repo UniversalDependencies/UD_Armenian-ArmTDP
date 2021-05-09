@@ -10,7 +10,7 @@ The annotation scheme was developed in accordance with the UD guidelines. The or
 
 # Acknowledgments
 
-This work became possible through a research grant from the Armenian National Science and Education Fund (ANSEF) based in New York, USA, and partially funded by ISTC Foundation, Yerevan, Armenia.
+This work became possible through research grants from the Armenian National Science and Education Fund (ANSEF) based in New York, USA, and partially, from ISTC Foundation, Yerevan, Armenia.
 
 The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna S. Danielyan, Gor D. Arakelyan, Martin S. Mirakyan.
 
