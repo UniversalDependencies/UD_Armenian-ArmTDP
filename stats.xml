@@ -29,7 +29,7 @@
     <tag name="PROPN">1804</tag><!-- Հայաստան, ՀՀ, Իրան, Լևոն, Ադրբեջան, Սարգսյան, Սիմեոն, Մարտին, Արմինուս, Լուկրեցիա -->
     <tag name="PUNCT">10179</tag><!-- ,, ։, :, ՝, ., », «, -, ՞, ... -->
     <tag name="SCONJ">903</tag><!-- որ, թե, եթե, երբ, ինչպես, որովհետև, քանի, ուրեմն, քան, թեև -->
-    <tag name="SYM">37</tag><!-- %, N, WE201800674, №, 29.210.01936, dni24.com, h​t​t​p​s​:​/​/​w​w​w​.​y​o​u​t​u​b​e​.​c​o​m​/​w​a​t​c​h​?​v​=​k​u​w​y​0​1​y​9​s​x​s​v​l​=​h​y, h​t​t​p​s​:​/​/​w​w​w​.​y​o​u​t​u​b​e​.​c​o​m​/​w​a​t​c​h​?​v​d​q​o​1​i​o​x​m​t​8​i -->
+    <tag name="SYM">37</tag><!-- %, N, WE201800674, №, 29.210.01936, dni24.com, https://www.youtube.com/watch?v=kuwy01y9sxsvl=hy, https://www.youtube.com/watch?vdqo1ioxmt8i -->
     <tag name="VERB">6749</tag><!-- լինել, ասել, գալ, տալ, կամ, ունեմ, տեսնել, գնալ, ունենալ, անել -->
     <tag name="X">201</tag><!-- ո, մ, ր, շ, թույլ, նկատի, ու, յելլ, ա, կոյունլու -->
   </tags>
@@ -64,9 +64,9 @@
     <feat name="Degree" value="Cmp" upos="ADV">85</feat><!-- ավելի -->
     <feat name="Degree" value="Pos" upos="ADJ,ADV">2589</feat><!-- կարող, նոր, շատ, մեծ, պետական, առաջին, ազգային, հայ, քաղաքական, սահմանադրական -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">43</feat><!-- լավագույն, բարձրագույն, ամենաերկար, Ծայրագույն, ամենալավ, ամենանվիրական, կարևորագույն, Ամենաթեժ, Ամենատարեց, ամենաակտիվ -->
-    <feat name="Distance" value="Dist" upos="ADV,DET,PRON">332</feat><!-- այն, մյուս, այնքան, նույն, էն, այնտեղ, այնպես, այնպիսի, էնքան, դրան -->
-    <feat name="Distance" value="Med" upos="ADV,DET,PRON">516</feat><!-- այդ, դա, դրա, այդպես, էդ, դրանց, դրանք, այդքան, այդպիսի, դրանից -->
-    <feat name="Distance" value="Prox" upos="ADV,DET,PRON">288</feat><!-- այս, սա, էս, սույն, այստեղ, այսպես, էսպես, էստեղ, այսպիսի, այստեղից -->
+    <feat name="Deixis" value="Med" upos="ADV,DET,PRON">516</feat><!-- այդ, դա, դրա, այդպես, էդ, դրանց, դրանք, այդքան, այդպիսի, դրանից -->
+    <feat name="Deixis" value="Prox" upos="ADV,DET,PRON">288</feat><!-- այս, սա, էս, սույն, այստեղ, այսպես, էսպես, էստեղ, այսպիսի, այստեղից -->
+    <feat name="Deixis" value="Remt" upos="ADV,DET,PRON">332</feat><!-- այն, մյուս, այնքան, նույն, էն, այնտեղ, այնպես, այնպիսի, էնքան, դրան -->
     <feat name="Echo" value="Ech" upos="ADJ,INTJ,NOUN,X">9</feat><!-- լեփ, մոլոր, մոշակ, մուճուճ, մուռ, շիփ, վիշ, տարեց, փուլուսը -->
     <feat name="Foreign" value="Yes" upos="PUNCT,X">89</feat><!-- Յելլ, Community, Daily, In, Metal, Nas, Reuters, ZipLine, vino, ! -->
     <feat name="Hyph" value="Yes" upos="ADJ,ADV">15</feat><!-- արցախա, իրանա, ռազմա, այս, պաթոսա, պատմա, սոցիալ, տնտեսա, քրիստոնեա -->
