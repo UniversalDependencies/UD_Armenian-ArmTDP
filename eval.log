@@ -1,11 +1,11 @@
-Running the following version of tools/evaluate_treebank.pl:
-commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
+Running the following version of UD tools:
+commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Apr 21 19:02:58 2018 +0200
+Date:   Thu May 6 20:16:19 2021 +0200
 Evaluating the following revision of UD_Armenian-ArmTDP:
-commit 5713ecb8e568261031f1672ba8fb02e6a3cab6c4
+commit 3d31124187883df8597c27434f6e535ce32a1bfa
+Merge: 26748c3 44a681c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 10 17:37:28 2020 +0200
 Size: counted 52630 of 52630 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.92657259873137.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,6 +19,8 @@ Features: 35799 out of 52630 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 35 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
+Udapi:
+               TOTAL         93
 Udapi: found 93 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 52630 words.
 Genres: found 6 out of 17 known.
