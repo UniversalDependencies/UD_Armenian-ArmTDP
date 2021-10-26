@@ -6,7 +6,7 @@ A Universal Dependencies treebank for Eastern Armenian developed for UD original
 
 The UD_Armenian-ArmTDP treebank is based on the Eastern Armenian section of the Հայերենի ծառադարան dataset (ArmTDP V2.0), a broad-coverage corpus of general Modern Standard Armenian covering numerous genres.
 
-The annotation scheme was developed in accordance with the UD guidelines. The original data was manually annotated by the ArmTDP team. The tokenization and POS-tagging process was carried out through alternating steps of automatic scripting and manual revision at the YerevaNN research lab (led by Hrant H. Khachatrian). The treebank is so far the largest manually verified corpus of Eastern Armenian supplied with comprehensive morphological and syntactic annotation in the form of a complete dependency tree provided for every sentence.
+The annotation scheme was developed in accordance with the UD guidelines. The original data was manually annotated by the ArmTDP team. The tokenization and POS-tagging process was carried out through alternating steps of glossary-based automatic scripting and manual revision at the YerevaNN research lab (led by Hrant H. Khachatrian). The treebank is so far the largest manually verified corpus of Eastern Armenian supplied with comprehensive morphological and syntactic annotation in the form of a complete dependency tree provided for every sentence.
 
 # Acknowledgments
 
