@@ -4157,20 +4157,6 @@
 
 # doc_title = ՀՀ վարչապետի որոշում, 21 Մայիսի 2019, 566 - Ա
 # newdoc id = legal-0069
-# newpar id = legal-0069-0001
-# sent_id = legal-0069-00010C60
-# text = Էդուարդ Աղաջանյանին Կանադա գործուղելու մ ա ս ի ն
-# translit = Ēdoward Aġaǰanyanin Kanada gorçowġelow m a s i n
-1	Էդուարդ	Էդուարդ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	4	obj	_	Translit=Ēdoward|LTranslit=Ēdoward
-2	Աղաջանյանին	Աղաջանյան	PROPN	_	Animacy=Hum|Case=Dat|Definite=Def|NameType=Sur|Number=Sing	1	flat	_	Translit=Aġaǰanyanin|LTranslit=Aġaǰanyan
-3	Կանադա	Կանադա	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	4	obl	_	Translit=Kanada|LTranslit=Kanada
-4	գործուղելու	գործուղել	VERB	_	Case=Dat|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Tran|VerbForm=Gdv|Voice=Act	0	root	_	Translit=gorçowġelow|LTranslit=gorçowġel
-5	մ	մ	X	_	_	4	case	_	Translit=m|LTranslit=m
-6	ա	ա	X	_	_	5	dep	_	Translit=a|LTranslit=a
-7	ս	ս	X	_	_	5	dep	_	Translit=s|LTranslit=s
-8	ի	ի	X	_	_	5	dep	_	Translit=i|LTranslit=i
-9	ն	ն	X	_	_	5	dep	_	Translit=n|LTranslit=n
-
 # newpar id = legal-0069-0002
 # sent_id = legal-0069-00020C61
 # text = Համաձայն «Կառավարության կառուցվածքի և գործունեության մասին» Հայաստանի Հանրապետության օրենքի 7-րդ հոդվածի 5-րդ մասի և հիմք ընդունելով Հայաստանի Հանրապետության վարչապետի 2018 թվականի մայիսի 25-ի N 564-Լ որոշման N 1 հավելվածի 16-րդ կետը՝
