@@ -6,13 +6,13 @@ A Universal Dependencies treebank for Eastern Armenian developed for UD original
 
 The UD_Armenian-ArmTDP treebank is based on the Eastern Armenian section of the Հայերենի ծառադարան dataset (ArmTDP V2.0), a broad-coverage corpus of general Modern Standard Armenian covering numerous genres.
 
-The annotation scheme was developed in accordance with the UD guidelines. The original data was manually annotated by the ArmTDP team. The tokenization and POS-tagging process was carried out through alternating steps of glossary-based automatic scripting and manual revision at the YerevaNN research lab (led by Hrant H. Khachatrian). The treebank is so far the largest manually verified corpus of Eastern Armenian supplied with comprehensive morphological and syntactic annotation in the form of a complete dependency tree provided for every sentence.
+The annotation scheme was developed in accordance with the UD guidelines. The original data was manually annotated by the ArmTDP team. The tokenization and POS-tagging process was carried out through alternating steps of glossary-based automatic scripting and manual revision. The treebank is so far the largest manually verified corpus of Eastern Armenian supplied with comprehensive morphological and syntactic annotation in the form of a complete dependency tree provided for every sentence.
 
 # Acknowledgments
 
 This work became possible through research grants from the Armenian National Science and Education Fund (ANSEF) based in New York, USA, and partially, from ISTC Foundation, Yerevan, Armenia.
 
-The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna S. Danielyan, Gor D. Arakelyan, Martin S. Mirakyan.
+The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna S. Danielyan, Gor D. Arakelyan, Martin S. Mirakyan, Liana G. Minasyan.
 
 ## References
 
@@ -49,6 +49,7 @@ UD_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependencies.org/f
 
 * 2021-15-05 **v2.8**
   * Improved treatment of `Deixis`.
+  * Fixed some validation errors.
 
 * 2019-15-11 **v2.5**
   * Fixed annotation errors and added new texts: 36K→52K.
