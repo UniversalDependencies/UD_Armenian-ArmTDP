@@ -2538,11 +2538,11 @@
 28	Հանրապետության	հանրապետություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	29	nmod:poss	_	Translit=Hanrapetowt’yan|LTranslit=hanrapetowt’yown
 29	կառավարությունը	կառավարություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	30	nsubj	_	Translit=kaṙavarowt’yownë|LTranslit=kaṙavarowt’yown
 30	ո	ո	X	_	_	0	root	_	Translit=o|LTranslit=o
-31	ր	ր	X	_	_	30	goeswith	_	Translit=r|LTranslit=r
-32	ո	ո	X	_	_	30	goeswith	_	Translit=o|LTranslit=o
-33	շ	շ	X	_	_	30	goeswith	_	Translit=š|LTranslit=š
-34	ու	ու	X	_	_	30	goeswith	_	Translit=ow|LTranslit=ow
-35	մ	մ	X	_	_	30	goeswith	_	Translit=m|LTranslit=m
+31	ր	ր	X	_	_	30	dep	_	Translit=r|LTranslit=r
+32	ո	ո	X	_	_	30	dep	_	Translit=o|LTranslit=o
+33	շ	շ	X	_	_	30	dep	_	Translit=š|LTranslit=š
+34	ու	ու	X	_	_	30	dep	_	Translit=ow|LTranslit=ow
+35	մ	մ	X	_	_	30	dep	_	Translit=m|LTranslit=m
 36	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	30	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
 37	.	.	PUNCT	_	_	30	punct	_	Translit=.|LTranslit=.
 
@@ -3219,11 +3219,11 @@
 63	Հանրապետության	հանրապետություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	64	nmod:poss	_	Translit=Hanrapetowt’yan|LTranslit=hanrapetowt’yown
 64	կառավարությունը	կառավարություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	65	nsubj	_	Translit=kaṙavarowt’yownë|LTranslit=kaṙavarowt’yown
 65	ո	ո	X	_	_	0	root	_	Translit=o|LTranslit=o
-66	ր	ր	X	_	_	65	goeswith	_	Translit=r|LTranslit=r
-67	ո	ո	X	_	_	65	goeswith	_	Translit=o|LTranslit=o
-68	շ	շ	X	_	_	65	goeswith	_	Translit=š|LTranslit=š
-69	ու	ու	X	_	_	65	goeswith	_	Translit=ow|LTranslit=ow
-70	մ	մ	X	_	_	65	goeswith	_	Translit=m|LTranslit=m
+66	ր	ր	X	_	_	65	dep	_	Translit=r|LTranslit=r
+67	ո	ո	X	_	_	65	dep	_	Translit=o|LTranslit=o
+68	շ	շ	X	_	_	65	dep	_	Translit=š|LTranslit=š
+69	ու	ու	X	_	_	65	dep	_	Translit=ow|LTranslit=ow
+70	մ	մ	X	_	_	65	dep	_	Translit=m|LTranslit=m
 71	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	65	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
 72	.	.	PUNCT	_	_	65	punct	_	Translit=.|LTranslit=.
 

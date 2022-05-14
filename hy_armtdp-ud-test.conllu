@@ -4157,20 +4157,6 @@
 
 # doc_title = ՀՀ վարչապետի որոշում, 21 Մայիսի 2019, 566 - Ա
 # newdoc id = legal-0069
-# newpar id = legal-0069-0001
-# sent_id = legal-0069-00010C60
-# text = Էդուարդ Աղաջանյանին Կանադա գործուղելու մ ա ս ի ն
-# translit = Ēdoward Aġaǰanyanin Kanada gorçowġelow m a s i n
-1	Էդուարդ	Էդուարդ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	4	obj	_	Translit=Ēdoward|LTranslit=Ēdoward
-2	Աղաջանյանին	Աղաջանյան	PROPN	_	Animacy=Hum|Case=Dat|Definite=Def|NameType=Sur|Number=Sing	1	flat	_	Translit=Aġaǰanyanin|LTranslit=Aġaǰanyan
-3	Կանադա	Կանադա	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	4	obl	_	Translit=Kanada|LTranslit=Kanada
-4	գործուղելու	գործուղել	VERB	_	Case=Dat|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Tran|VerbForm=Gdv|Voice=Act	0	root	_	Translit=gorçowġelow|LTranslit=gorçowġel
-5	մ	մ	X	_	_	4	case	_	Translit=m|LTranslit=m
-6	ա	ա	X	_	_	5	goeswith	_	Translit=a|LTranslit=a
-7	ս	ս	X	_	_	5	goeswith	_	Translit=s|LTranslit=s
-8	ի	ի	X	_	_	5	goeswith	_	Translit=i|LTranslit=i
-9	ն	ն	X	_	_	5	goeswith	_	Translit=n|LTranslit=n
-
 # newpar id = legal-0069-0002
 # sent_id = legal-0069-00020C61
 # text = Համաձայն «Կառավարության կառուցվածքի և գործունեության մասին» Հայաստանի Հանրապետության օրենքի 7-րդ հոդվածի 5-րդ մասի և հիմք ընդունելով Հայաստանի Հանրապետության վարչապետի 2018 թվականի մայիսի 25-ի N 564-Լ որոշման N 1 հավելվածի 16-րդ կետը՝
@@ -4472,11 +4458,11 @@
 30	Հանրապետության	հանրապետություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	31	nmod:poss	_	Translit=Hanrapetowt’yan|LTranslit=hanrapetowt’yown
 31	կառավարությունը	կառավարություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	32	nsubj	_	Translit=kaṙavarowt’yownë|LTranslit=kaṙavarowt’yown
 32	ո	ո	X	_	_	0	root	_	Translit=o|LTranslit=o
-33	ր	ր	X	_	_	32	goeswith	_	Translit=r|LTranslit=r
-34	ո	ո	X	_	_	32	goeswith	_	Translit=o|LTranslit=o
-35	շ	շ	X	_	_	32	goeswith	_	Translit=š|LTranslit=š
-36	ու	ու	X	_	_	32	goeswith	_	Translit=ow|LTranslit=ow
-37	մ	մ	X	_	_	32	goeswith	_	Translit=m|LTranslit=m
+33	ր	ր	X	_	_	32	dep	_	Translit=r|LTranslit=r
+34	ո	ո	X	_	_	32	dep	_	Translit=o|LTranslit=o
+35	շ	շ	X	_	_	32	dep	_	Translit=š|LTranslit=š
+36	ու	ու	X	_	_	32	dep	_	Translit=ow|LTranslit=ow
+37	մ	մ	X	_	_	32	dep	_	Translit=m|LTranslit=m
 38	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	32	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
 39	.	.	PUNCT	_	_	32	punct	_	Translit=.|LTranslit=.
 
@@ -4738,12 +4724,12 @@
 18	Հանրապետության	հանրապետություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	19	nmod:poss	_	Translit=Hanrapetowt’yan|LTranslit=hanrapetowt’yown
 19	կառավարությունը	կառավարություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	20	nsubj	_	Translit=kaṙavarowt’yownë|LTranslit=kaṙavarowt’yown
 20	ո	ո	X	_	_	0	root	_	Translit=o|LTranslit=o
-21	ր	ր	X	_	_	20	goeswith	_	Translit=r|LTranslit=r
-22	ո	ո	X	_	_	20	goeswith	_	Translit=o|LTranslit=o
-23	շ	շ	X	_	_	20	goeswith	_	Translit=š|LTranslit=š
-24	ո	ո	X	_	_	20	goeswith	_	Translit=o|LTranslit=o
-25	ւ	ւ	X	_	_	20	goeswith	_	Translit=w|LTranslit=w
-26	մ	մ	X	_	_	20	goeswith	_	Translit=m|LTranslit=m
+21	ր	ր	X	_	_	20	dep	_	Translit=r|LTranslit=r
+22	ո	ո	X	_	_	20	dep	_	Translit=o|LTranslit=o
+23	շ	շ	X	_	_	20	dep	_	Translit=š|LTranslit=š
+24	ո	ո	X	_	_	20	dep	_	Translit=o|LTranslit=o
+25	ւ	ւ	X	_	_	20	dep	_	Translit=w|LTranslit=w
+26	մ	մ	X	_	_	20	dep	_	Translit=m|LTranslit=m
 27	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	20	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
 28	.	.	PUNCT	_	_	20	punct	_	Translit=.|LTranslit=.
 
