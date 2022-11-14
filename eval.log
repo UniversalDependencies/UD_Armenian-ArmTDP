@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
-Author: www-data (nschneid) <nschneid@github.com>
-Date:   Wed May 11 05:10:30 2022 +0200
-Evaluating the following revision of UD_Armenian-ArmTDP:
-commit 3a766cbbbdbe7e2ef12bfe774aa1b3a194d3e664
-Merge: 0b27eca 605046c
+commit 13e6b709a8bc643c3f902800321a7beda46feb8d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sun Nov 13 22:03:41 2022 +0100
+Evaluating the following revision of UD_Armenian-ArmTDP:
+commit 6fc7ef875751e7d03868b784946c05ba91b43bca
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sat May 14 13:38:47 2022 +0200
 Size: counted 52585 of 52585 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.92486181594398.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,12 +25,21 @@ Udapi: found 93 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 52585 words.
 Genres: found 6 out of 17 known.
 validate.py --lang hy --max-err=10 UD_Armenian-ArmTDP/hy_armtdp-ud-dev.conllu
-*** PASSED ***
+[Line 676 Sent nonfiction-006Q-00040CKF Node 20]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [19, 24]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+Syntax errors: 1
+*** FAILED *** with 1 errors
+Exit code: 1
 validate.py --lang hy --max-err=10 UD_Armenian-ArmTDP/hy_armtdp-ud-test.conllu
 *** PASSED ***
 validate.py --lang hy --max-err=10 UD_Armenian-ArmTDP/hy_armtdp-ud-train.conllu
-*** PASSED ***
-Validity: 1
+[Line 11614 Sent news-0061-00080C32 Node 3]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 5]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 36653 Sent news-004M-00090AT0 Node 9]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [8, 13]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 41635 Sent fiction-0041-00010AKM Node 13]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [12, 16]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 41645 Sent fiction-0041-00010AKM Node 23]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [22, 30]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+Syntax errors: 4
+*** FAILED *** with 4 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
 (weight=0.0769230769230769) * (score{genres}=0.352941176470588) = 0.0271493212669683
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
@@ -39,6 +48,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=1) = 0.0769230769230769
 (weight=0.307692307692308) * (score{udapi}=0.982314348198155) = 0.302250568676356
 (weight=0.0769230769230769) * (score{udeprels}=0.918918918918919) = 0.0706860706860707
-(TOTAL score=0.7953733006512) * (availability=1) * (validity=1) = 0.7953733006512
-STARS = 4
-UD_Armenian-ArmTDP	0.7953733006512	4
+(TOTAL score=0.7953733006512) * (availability=1) * (validity=0.01) = 0.007953733006512
+STARS = 0
+UD_Armenian-ArmTDP	0.007953733006512	0
