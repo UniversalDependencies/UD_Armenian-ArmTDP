@@ -44,6 +44,9 @@ UD_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependencies.org/f
 
 # Changelog
 
+* 2023-15-11 **v2.13**
+  * Fixed some validation errors.
+
 * 2022-15-05 **v2.10**
   * Fixed some validation errors.
 
