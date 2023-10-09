@@ -672,7 +672,7 @@
 16	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	cop	_	Translit=ē|LTranslit=em
 17	պատկերացնել	պատկերանալ	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	15	csubj	_	Translit=patkerac’nel|LTranslit=patkeranal
 18	զգացողությունները	զգացողություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	17	obj	_	Translit=zgac’oġowt’yownnerë|LTranslit=zgac’oġowt’yown
-19	որոնք	որ	PRON	_	Case=Nom|Number=Plur|PronType=Rel	20	nsubj	_	Translit=oronk’|LTranslit=or
+19	որոնք	որ	PRON	_	Case=Nom|Number=Plur|PronType=Rel	20	obj	_	Translit=oronk’|LTranslit=or
 20	ապրել	ապրել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	18	acl:relcl	_	Translit=aprel|LTranslit=aprel
 21	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	20	aux	_	Translit=en|LTranslit=em
 22	այդ	այդ	DET	_	Deixis=Med|PronType=Dem	23	det	_	Translit=ayd|LTranslit=ayd
