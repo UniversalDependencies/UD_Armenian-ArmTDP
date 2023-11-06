@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Armenian-ArmTDP:
-commit b32b14509601d70bc5b97d930ece87d319f2c02c
+commit 029d7acdc6c9574bd9e4ccbb7de868f42d35cf9d
+Merge: fa3fb23 2c0a53a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 14 10:03:40 2022 +0100
 Size: counted 52585 of 52585 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.92486181594398.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -15,39 +15,30 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 35770 out of 52585 total words have one or more features.
+Features: 35765 out of 52585 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL         93
-Udapi: found 93 bugs.
+               TOTAL         88
+Udapi: found 88 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 52585 words.
 Genres: found 6 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang hy --max-err=10 UD_Armenian-ArmTDP/hy_armtdp-ud-dev.conllu
-[Line 676 Sent nonfiction-006Q-00040CKF Node 20]: [L3 Syntax too-many-subjects] Multiple subjects [19, 24] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-Syntax errors: 1
-*** FAILED *** with 1 errors
-Exit code: 1
+*** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang hy --max-err=10 UD_Armenian-ArmTDP/hy_armtdp-ud-test.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang hy --max-err=10 UD_Armenian-ArmTDP/hy_armtdp-ud-train.conllu
-[Line 11614 Sent news-0061-00080C32 Node 3]: [L3 Syntax too-many-subjects] Multiple subjects [2, 5] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 36653 Sent news-004M-00090AT0 Node 9]: [L3 Syntax too-many-subjects] Multiple subjects [8, 13] not subtyped as ':outer'.
-[Line 41635 Sent fiction-0041-00010AKM Node 13]: [L3 Syntax too-many-subjects] Multiple subjects [12, 16] not subtyped as ':outer'.
-[Line 41645 Sent fiction-0041-00010AKM Node 23]: [L3 Syntax too-many-subjects] Multiple subjects [22, 30] not subtyped as ':outer'.
-Syntax errors: 4
-*** FAILED *** with 4 errors
-Exit code: 1
-Validity: 0.01
+*** PASSED ***
+Validity: 1
 (weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
 (weight=0.0769230769230769) * (score{genres}=0.352941176470588) = 0.0271493212669683
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
 (weight=0.256410256410256) * (score{size}=0.573620626085043) = 0.147082211816678
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=1) = 0.0769230769230769
-(weight=0.307692307692308) * (score{udapi}=0.982314348198155) = 0.302250568676356
+(weight=0.307692307692308) * (score{udapi}=0.983265189692878) = 0.302543135290116
 (weight=0.0769230769230769) * (score{udeprels}=0.918918918918919) = 0.0706860706860707
-(TOTAL score=0.7953733006512) * (availability=1) * (validity=0.01) = 0.007953733006512
-STARS = 0
-UD_Armenian-ArmTDP	0.007953733006512	0
+(TOTAL score=0.795665867264961) * (availability=1) * (validity=1) = 0.795665867264961
+STARS = 4
+UD_Armenian-ArmTDP	0.795665867264961	4
