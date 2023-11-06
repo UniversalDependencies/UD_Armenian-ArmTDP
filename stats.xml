@@ -56,13 +56,13 @@
     <feat name="Case" value="Gen" upos="ADP,DET,NOUN,PRON,VERB">874</feat><!-- իր, մեր, նրա, իրենց, իմ, նրանց, դրա, քո, տեղի, հայոց -->
     <feat name="Case" value="Ins" upos="ADP,NOUN,PRON,PROPN,VERB">1000</feat><!-- խոսքով, առումով, ընդունելով, կարգով, ուղղությամբ, ասելով, իմաստով, որով, տեսքով, ելնելով -->
     <feat name="Case" value="Loc" upos="DET,NOUN,PRON,PROPN">758</feat><!-- դեպքում, Հայաստանում, ոլորտում, շրջանակներում, երկրում, կետում, կյանքում, դաշտում, ժամանակահատվածում, արդյունքում -->
-    <feat name="Case" value="Nom" upos="ADP,NOUN,PRON,PROPN,VERB">8873</feat><!-- մեջ, նա, ես, մենք, վրա, ինչ, ՀՀ, դա, նրանք, բան -->
+    <feat name="Case" value="Nom" upos="ADP,NOUN,PRON,PROPN,VERB">8870</feat><!-- մեջ, նա, ես, մենք, վրա, ինչ, ՀՀ, դա, նրանք, բան -->
     <feat name="ConjType" value="Comp" upos="CCONJ">323</feat><!-- նաև, կամ, այլ, ինչպես, ապա, եթե, այլև, այնպես, էնպես, ոնց -->
     <feat name="Connegative" value="Yes" upos="VERB">38</feat><!-- տա, անցնի, գա, իմանա, մնա, օգնի, առաջադրվի, դիմանա, զարմանա, զոռի -->
     <feat name="Definite" value="Def" upos="ADP,NOUN,PRON,PROPN,VERB">4753</feat><!-- նրան, որը, օրը, կինը, որն, պահին, Սիմեոնը, կառավարությունը, հունվարին, մասը -->
     <feat name="Definite" value="Ind" upos="DET,NOUN,PRON,PROPN,VERB">11198</feat><!-- Հայաստանի, հանրապետության, ինչ, ՀՀ, բան, անգամ, թվականի, ժամանակ, կառավարության, տարի -->
     <feat name="Degree" value="Cmp" upos="ADV">85</feat><!-- ավելի -->
-    <feat name="Degree" value="Pos" upos="ADJ,ADV">2588</feat><!-- կարող, նոր, շատ, մեծ, պետական, առաջին, ազգային, հայ, քաղաքական, սահմանադրական -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV">2583</feat><!-- կարող, նոր, շատ, մեծ, պետական, առաջին, ազգային, հայ, քաղաքական, սահմանադրական -->
     <feat name="Degree" value="Sup" upos="ADJ,ADV">43</feat><!-- լավագույն, բարձրագույն, ամենաերկար, Ծայրագույն, ամենալավ, ամենանվիրական, կարևորագույն, Ամենաթեժ, Ամենատարեց, ամենաակտիվ -->
     <feat name="Deixis" value="Med" upos="ADV,DET,PRON">516</feat><!-- այդ, դա, դրա, այդպես, էդ, դրանց, դրանք, այդքան, այդպիսի, դրանից -->
     <feat name="Deixis" value="Prox" upos="ADV,DET,PRON">288</feat><!-- այս, սա, էս, սույն, այստեղ, այսպես, էսպես, էստեղ, այսպիսի, այստեղից -->
@@ -82,9 +82,9 @@
     <feat name="NameType" value="Prs" upos="PROPN">57</feat><!-- Քրիստոսի, Գումբա, Կուպա, Մարիո, Քրիստոս, Կիկոս, Նարեկացի, Նեպտունի, Չիրո, ծիպ -->
     <feat name="NameType" value="Sur" upos="NOUN,PROPN">375</feat><!-- Սարգսյանի, Կարապետյանը, Պետրոսյանի, Սարգսյանը, Փաշինյանը, Կարապետյանի, Չալդրանյանը, Աբովյան, Լարուիի, Լարուին -->
     <feat name="Number" value="Assoc" upos="NOUN,PRON">23</feat><!-- անձանց, ոմանք, անձինք, Մերոնցից, անձանցից, մերոնք, տնեցիքին, քոնոնք -->
-    <feat name="Number" value="Coll" upos="NOUN,PROPN,VERB">1269</feat><!-- հյուսիս, ընդունելով, հարավ, լինելու, կառավարման, պահպանման, ազատության, ասելով, ապահովման, ելնելով -->
+    <feat name="Number" value="Coll" upos="NOUN,PROPN,VERB">1270</feat><!-- հյուսիս, ընդունելով, հարավ, լինելու, կառավարման, պահպանման, ազատության, ասելով, ապահովման, ելնելով -->
     <feat name="Number" value="Plur" upos="AUX,DET,NOUN,PRON,PROPN,VERB">4706</feat><!-- են, էին, մեր, ենք, մենք, նրանց, իրենց, չեն, էինք, նրանք -->
-    <feat name="Number" value="Sing" upos="AUX,DET,NOUN,PRON,PROPN,VERB">17743</feat><!-- է, էր, եմ, ես, իր, Հայաստանի, հանրապետության, չի, նա, նրա -->
+    <feat name="Number" value="Sing" upos="AUX,DET,NOUN,PRON,PROPN,VERB">17742</feat><!-- է, էր, եմ, ես, իր, Հայաստանի, հանրապետության, չի, նա, նրա -->
     <feat name="Number[psor]" value="Plur" upos="ADP,NOUN,PRON">25</feat><!-- ինքներդ, ոտքներիս, ինքներս, հետներս, ձեռքները, առաջներս, դեմքներիս, թասիբներին, ծոցները, հարևաննին -->
     <feat name="Number[psor]" value="Sing" upos="ADP,NOUN,PRON,PROPN,VERB">220</feat><!-- հայրս, հորս, մորս, ձիս, մայրս, պապս, քեռիս, Սևանինը, վրան, անունս -->
     <feat name="NumForm" value="Armenian" upos="ADJ">5</feat><!-- բ, դ -->
@@ -111,8 +111,8 @@
     <feat name="PronType" value="Dem" upos="ADV,DET,PRON">1136</feat><!-- այդ, այս, այն, դա, դրա, այդպես, մյուս, սա, էս, նույն -->
     <feat name="PronType" value="Emp" upos="DET,PRON">395</feat><!-- իր, իրենց, իրեն, ինքը, ինքն, իրենք, իրենից, ինքներդ, ինքս, ինքներս -->
     <feat name="PronType" value="Exc" upos="ADV,DET,PRON">27</feat><!-- ինչ, այնքան, Քանի, էդպիսի, ինչքան, այնպիսի, ինչպես, ոնց, որքան -->
-    <feat name="PronType" value="Ind" upos="ADV,DET,PRON">242</feat><!-- այլ, մեկը, ուրիշ, որևէ, մեկի, այլն, որոշ, ոք, մեկին, մեկն -->
-    <feat name="PronType" value="Int" upos="ADV,DET,PRON">382</feat><!-- ինչ, ով, ինչու, ինչպես, ում, քանի, ոնց, ինչի, որքան, ուր -->
+    <feat name="PronType" value="Ind" upos="ADV,DET,PRON">243</feat><!-- այլ, մեկը, ուրիշ, որևէ, մեկի, այլն, որոշ, ոք, մեկին, մեկն -->
+    <feat name="PronType" value="Int" upos="ADV,DET,PRON">381</feat><!-- ինչ, ով, ինչու, ինչպես, ում, քանի, ոնց, որքան, ուր, երբ -->
     <feat name="PronType" value="Neg" upos="PRON">25</feat><!-- ոչինչ, ոչնչով -->
     <feat name="PronType" value="Prs" upos="DET,PRON">1168</feat><!-- մեր, նա, ես, մենք, նրա, նրանց, ինձ, նրանք, իմ, նրան -->
     <feat name="PronType" value="Rcp" upos="DET,PRON">27</feat><!-- իրար, միմյանց, իրարից, իրարու, միմյանցից -->
@@ -147,33 +147,33 @@
   <deps unique="50">
     <dep name="acl">910</dep>
     <dep name="acl:relcl">308</dep>
-    <dep name="advcl">705</dep>
+    <dep name="advcl">707</dep>
     <dep name="advmod">1737</dep>
     <dep name="advmod:emph">435</dep>
-    <dep name="amod">3144</dep>
+    <dep name="amod">3143</dep>
     <dep name="appos">267</dep>
-    <dep name="aux">2647</dep>
+    <dep name="aux">2646</dep>
     <dep name="aux:caus">2</dep>
     <dep name="aux:ex">2</dep>
     <dep name="case">1553</dep>
     <dep name="case:loc">40</dep>
     <dep name="cc">2157</dep>
     <dep name="ccomp">395</dep>
-    <dep name="compound">100</dep>
+    <dep name="compound">101</dep>
     <dep name="compound:lvc">560</dep>
     <dep name="compound:redup">69</dep>
     <dep name="compound:svc">38</dep>
-    <dep name="conj">3758</dep>
-    <dep name="cop">1057</dep>
-    <dep name="csubj">189</dep>
+    <dep name="conj">3759</dep>
+    <dep name="cop">1058</dep>
+    <dep name="csubj">187</dep>
     <dep name="csubj:pass">17</dep>
     <dep name="dep">102</dep>
-    <dep name="det">1150</dep>
-    <dep name="det:poss">670</dep>
+    <dep name="det">1151</dep>
+    <dep name="det:poss">669</dep>
     <dep name="discourse">385</dep>
     <dep name="dislocated">44</dep>
     <dep name="expl">6</dep>
-    <dep name="fixed">448</dep>
+    <dep name="fixed">446</dep>
     <dep name="flat">522</dep>
     <dep name="iobj">155</dep>
     <dep name="iobj:agent">12</dep>
@@ -181,12 +181,12 @@
     <dep name="mark">877</dep>
     <dep name="nmod">604</dep>
     <dep name="nmod:npmod">448</dep>
-    <dep name="nmod:poss">3304</dep>
-    <dep name="nsubj">2931</dep>
+    <dep name="nmod:poss">3306</dep>
+    <dep name="nsubj">2928</dep>
     <dep name="nsubj:caus">11</dep>
     <dep name="nsubj:pass">184</dep>
     <dep name="nummod">481</dep>
-    <dep name="obj">2336</dep>
+    <dep name="obj">2338</dep>
     <dep name="obl">3586</dep>
     <dep name="obl:agent">38</dep>
     <dep name="orphan">101</dep>
