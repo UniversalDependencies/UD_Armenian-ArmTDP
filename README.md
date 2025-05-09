@@ -17,8 +17,10 @@ The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian
 ## References
 
 * Marat M. Yavrumyan, Hrant H. Khachatrian, Anna S. Danielyan, Gor D. Arakelyan. “ArmTDP: Eastern Armenian Treebank and Dependency Parser.” XI International Conference on Armenian Linguistics, Abstracts. Yerevan, 2017.
-* Marat M. Yavrumyan. “Universal Dependencies for Armenian.” International Conference on Digital Armenian, Abstracts. Inalco, Paris, October 3-5, 2019.
-* Yavrumyan, M.M., Danielyan, A.S., “Universal Dependencies and the Armenian Treebank.” Herald of the Social Sciences (2).231-244, 2020. (in Armenian)
+* Marat M. Yavrumyan, “Universal Dependencies for Armenian.” International Conference on Digital Armenian, Abstracts. Inalco, Paris, October 3-5, 2019.
+* Marat M. Yavrumyan, "Tokenization and Word Segmentation in the UD_Armenian-ArmTDP Treebank." Bulletin of Yerevan University B: Philology 10, 3(30): 52-65, 2019. (in Armenian)
+* Marat M. Yavrumyan, Anna S. Danielyan, “Universal Dependencies and the Armenian Treebank.” Herald of the Social Sciences (2): 231-244, 2020. (in Armenian)
+* Anna S. Danielyan, Marat M. Yavrumyan, "Verb Complements in the Eastern Armenian Treebanks UD_Armenian-ArmTDP and UD_Armenian-BSUT." Bulletin of Yerevan University B: Philology 15, 3(45): 139-152, 2024. (in Armenian)
 
 # Data split
 
