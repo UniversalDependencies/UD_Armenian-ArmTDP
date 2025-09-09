@@ -87,6 +87,7 @@ Data available since: UD v2.2
 License: CC BY-SA 4.0
 Documentation status: full
 Includes text: yes
+Parallel: no
 Genre: blog fiction grammar-examples legal news nonfiction  
 Lemmas: manual native
 UPOS: manual native
