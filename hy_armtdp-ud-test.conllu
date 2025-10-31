@@ -10462,7 +10462,7 @@
 14	՝	՝	PUNCT	_	_	16	punct	_	Translit=,|LTranslit=,
 15	ոսկեգույն	ոսկեգույն	ADJ	_	_	16	amod	_	Translit=oskegowyn|LTranslit=oskegowyn
 16	պառավ	պառավ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	13	appos	_	Translit=paṙav|LTranslit=paṙav
-17	մը	մը	DET	_	PronType=Art|Style=Var	16	det	_	Translit=më|LTranslit=më|SpaceAfter=No|Lang=hyw
+17	մը	մը	DET	_	PronType=Art	16	det	_	Translit=më|LTranslit=më|SpaceAfter=No|Lang=hyw
 18	,	,	PUNCT	_	_	20	punct	_	Translit=,|LTranslit=,
 19	աջ	աջ	ADJ	_	_	20	amod	_	Translit=aǰ|LTranslit=aǰ
 20	ձեռքս	ձեռք	NOUN	_	Animacy=Nhum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	conj	_	Translit=jeṙk’s|LTranslit=jeṙk’|SpaceAfter=No
@@ -11488,11 +11488,11 @@
 38	Հանրապետության	հանրապետություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	39	nmod:poss	_	Translit=Hanrapetowt’yan|LTranslit=hanrapetowt’yown
 39	կառավարությունը	կառավարություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	40	nsubj	_	Translit=kaṙavarowt’yownë|LTranslit=kaṙavarowt’yown
 40	ո	որոշել	VERB	_	Aspect=Imp|Subcat=Tran|Typo=Yes|VerbForm=Part|Voice=Act	0	root	_	Translit=o|LTranslit=orošel
-41	ր	ր	X	_	_	40	goeswith	_	Translit=r|LTranslit=r
-42	ո	ո	X	_	_	40	goeswith	_	Translit=o|LTranslit=o
-43	շ	շ	X	_	_	40	goeswith	_	Translit=š|LTranslit=š
-44	ու	ու	X	_	_	40	goeswith	_	Translit=ow|LTranslit=ow
-45	մ	մ	X	_	_	40	goeswith	_	Translit=m|LTranslit=m
+41	ր	ր	X	_	_	40	flat	_	Translit=r|LTranslit=r
+42	ո	ո	X	_	_	40	flat	_	Translit=o|LTranslit=o
+43	շ	շ	X	_	_	40	flat	_	Translit=š|LTranslit=š
+44	ու	ու	X	_	_	40	flat	_	Translit=ow|LTranslit=ow
+45	մ	մ	X	_	_	40	flat	_	Translit=m|LTranslit=m
 46	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	40	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
 47	.	.	PUNCT	_	Foreign=Yes	40	punct	_	Translit=.|LTranslit=.
 
@@ -11780,12 +11780,12 @@
 24	Հանրապետության	հանրապետություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	25	nmod:poss	_	Translit=Hanrapetowt’yan|LTranslit=hanrapetowt’yown
 25	կառավարությունը	կառավարություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	26	nsubj	_	Translit=kaṙavarowt’yownë|LTranslit=kaṙavarowt’yown
 26	ո	որոշել	VERB	_	Aspect=Imp|Subcat=Tran|Typo=Yes|VerbForm=Part|Voice=Act	0	root	_	Translit=o|LTranslit=orošel
-27	ր	ր	X	_	_	26	goeswith	_	Translit=r|LTranslit=r
-28	ո	ո	X	_	_	26	goeswith	_	Translit=o|LTranslit=o
-29	շ	շ	X	_	_	26	goeswith	_	Translit=š|LTranslit=š
-30	ո	ո	X	_	_	26	goeswith	_	Translit=o|LTranslit=o
-31	ւ	ւ	X	_	_	26	goeswith	_	Translit=w|LTranslit=w
-32	մ	մ	X	_	_	26	goeswith	_	Translit=m|LTranslit=m
+27	ր	ր	X	_	_	26	flat	_	Translit=r|LTranslit=r
+28	ո	ո	X	_	_	26	flat	_	Translit=o|LTranslit=o
+29	շ	շ	X	_	_	26	flat	_	Translit=š|LTranslit=š
+30	ո	ո	X	_	_	26	flat	_	Translit=o|LTranslit=o
+31	ւ	ւ	X	_	_	26	flat	_	Translit=w|LTranslit=w
+32	մ	մ	X	_	_	26	flat	_	Translit=m|LTranslit=m
 33	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	26	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
 34	.	.	PUNCT	_	Foreign=Yes	26	punct	_	Translit=.|LTranslit=.
 

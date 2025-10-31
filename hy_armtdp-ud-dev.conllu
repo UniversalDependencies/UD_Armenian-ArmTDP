@@ -9095,11 +9095,11 @@
 36	Հանրապետության	հանրապետություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	37	nmod:poss	_	Translit=Hanrapetowt’yan|LTranslit=hanrapetowt’yown
 37	կառավարությունը	կառավարություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	38	nsubj	_	Translit=kaṙavarowt’yownë|LTranslit=kaṙavarowt’yown
 38	ո	որոշել	VERB	_	Aspect=Imp|Subcat=Tran|Typo=Yes|VerbForm=Part|Voice=Act	0	root	_	Translit=o|LTranslit=orošel
-39	ր	ր	X	_	_	38	goeswith	_	Translit=r|LTranslit=r
-40	ո	ո	X	_	_	38	goeswith	_	Translit=o|LTranslit=o
-41	շ	շ	X	_	_	38	goeswith	_	Translit=š|LTranslit=š
-42	ու	ու	X	_	_	38	goeswith	_	Translit=ow|LTranslit=ow
-43	մ	մ	X	_	_	38	goeswith	_	Translit=m|LTranslit=m
+39	ր	ր	X	_	_	38	flat	_	Translit=r|LTranslit=r
+40	ո	ո	X	_	_	38	flat	_	Translit=o|LTranslit=o
+41	շ	շ	X	_	_	38	flat	_	Translit=š|LTranslit=š
+42	ու	ու	X	_	_	38	flat	_	Translit=ow|LTranslit=ow
+43	մ	մ	X	_	_	38	flat	_	Translit=m|LTranslit=m
 44	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	38	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
 45	.	.	PUNCT	_	Foreign=Yes	38	punct	_	Translit=.|LTranslit=.
 
@@ -9799,12 +9799,12 @@
 66	Հայաստանի	Հայաստան	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	67	nmod:poss	_	Translit=Hayastani|LTranslit=Hayastan
 67	Հանրապետության	հանրապետություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	68	nmod:poss	_	Translit=Hanrapetowt’yan|LTranslit=hanrapetowt’yown
 68	կառավարությունը	կառավարություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	69	nsubj	_	Translit=kaṙavarowt’yownë|LTranslit=kaṙavarowt’yown
-69	ո	որոշում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing|Typo=Yes	0	root	_	Translit=o|LTranslit=orošowm
-70	ր	ր	X	_	_	69	goeswith	_	Translit=r|LTranslit=r
-71	ո	ո	X	_	_	69	goeswith	_	Translit=o|LTranslit=o
-72	շ	շ	X	_	_	69	goeswith	_	Translit=š|LTranslit=š
-73	ու	ու	X	_	_	69	goeswith	_	Translit=ow|LTranslit=ow
-74	մ	մ	X	_	_	69	goeswith	_	Translit=m|LTranslit=m
+69	ո	որոշել	VERB	_	Aspect=Imp|Subcat=Tran|Typo=Yes|VerbForm=Part|Voice=Act	0	root	_	Translit=o|LTranslit=orošel
+70	ր	ր	X	_	_	69	flat	_	Translit=r|LTranslit=r
+71	ո	ո	X	_	_	69	flat	_	Translit=o|LTranslit=o
+72	շ	շ	X	_	_	69	flat	_	Translit=š|LTranslit=š
+73	ու	ու	X	_	_	69	flat	_	Translit=ow|LTranslit=ow
+74	մ	մ	X	_	_	69	flat	_	Translit=m|LTranslit=m
 75	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	69	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
 76	.	.	PUNCT	_	Foreign=Yes	69	punct	_	Translit=.|LTranslit=.
 
@@ -10214,7 +10214,7 @@
 65	կամ	կամ	CCONJ	_	_	66	cc	_	Translit=kam|LTranslit=kam
 66	մրցույթ	մրցույթ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	64	conj	_	Translit=mrc’owyt’|LTranslit=mrc’owyt’
 67	հայտարարելը	հայտարարել	VERB	_	Case=Nom|Definite=Def|Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	55	obl	_	Translit=haytararelë|LTranslit=haytararel|SpaceAfter=No
-68	:	:	PUNCT	_	Foreign=Yes	3	root	_	Translit=.|LTranslit=.
+68	:	:	PUNCT	_	Foreign=Yes	3	punct	_	Translit=.|LTranslit=.
 
 # sent_id = legal-005V-000C0BU9
 # text = Ընդ որում, սույն կետում նշված պահանջը կարող է ներկայացվել նաև աճուրդի կամ մրցույթի արդյունքում տվյալ գույքը չօտարվելու դեպքում՝ մինչև նոր աճուրդ կամ մրցույթ հայտարարելը:
