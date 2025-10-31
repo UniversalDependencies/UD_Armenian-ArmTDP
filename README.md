@@ -24,7 +24,7 @@ The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian
 
 # Data split
 
-Data is split between train/dev/test linearly by hand at 80%/10%/10% to balance in genre and complexity. Some large documents are divided across datasets.
+Data is split between train/dev/test linearly by hand at 80%/10%/10% to balance in genre and complexity. No documents are divided across datasets.
 
 See [stats.xml](https://github.com/UniversalDependencies/UD_Armenian-ArmTDP/blob/dev/stats.xml) for detail.
 
@@ -45,6 +45,13 @@ UD_Armenian-ArmTDP data conforms to [CoNLL-U](http://universaldependencies.org/f
 
 
 # Changelog
+
+* 2025-11-15 **v2.17**
+   * Added new texts: 52K→105K.
+   * Specified `fixed` and introduced `ExtPos`.
+   * Introduced `NameType=Pat` for foreign (mostly Slavic or à la Slavic manner) patronymics.
+   * `det:poss`, `nmod:poss` improved.
+   * Fixed various individual annotation errors and inconsistencies.
 
 * 2023-15-11 **v2.13**
   * Fixed some validation errors.
@@ -88,7 +95,7 @@ License: CC BY-SA 4.0
 Documentation status: full
 Includes text: yes
 Parallel: no
-Genre: blog fiction grammar-examples legal news nonfiction  
+Genre: academic blog fiction government grammar-examples legal medical news nonfiction reviews social
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
@@ -96,7 +103,7 @@ Features: manual native
 Relations: manual native
 Contributors: Yavrumyan, Marat M.
 Contributing: elsewhere
-Contact: myavrum@ysu.am
+Contact: marat.yavrumyan@ysu.am
 ===============================================================================
 Documentation contributors: Yavrumyan, Marat M.; Danielyan, Anna S.
 https://github.com/armtreebank
