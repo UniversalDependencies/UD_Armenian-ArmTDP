@@ -9095,11 +9095,11 @@
 36	Հանրապետության	հանրապետություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	37	nmod:poss	_	Translit=Hanrapetowt’yan|LTranslit=hanrapetowt’yown
 37	կառավարությունը	կառավարություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	38	nsubj	_	Translit=kaṙavarowt’yownë|LTranslit=kaṙavarowt’yown
 38	ո	որոշել	VERB	_	Aspect=Imp|Subcat=Tran|Typo=Yes|VerbForm=Part|Voice=Act	0	root	_	Translit=o|LTranslit=orošel
-39	ր	ր	X	_	_	38	flat	_	Translit=r|LTranslit=r
-40	ո	ո	X	_	_	38	flat	_	Translit=o|LTranslit=o
-41	շ	շ	X	_	_	38	flat	_	Translit=š|LTranslit=š
-42	ու	ու	X	_	_	38	flat	_	Translit=ow|LTranslit=ow
-43	մ	մ	X	_	_	38	flat	_	Translit=m|LTranslit=m
+39	ր	_	X	_	_	38	goeswith	_	Translit=r
+40	ո	_	X	_	_	38	goeswith	_	Translit=o
+41	շ	_	X	_	_	38	goeswith	_	Translit=š
+42	ու	_	X	_	_	38	goeswith	_	Translit=ow
+43	մ	_	X	_	_	38	goeswith	_	Translit=m
 44	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	38	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
 45	.	.	PUNCT	_	Foreign=Yes	38	punct	_	Translit=.|LTranslit=.
 
@@ -9800,11 +9800,11 @@
 67	Հանրապետության	հանրապետություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	68	nmod:poss	_	Translit=Hanrapetowt’yan|LTranslit=hanrapetowt’yown
 68	կառավարությունը	կառավարություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	69	nsubj	_	Translit=kaṙavarowt’yownë|LTranslit=kaṙavarowt’yown
 69	ո	որոշել	VERB	_	Aspect=Imp|Subcat=Tran|Typo=Yes|VerbForm=Part|Voice=Act	0	root	_	Translit=o|LTranslit=orošel
-70	ր	ր	X	_	_	69	flat	_	Translit=r|LTranslit=r
-71	ո	ո	X	_	_	69	flat	_	Translit=o|LTranslit=o
-72	շ	շ	X	_	_	69	flat	_	Translit=š|LTranslit=š
-73	ու	ու	X	_	_	69	flat	_	Translit=ow|LTranslit=ow
-74	մ	մ	X	_	_	69	flat	_	Translit=m|LTranslit=m
+70	ր	_	X	_	_	69	goeswith	_	Translit=r
+71	ո	_	X	_	_	69	goeswith	_	Translit=o
+72	շ	_	X	_	_	69	goeswith	_	Translit=š
+73	ու	_	X	_	_	69	goeswith	_	Translit=ow
+74	մ	_	X	_	_	69	goeswith	_	Translit=m
 75	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	69	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
 76	.	.	PUNCT	_	Foreign=Yes	69	punct	_	Translit=.|LTranslit=.
 
