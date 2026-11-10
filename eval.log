@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Armenian-ArmTDP:
-commit c468f3ed36f04d9a8edd76772d635f31873df0ea
+commit 90fe19c2cc3942c4ab53c08e8aa09770c1177ab3
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed May 6 12:05:17 2026 +0200
+Date:   Wed May 6 12:17:51 2026 +0200
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'hy_armtdp'
 Language code (from CoNLL-U file name) = 'hy'
